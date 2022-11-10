@@ -1,0 +1,1170 @@
+date,admin1,admin2,market,latitude,longitude,category,commodity,unit,priceflag,pricetype,currency,price,usdprice
+#date,#adm1+name,#adm2+name,#loc+market+name,#geo+lat,#geo+lon,#item+type,#item+name,#item+unit,#item+price+flag,#item+price+type,#currency,#value,#value+usd
+2011-04-15,Oosaka,Oosakasi_Tyuuooku,Osaka,34.69,135.5,cereals and tubers,Rice,5 KG,actual,Retail,JPY,2139.0,25.7308
+2011-04-15,Tookyoo,Sinzyukuku,Tokyo,35.69,139.69,cereals and tubers,Rice,5 KG,actual,Retail,JPY,2399.0,28.8584
+2011-05-15,Oosaka,Oosakasi_Tyuuooku,Osaka,34.69,135.5,cereals and tubers,Rice,5 KG,actual,Retail,JPY,2090.0,25.8599
+2011-05-15,Tookyoo,Sinzyukuku,Tokyo,35.69,139.69,cereals and tubers,Rice,5 KG,actual,Retail,JPY,2375.0,29.3863
+2011-05-15,Tookyoo,Sinzyukuku,Tokyo,35.69,139.69,cereals and tubers,"Rice (glutinous, unmilled)",KG,actual,Retail,JPY,590.0,7.3002
+2011-06-15,Oosaka,Oosakasi_Tyuuooku,Osaka,34.69,135.5,cereals and tubers,Rice,5 KG,actual,Retail,JPY,2116.0,26.2173
+2011-06-15,Tookyoo,Sinzyukuku,Tokyo,35.69,139.69,cereals and tubers,Rice,5 KG,actual,Retail,JPY,2432.0,30.1326
+2011-06-15,Tookyoo,Sinzyukuku,Tokyo,35.69,139.69,cereals and tubers,"Rice (glutinous, unmilled)",KG,actual,Retail,JPY,598.0,7.4092
+2011-07-15,Oosaka,Oosakasi_Tyuuooku,Osaka,34.69,135.5,cereals and tubers,Rice,5 KG,actual,Retail,JPY,2066.0,26.142
+2011-07-15,Oosaka,Oosakasi_Tyuuooku,Osaka,34.69,135.5,cereals and tubers,"Rice (glutinous, unmilled)",KG,actual,Retail,JPY,500.0,6.3267
+2011-07-15,Tookyoo,Sinzyukuku,Tokyo,35.69,139.69,cereals and tubers,Rice,5 KG,actual,Retail,JPY,2405.0,30.4315
+2011-08-15,Oosaka,Oosakasi_Tyuuooku,Osaka,34.69,135.5,cereals and tubers,Rice,5 KG,actual,Retail,JPY,2099.0,27.3557
+2011-08-15,Oosaka,Oosakasi_Tyuuooku,Osaka,34.69,135.5,cereals and tubers,"Rice (glutinous, unmilled)",KG,actual,Retail,JPY,508.0,6.6206
+2011-08-15,Tookyoo,Sinzyukuku,Tokyo,35.69,139.69,cereals and tubers,Rice,5 KG,actual,Retail,JPY,2399.0,31.2655
+2011-09-15,Oosaka,Oosakasi_Tyuuooku,Osaka,34.69,135.5,cereals and tubers,Rice,5 KG,actual,Retail,JPY,2066.0,26.9361
+2011-09-15,Tookyoo,Sinzyukuku,Tokyo,35.69,139.69,cereals and tubers,Rice,5 KG,actual,Retail,JPY,2330.0,30.3781
+2011-10-15,Oosaka,Oosakasi_Tyuuooku,Osaka,34.69,135.5,cereals and tubers,Rice,5 KG,actual,Retail,JPY,2258.0,29.1882
+2011-10-15,Tookyoo,Sinzyukuku,Tokyo,35.69,139.69,cereals and tubers,Rice,5 KG,actual,Retail,JPY,2445.0,31.6055
+2011-11-15,Oosaka,Oosakasi_Tyuuooku,Osaka,34.69,135.5,cereals and tubers,Rice,5 KG,actual,Retail,JPY,2241.0,29.1077
+2011-11-15,Tookyoo,Sinzyukuku,Tokyo,35.69,139.69,cereals and tubers,Rice,5 KG,actual,Retail,JPY,2448.0,31.7963
+2011-12-15,Oosaka,Oosakasi_Tyuuooku,Osaka,34.69,135.5,cereals and tubers,Rice,5 KG,actual,Retail,JPY,2299.0,29.5236
+2011-12-15,Oosaka,Oosakasi_Tyuuooku,Osaka,34.69,135.5,cereals and tubers,"Rice (glutinous, unmilled)",KG,actual,Retail,JPY,488.0,6.2669
+2011-12-15,Tookyoo,Sinzyukuku,Tokyo,35.69,139.69,cereals and tubers,Rice,5 KG,actual,Retail,JPY,2493.0,32.0149
+2012-01-15,Oosaka,Oosakasi_Tyuuooku,Osaka,34.69,135.5,cereals and tubers,Rice,5 KG,actual,Retail,JPY,2282.0,29.6749
+2012-01-15,Tookyoo,Sinzyukuku,Tokyo,35.69,139.69,cereals and tubers,Rice,5 KG,actual,Retail,JPY,2545.0,33.0949
+2012-01-15,Tookyoo,Sinzyukuku,Tokyo,35.69,139.69,cereals and tubers,"Rice (glutinous, unmilled)",KG,actual,Retail,JPY,580.0,7.5423
+2012-02-15,Oosaka,Oosakasi_Tyuuooku,Osaka,34.69,135.5,cereals and tubers,Rice,5 KG,actual,Retail,JPY,2265.0,28.9568
+2012-02-15,Tookyoo,Sinzyukuku,Tokyo,35.69,139.69,cereals and tubers,Rice,5 KG,actual,Retail,JPY,2585.0,33.0478
+2012-03-15,Oosaka,Oosakasi_Tyuuooku,Osaka,34.69,135.5,cereals and tubers,Rice,5 KG,actual,Retail,JPY,2267.0,27.2214
+2012-03-15,Oosaka,Oosakasi_Tyuuooku,Osaka,34.69,135.5,cereals and tubers,"Rice (glutinous, unmilled)",KG,actual,Retail,JPY,531.0,6.3761
+2012-03-15,Tookyoo,Sinzyukuku,Tokyo,35.69,139.69,cereals and tubers,Rice,5 KG,actual,Retail,JPY,2576.0,30.9318
+2012-04-15,Oosaka,Oosakasi_Tyuuooku,Osaka,34.69,135.5,cereals and tubers,Rice,5 KG,actual,Retail,JPY,2300.0,28.5856
+2012-04-15,Oosaka,Oosakasi_Tyuuooku,Osaka,34.69,135.5,cereals and tubers,"Rice (glutinous, unmilled)",KG,actual,Retail,JPY,534.0,6.6368
+2012-04-15,Tookyoo,Sinzyukuku,Tokyo,35.69,139.69,cereals and tubers,Rice,5 KG,actual,Retail,JPY,2592.0,32.2148
+2012-05-15,Oosaka,Oosakasi_Tyuuooku,Osaka,34.69,135.5,cereals and tubers,Rice,5 KG,actual,Retail,JPY,2308.0,28.8176
+2012-05-15,Tookyoo,Sinzyukuku,Tokyo,35.69,139.69,cereals and tubers,Rice,5 KG,actual,Retail,JPY,2559.0,31.9516
+2012-06-15,Oosaka,Oosakasi_Tyuuooku,Osaka,34.69,135.5,cereals and tubers,Rice,5 KG,actual,Retail,JPY,2348.0,29.8538
+2012-06-15,Tookyoo,Sinzyukuku,Tokyo,35.69,139.69,cereals and tubers,Rice,5 KG,actual,Retail,JPY,2568.0,32.651
+2012-07-15,Oosaka,Oosakasi_Tyuuooku,Osaka,34.69,135.5,cereals and tubers,Rice,5 KG,actual,Retail,JPY,2374.0,30.1269
+2012-07-15,Tookyoo,Sinzyukuku,Tokyo,35.69,139.69,cereals and tubers,Rice,5 KG,actual,Retail,JPY,2583.0,32.7792
+2012-08-15,Oosaka,Oosakasi_Tyuuooku,Osaka,34.69,135.5,cereals and tubers,Rice,5 KG,actual,Retail,JPY,2390.0,30.2953
+2012-08-15,Oosaka,Oosakasi_Tyuuooku,Osaka,34.69,135.5,cereals and tubers,"Rice (glutinous, unmilled)",KG,actual,Retail,JPY,527.0,6.6802
+2012-08-15,Tookyoo,Sinzyukuku,Tokyo,35.69,139.69,cereals and tubers,Rice,5 KG,actual,Retail,JPY,2557.0,32.4122
+2012-09-15,Oosaka,Oosakasi_Tyuuooku,Osaka,34.69,135.5,cereals and tubers,Rice,5 KG,actual,Retail,JPY,2383.0,30.4654
+2012-09-15,Oosaka,Oosakasi_Tyuuooku,Osaka,34.69,135.5,cereals and tubers,"Rice (glutinous, unmilled)",KG,actual,Retail,JPY,536.0,6.8525
+2012-09-15,Tookyoo,Sinzyukuku,Tokyo,35.69,139.69,cereals and tubers,Rice,5 KG,actual,Retail,JPY,2550.0,32.6004
+2012-10-15,Oosaka,Oosakasi_Tyuuooku,Osaka,34.69,135.5,cereals and tubers,Rice,5 KG,actual,Retail,JPY,2447.0,31.0691
+2012-10-15,Tookyoo,Sinzyukuku,Tokyo,35.69,139.69,cereals and tubers,Rice,5 KG,actual,Retail,JPY,2604.0,33.0625
+2012-11-15,Oosaka,Oosakasi_Tyuuooku,Osaka,34.69,135.5,cereals and tubers,Rice,5 KG,actual,Retail,JPY,2456.0,30.2612
+2012-11-15,Tookyoo,Sinzyukuku,Tokyo,35.69,139.69,cereals and tubers,Rice,5 KG,actual,Retail,JPY,2609.0,32.1464
+2012-12-15,Oosaka,Oosakasi_Tyuuooku,Osaka,34.69,135.5,cereals and tubers,Rice,5 KG,actual,Retail,JPY,2433.0,29.1307
+2012-12-15,Tookyoo,Sinzyukuku,Tokyo,35.69,139.69,cereals and tubers,Rice,5 KG,actual,Retail,JPY,2600.0,31.1303
+2012-12-15,Tookyoo,Sinzyukuku,Tokyo,35.69,139.69,cereals and tubers,"Rice (glutinous, unmilled)",KG,actual,Retail,JPY,585.0,7.0043
+2013-01-15,Oosaka,Oosakasi_Tyuuooku,Osaka,34.69,135.5,cereals and tubers,Rice,5 KG,actual,Retail,JPY,2417.0,27.2645
+2013-01-15,Tookyoo,Sinzyukuku,Tokyo,35.69,139.69,cereals and tubers,Rice,5 KG,actual,Retail,JPY,2608.0,29.4191
+2013-01-15,Tookyoo,Sinzyukuku,Tokyo,35.69,139.69,cereals and tubers,"Rice (glutinous, unmilled)",KG,actual,Retail,JPY,580.0,6.5426
+2013-02-15,Oosaka,Oosakasi_Tyuuooku,Osaka,34.69,135.5,cereals and tubers,Rice,5 KG,actual,Retail,JPY,2417.0,25.8116
+2013-02-15,Tookyoo,Sinzyukuku,Tokyo,35.69,139.69,cereals and tubers,Rice,5 KG,actual,Retail,JPY,2585.0,27.6057
+2013-03-15,Oosaka,Oosakasi_Tyuuooku,Osaka,34.69,135.5,cereals and tubers,Rice,5 KG,actual,Retail,JPY,2415.0,25.3517
+2013-03-15,Tookyoo,Sinzyukuku,Tokyo,35.69,139.69,cereals and tubers,Rice,5 KG,actual,Retail,JPY,2627.0,27.5772
+2013-04-15,Oosaka,Oosakasi_Tyuuooku,Osaka,34.69,135.5,cereals and tubers,Rice,5 KG,actual,Retail,JPY,2415.0,24.6429
+2013-04-15,Tookyoo,Sinzyukuku,Tokyo,35.69,139.69,cereals and tubers,Rice,5 KG,actual,Retail,JPY,2573.0,26.2551
+2013-05-15,Oosaka,Oosakasi_Tyuuooku,Osaka,34.69,135.5,cereals and tubers,Rice,5 KG,actual,Retail,JPY,2390.0,23.3307
+2013-05-15,Tookyoo,Sinzyukuku,Tokyo,35.69,139.69,cereals and tubers,Rice,5 KG,actual,Retail,JPY,2593.0,25.3124
+2013-06-15,Oosaka,Oosakasi_Tyuuooku,Osaka,34.69,135.5,cereals and tubers,Rice,5 KG,actual,Retail,JPY,2390.0,25.3339
+2013-06-15,Tookyoo,Sinzyukuku,Tokyo,35.69,139.69,cereals and tubers,Rice,5 KG,actual,Retail,JPY,2559.0,27.1253
+2013-06-15,Tookyoo,Sinzyukuku,Tokyo,35.69,139.69,cereals and tubers,"Rice (glutinous, unmilled)",KG,actual,Retail,JPY,595.0,6.307
+2013-07-15,Oosaka,Oosakasi_Tyuuooku,Osaka,34.69,135.5,cereals and tubers,Rice,5 KG,actual,Retail,JPY,2382.0,23.8105
+2013-07-15,Oosaka,Oosakasi_Tyuuooku,Osaka,34.69,135.5,cereals and tubers,"Rice (glutinous, unmilled)",KG,actual,Retail,JPY,548.0,5.4778
+2013-07-15,Tookyoo,Sinzyukuku,Tokyo,35.69,139.69,cereals and tubers,Rice,5 KG,actual,Retail,JPY,2566.0,25.6497
+2013-08-15,Oosaka,Oosakasi_Tyuuooku,Osaka,34.69,135.5,cereals and tubers,Rice,5 KG,actual,Retail,JPY,2390.0,24.4351
+2013-08-15,Oosaka,Oosakasi_Tyuuooku,Osaka,34.69,135.5,cereals and tubers,"Rice (glutinous, unmilled)",KG,actual,Retail,JPY,525.0,5.3675
+2013-08-15,Tookyoo,Sinzyukuku,Tokyo,35.69,139.69,cereals and tubers,Rice,5 KG,actual,Retail,JPY,2530.0,25.8665
+2013-09-15,Oosaka,Oosakasi_Tyuuooku,Osaka,34.69,135.5,cereals and tubers,Rice,5 KG,actual,Retail,JPY,2365.0,23.8937
+2013-09-15,Oosaka,Oosakasi_Tyuuooku,Osaka,34.69,135.5,cereals and tubers,"Rice (glutinous, unmilled)",KG,actual,Retail,JPY,539.0,5.4455
+2013-09-15,Tookyoo,Sinzyukuku,Tokyo,35.69,139.69,cereals and tubers,Rice,5 KG,actual,Retail,JPY,2609.0,26.3589
+2013-10-15,Oosaka,Oosakasi_Tyuuooku,Osaka,34.69,135.5,cereals and tubers,Rice,5 KG,actual,Retail,JPY,2340.0,23.7371
+2013-10-15,Tookyoo,Sinzyukuku,Tokyo,35.69,139.69,cereals and tubers,Rice,5 KG,actual,Retail,JPY,2532.0,25.6847
+2013-11-15,Oosaka,Oosakasi_Tyuuooku,Osaka,34.69,135.5,cereals and tubers,Rice,5 KG,actual,Retail,JPY,2315.0,23.1107
+2013-11-15,Tookyoo,Sinzyukuku,Tokyo,35.69,139.69,cereals and tubers,Rice,5 KG,actual,Retail,JPY,2532.0,25.277
+2013-12-15,Oosaka,Oosakasi_Tyuuooku,Osaka,34.69,135.5,cereals and tubers,Rice,5 KG,actual,Retail,JPY,2282.0,22.1747
+2013-12-15,Tookyoo,Sinzyukuku,Tokyo,35.69,139.69,cereals and tubers,Rice,5 KG,actual,Retail,JPY,2496.0,24.2542
+2013-12-15,Tookyoo,Sinzyukuku,Tokyo,35.69,139.69,cereals and tubers,"Rice (glutinous, unmilled)",KG,actual,Retail,JPY,572.0,5.5583
+2014-01-15,Oosaka,Oosakasi_Tyuuooku,Osaka,34.69,135.5,cereals and tubers,Rice,5 KG,actual,Retail,JPY,2283.0,21.8636
+2014-01-15,Tookyoo,Sinzyukuku,Tokyo,35.69,139.69,cereals and tubers,Rice,5 KG,actual,Retail,JPY,2466.0,23.6162
+2014-01-15,Tookyoo,Sinzyukuku,Tokyo,35.69,139.69,cereals and tubers,"Rice (glutinous, unmilled)",KG,actual,Retail,JPY,563.0,5.3917
+2014-02-15,Oosaka,Oosakasi_Tyuuooku,Osaka,34.69,135.5,cereals and tubers,Rice,5 KG,actual,Retail,JPY,2283.0,22.4219
+2014-02-15,Tookyoo,Sinzyukuku,Tokyo,35.69,139.69,cereals and tubers,Rice,5 KG,actual,Retail,JPY,2440.0,23.9639
+2014-03-15,Oosaka,Oosakasi_Tyuuooku,Osaka,34.69,135.5,cereals and tubers,Potatoes,KG,actual,Retail,JPY,319.0,3.1441
+2014-03-15,Oosaka,Oosakasi_Tyuuooku,Osaka,34.69,135.5,cereals and tubers,Rice,5 KG,actual,Retail,JPY,2241.0,22.0875
+2014-03-15,Oosaka,Oosakasi_Tyuuooku,Osaka,34.69,135.5,cereals and tubers,Wheat flour,KG,actual,Retail,JPY,236.0,2.326
+2014-03-15,Oosaka,Oosakasi_Tyuuooku,Osaka,34.69,135.5,milk and dairy,Milk,L,actual,Retail,JPY,221.0,2.1782
+2014-03-15,Oosaka,Oosakasi_Tyuuooku,Osaka,34.69,135.5,miscellaneous food,Sugar,KG,actual,Retail,JPY,183.0,1.8037
+2014-03-15,Oosaka,Oosakasi_Tyuuooku,Osaka,34.69,135.5,vegetables and fruits,Cabbage,KG,actual,Retail,JPY,184.0,1.8135
+2014-03-15,Tookyoo,Sinzyukuku,Tokyo,35.69,139.69,cereals and tubers,Potatoes,KG,actual,Retail,JPY,318.0,3.1342
+2014-03-15,Tookyoo,Sinzyukuku,Tokyo,35.69,139.69,cereals and tubers,Rice,5 KG,actual,Retail,JPY,2422.0,23.8715
+2014-03-15,Tookyoo,Sinzyukuku,Tokyo,35.69,139.69,cereals and tubers,Wheat flour,KG,actual,Retail,JPY,232.0,2.2866
+2014-03-15,Tookyoo,Sinzyukuku,Tokyo,35.69,139.69,milk and dairy,Milk,L,actual,Retail,JPY,213.0,2.0993
+2014-03-15,Tookyoo,Sinzyukuku,Tokyo,35.69,139.69,miscellaneous food,Sugar,KG,actual,Retail,JPY,196.0,1.9318
+2014-03-15,Tookyoo,Sinzyukuku,Tokyo,35.69,139.69,vegetables and fruits,Cabbage,KG,actual,Retail,JPY,200.0,1.9712
+2014-03-15,Tookyoo,Sinzyukuku,Tokyo,35.69,139.69,vegetables and fruits,Radish,KG,actual,Retail,JPY,149.0,1.4686
+2014-04-15,Oosaka,Oosakasi_Tyuuooku,Osaka,34.69,135.5,cereals and tubers,Potatoes,KG,actual,Retail,JPY,319.0,3.1398
+2014-04-15,Oosaka,Oosakasi_Tyuuooku,Osaka,34.69,135.5,cereals and tubers,Rice,5 KG,actual,Retail,JPY,2314.0,22.7756
+2014-04-15,Oosaka,Oosakasi_Tyuuooku,Osaka,34.69,135.5,cereals and tubers,Wheat flour,KG,actual,Retail,JPY,226.0,2.2244
+2014-04-15,Oosaka,Oosakasi_Tyuuooku,Osaka,34.69,135.5,milk and dairy,Milk,L,actual,Retail,JPY,226.0,2.2244
+2014-04-15,Oosaka,Oosakasi_Tyuuooku,Osaka,34.69,135.5,miscellaneous food,Sugar,KG,actual,Retail,JPY,200.0,1.9685
+2014-04-15,Oosaka,Oosakasi_Tyuuooku,Osaka,34.69,135.5,vegetables and fruits,Cabbage,KG,actual,Retail,JPY,185.0,1.8209
+2014-04-15,Oosaka,Oosakasi_Tyuuooku,Osaka,34.69,135.5,vegetables and fruits,Radish,KG,actual,Retail,JPY,167.0,1.6437
+2014-04-15,Tookyoo,Sinzyukuku,Tokyo,35.69,139.69,cereals and tubers,Potatoes,KG,actual,Retail,JPY,326.0,3.2087
+2014-04-15,Tookyoo,Sinzyukuku,Tokyo,35.69,139.69,cereals and tubers,Rice,5 KG,actual,Retail,JPY,2474.0,24.3504
+2014-04-15,Tookyoo,Sinzyukuku,Tokyo,35.69,139.69,cereals and tubers,Wheat flour,KG,actual,Retail,JPY,239.0,2.3524
+2014-04-15,Tookyoo,Sinzyukuku,Tokyo,35.69,139.69,milk and dairy,Milk,L,actual,Retail,JPY,221.0,2.1752
+2014-04-15,Tookyoo,Sinzyukuku,Tokyo,35.69,139.69,miscellaneous food,Sugar,KG,actual,Retail,JPY,208.0,2.0472
+2014-04-15,Tookyoo,Sinzyukuku,Tokyo,35.69,139.69,vegetables and fruits,Cabbage,KG,actual,Retail,JPY,206.0,2.0276
+2014-04-15,Tookyoo,Sinzyukuku,Tokyo,35.69,139.69,vegetables and fruits,Radish,KG,actual,Retail,JPY,139.0,1.3681
+2014-05-15,Oosaka,Oosakasi_Tyuuooku,Osaka,34.69,135.5,cereals and tubers,Potatoes,KG,actual,Retail,JPY,343.0,3.3813
+2014-05-15,Oosaka,Oosakasi_Tyuuooku,Osaka,34.69,135.5,cereals and tubers,Rice,5 KG,actual,Retail,JPY,2327.0,22.9397
+2014-05-15,Oosaka,Oosakasi_Tyuuooku,Osaka,34.69,135.5,cereals and tubers,Wheat flour,KG,actual,Retail,JPY,234.0,2.3068
+2014-05-15,Oosaka,Oosakasi_Tyuuooku,Osaka,34.69,135.5,milk and dairy,Milk,L,actual,Retail,JPY,224.0,2.2082
+2014-05-15,Oosaka,Oosakasi_Tyuuooku,Osaka,34.69,135.5,miscellaneous food,Sugar,KG,actual,Retail,JPY,199.0,1.9618
+2014-05-15,Oosaka,Oosakasi_Tyuuooku,Osaka,34.69,135.5,vegetables and fruits,Cabbage,KG,actual,Retail,JPY,178.0,1.7547
+2014-05-15,Oosaka,Oosakasi_Tyuuooku,Osaka,34.69,135.5,vegetables and fruits,Radish,KG,actual,Retail,JPY,163.0,1.6069
+2014-05-15,Tookyoo,Sinzyukuku,Tokyo,35.69,139.69,cereals and tubers,Potatoes,KG,actual,Retail,JPY,326.0,3.2137
+2014-05-15,Tookyoo,Sinzyukuku,Tokyo,35.69,139.69,cereals and tubers,Rice,5 KG,actual,Retail,JPY,2498.0,24.6254
+2014-05-15,Tookyoo,Sinzyukuku,Tokyo,35.69,139.69,cereals and tubers,"Rice (glutinous, unmilled)",KG,actual,Retail,JPY,591.0,5.8261
+2014-05-15,Tookyoo,Sinzyukuku,Tokyo,35.69,139.69,cereals and tubers,Wheat flour,KG,actual,Retail,JPY,238.0,2.3462
+2014-05-15,Tookyoo,Sinzyukuku,Tokyo,35.69,139.69,milk and dairy,Milk,L,actual,Retail,JPY,220.0,2.1688
+2014-05-15,Tookyoo,Sinzyukuku,Tokyo,35.69,139.69,miscellaneous food,Sugar,KG,actual,Retail,JPY,206.0,2.0308
+2014-05-15,Tookyoo,Sinzyukuku,Tokyo,35.69,139.69,vegetables and fruits,Cabbage,KG,actual,Retail,JPY,175.0,1.7252
+2014-05-15,Tookyoo,Sinzyukuku,Tokyo,35.69,139.69,vegetables and fruits,Radish,KG,actual,Retail,JPY,150.0,1.4787
+2014-06-15,Oosaka,Oosakasi_Tyuuooku,Osaka,34.69,135.5,cereals and tubers,Potatoes,KG,actual,Retail,JPY,325.0,3.1919
+2014-06-15,Oosaka,Oosakasi_Tyuuooku,Osaka,34.69,135.5,cereals and tubers,Rice,5 KG,actual,Retail,JPY,2273.0,22.3237
+2014-06-15,Oosaka,Oosakasi_Tyuuooku,Osaka,34.69,135.5,cereals and tubers,Wheat flour,KG,actual,Retail,JPY,224.0,2.2
+2014-06-15,Oosaka,Oosakasi_Tyuuooku,Osaka,34.69,135.5,milk and dairy,Milk,L,actual,Retail,JPY,220.0,2.1607
+2014-06-15,Oosaka,Oosakasi_Tyuuooku,Osaka,34.69,135.5,miscellaneous food,Sugar,KG,actual,Retail,JPY,194.0,1.9053
+2014-06-15,Oosaka,Oosakasi_Tyuuooku,Osaka,34.69,135.5,vegetables and fruits,Cabbage,KG,actual,Retail,JPY,149.0,1.4634
+2014-06-15,Oosaka,Oosakasi_Tyuuooku,Osaka,34.69,135.5,vegetables and fruits,Radish,KG,actual,Retail,JPY,169.0,1.6598
+2014-06-15,Tookyoo,Sinzyukuku,Tokyo,35.69,139.69,cereals and tubers,Potatoes,KG,actual,Retail,JPY,339.0,3.3294
+2014-06-15,Tookyoo,Sinzyukuku,Tokyo,35.69,139.69,cereals and tubers,Rice,5 KG,actual,Retail,JPY,2481.0,24.3665
+2014-06-15,Tookyoo,Sinzyukuku,Tokyo,35.69,139.69,cereals and tubers,"Rice (glutinous, unmilled)",KG,actual,Retail,JPY,598.0,5.8731
+2014-06-15,Tookyoo,Sinzyukuku,Tokyo,35.69,139.69,cereals and tubers,Wheat flour,KG,actual,Retail,JPY,239.0,2.3473
+2014-06-15,Tookyoo,Sinzyukuku,Tokyo,35.69,139.69,milk and dairy,Milk,L,actual,Retail,JPY,221.0,2.1705
+2014-06-15,Tookyoo,Sinzyukuku,Tokyo,35.69,139.69,miscellaneous food,Sugar,KG,actual,Retail,JPY,204.0,2.0035
+2014-06-15,Tookyoo,Sinzyukuku,Tokyo,35.69,139.69,vegetables and fruits,Cabbage,KG,actual,Retail,JPY,147.0,1.4437
+2014-06-15,Tookyoo,Sinzyukuku,Tokyo,35.69,139.69,vegetables and fruits,Radish,KG,actual,Retail,JPY,145.0,1.4241
+2014-07-15,Oosaka,Oosakasi_Tyuuooku,Osaka,34.69,135.5,cereals and tubers,Potatoes,KG,actual,Retail,JPY,351.0,3.454
+2014-07-15,Oosaka,Oosakasi_Tyuuooku,Osaka,34.69,135.5,cereals and tubers,Rice,5 KG,actual,Retail,JPY,2244.0,22.0823
+2014-07-15,Oosaka,Oosakasi_Tyuuooku,Osaka,34.69,135.5,cereals and tubers,"Rice (glutinous, unmilled)",KG,actual,Retail,JPY,562.0,5.5304
+2014-07-15,Oosaka,Oosakasi_Tyuuooku,Osaka,34.69,135.5,cereals and tubers,Wheat flour,KG,actual,Retail,JPY,224.0,2.2043
+2014-07-15,Oosaka,Oosakasi_Tyuuooku,Osaka,34.69,135.5,milk and dairy,Milk,L,actual,Retail,JPY,223.0,2.1944
+2014-07-15,Oosaka,Oosakasi_Tyuuooku,Osaka,34.69,135.5,miscellaneous food,Sugar,KG,actual,Retail,JPY,190.0,1.8697
+2014-07-15,Oosaka,Oosakasi_Tyuuooku,Osaka,34.69,135.5,vegetables and fruits,Cabbage,KG,actual,Retail,JPY,163.0,1.604
+2014-07-15,Tookyoo,Sinzyukuku,Tokyo,35.69,139.69,cereals and tubers,Potatoes,KG,actual,Retail,JPY,330.0,3.2474
+2014-07-15,Tookyoo,Sinzyukuku,Tokyo,35.69,139.69,cereals and tubers,Rice,5 KG,actual,Retail,JPY,2473.0,24.3358
+2014-07-15,Tookyoo,Sinzyukuku,Tokyo,35.69,139.69,cereals and tubers,Wheat flour,KG,actual,Retail,JPY,236.0,2.3224
+2014-07-15,Tookyoo,Sinzyukuku,Tokyo,35.69,139.69,milk and dairy,Milk,L,actual,Retail,JPY,217.0,2.1354
+2014-07-15,Tookyoo,Sinzyukuku,Tokyo,35.69,139.69,miscellaneous food,Sugar,KG,actual,Retail,JPY,205.0,2.0173
+2014-07-15,Tookyoo,Sinzyukuku,Tokyo,35.69,139.69,vegetables and fruits,Cabbage,KG,actual,Retail,JPY,171.0,1.6827
+2014-07-15,Tookyoo,Sinzyukuku,Tokyo,35.69,139.69,vegetables and fruits,Radish,KG,actual,Retail,JPY,155.0,1.5253
+2014-08-15,Oosaka,Oosakasi_Tyuuooku,Osaka,34.69,135.5,cereals and tubers,Potatoes,KG,actual,Retail,JPY,362.0,3.5424
+2014-08-15,Oosaka,Oosakasi_Tyuuooku,Osaka,34.69,135.5,cereals and tubers,Rice,5 KG,actual,Retail,JPY,2235.0,21.871
+2014-08-15,Oosaka,Oosakasi_Tyuuooku,Osaka,34.69,135.5,cereals and tubers,"Rice (glutinous, unmilled)",KG,actual,Retail,JPY,547.0,5.3528
+2014-08-15,Oosaka,Oosakasi_Tyuuooku,Osaka,34.69,135.5,cereals and tubers,Wheat flour,KG,actual,Retail,JPY,237.0,2.3192
+2014-08-15,Oosaka,Oosakasi_Tyuuooku,Osaka,34.69,135.5,milk and dairy,Milk,L,actual,Retail,JPY,223.0,2.1822
+2014-08-15,Oosaka,Oosakasi_Tyuuooku,Osaka,34.69,135.5,miscellaneous food,Sugar,KG,actual,Retail,JPY,196.0,1.918
+2014-08-15,Oosaka,Oosakasi_Tyuuooku,Osaka,34.69,135.5,vegetables and fruits,Cabbage,KG,actual,Retail,JPY,161.0,1.5755
+2014-08-15,Tookyoo,Sinzyukuku,Tokyo,35.69,139.69,cereals and tubers,Potatoes,KG,actual,Retail,JPY,326.0,3.1901
+2014-08-15,Tookyoo,Sinzyukuku,Tokyo,35.69,139.69,cereals and tubers,Rice,5 KG,actual,Retail,JPY,2421.0,23.6912
+2014-08-15,Tookyoo,Sinzyukuku,Tokyo,35.69,139.69,cereals and tubers,Wheat flour,KG,actual,Retail,JPY,236.0,2.3094
+2014-08-15,Tookyoo,Sinzyukuku,Tokyo,35.69,139.69,milk and dairy,Milk,L,actual,Retail,JPY,219.0,2.1431
+2014-08-15,Tookyoo,Sinzyukuku,Tokyo,35.69,139.69,miscellaneous food,Sugar,KG,actual,Retail,JPY,204.0,1.9963
+2014-08-15,Tookyoo,Sinzyukuku,Tokyo,35.69,139.69,vegetables and fruits,Cabbage,KG,actual,Retail,JPY,151.0,1.4776
+2014-08-15,Tookyoo,Sinzyukuku,Tokyo,35.69,139.69,vegetables and fruits,Radish,KG,actual,Retail,JPY,173.0,1.6929
+2014-09-15,Oosaka,Oosakasi_Tyuuooku,Osaka,34.69,135.5,cereals and tubers,Potatoes,KG,actual,Retail,JPY,333.0,3.1069
+2014-09-15,Oosaka,Oosakasi_Tyuuooku,Osaka,34.69,135.5,cereals and tubers,Rice,5 KG,actual,Retail,JPY,2176.0,20.3023
+2014-09-15,Oosaka,Oosakasi_Tyuuooku,Osaka,34.69,135.5,cereals and tubers,Wheat flour,KG,actual,Retail,JPY,240.0,2.2392
+2014-09-15,Oosaka,Oosakasi_Tyuuooku,Osaka,34.69,135.5,milk and dairy,Milk,L,actual,Retail,JPY,224.0,2.0899
+2014-09-15,Oosaka,Oosakasi_Tyuuooku,Osaka,34.69,135.5,miscellaneous food,Sugar,KG,actual,Retail,JPY,191.0,1.782
+2014-09-15,Oosaka,Oosakasi_Tyuuooku,Osaka,34.69,135.5,vegetables and fruits,Cabbage,KG,actual,Retail,JPY,230.0,2.1459
+2014-09-15,Tookyoo,Sinzyukuku,Tokyo,35.69,139.69,cereals and tubers,Potatoes,KG,actual,Retail,JPY,339.0,3.1629
+2014-09-15,Tookyoo,Sinzyukuku,Tokyo,35.69,139.69,cereals and tubers,Rice,5 KG,actual,Retail,JPY,2496.0,23.2879
+2014-09-15,Tookyoo,Sinzyukuku,Tokyo,35.69,139.69,cereals and tubers,Wheat flour,KG,actual,Retail,JPY,233.0,2.1739
+2014-09-15,Tookyoo,Sinzyukuku,Tokyo,35.69,139.69,milk and dairy,Milk,L,actual,Retail,JPY,217.0,2.0246
+2014-09-15,Tookyoo,Sinzyukuku,Tokyo,35.69,139.69,miscellaneous food,Sugar,KG,actual,Retail,JPY,201.0,1.8753
+2014-09-15,Tookyoo,Sinzyukuku,Tokyo,35.69,139.69,vegetables and fruits,Cabbage,KG,actual,Retail,JPY,228.0,2.1273
+2014-09-15,Tookyoo,Sinzyukuku,Tokyo,35.69,139.69,vegetables and fruits,Radish,KG,actual,Retail,JPY,215.0,2.006
+2014-10-15,Oosaka,Oosakasi_Tyuuooku,Osaka,34.69,135.5,cereals and tubers,Potatoes,KG,actual,Retail,JPY,319.0,3.0077
+2014-10-15,Oosaka,Oosakasi_Tyuuooku,Osaka,34.69,135.5,cereals and tubers,Rice,5 KG,actual,Retail,JPY,2129.0,20.0735
+2014-10-15,Oosaka,Oosakasi_Tyuuooku,Osaka,34.69,135.5,cereals and tubers,Wheat flour,KG,actual,Retail,JPY,240.0,2.2629
+2014-10-15,Oosaka,Oosakasi_Tyuuooku,Osaka,34.69,135.5,milk and dairy,Milk,L,actual,Retail,JPY,220.0,2.0743
+2014-10-15,Oosaka,Oosakasi_Tyuuooku,Osaka,34.69,135.5,miscellaneous food,Sugar,KG,actual,Retail,JPY,190.0,1.7914
+2014-10-15,Oosaka,Oosakasi_Tyuuooku,Osaka,34.69,135.5,vegetables and fruits,Cabbage,KG,actual,Retail,JPY,251.0,2.3666
+2014-10-15,Oosaka,Oosakasi_Tyuuooku,Osaka,34.69,135.5,vegetables and fruits,Radish,KG,actual,Retail,JPY,165.0,1.5557
+2014-10-15,Tookyoo,Sinzyukuku,Tokyo,35.69,139.69,cereals and tubers,Potatoes,KG,actual,Retail,JPY,321.0,3.0266
+2014-10-15,Tookyoo,Sinzyukuku,Tokyo,35.69,139.69,cereals and tubers,Rice,5 KG,actual,Retail,JPY,2357.0,22.2233
+2014-10-15,Tookyoo,Sinzyukuku,Tokyo,35.69,139.69,cereals and tubers,Wheat flour,KG,actual,Retail,JPY,236.0,2.2252
+2014-10-15,Tookyoo,Sinzyukuku,Tokyo,35.69,139.69,milk and dairy,Milk,L,actual,Retail,JPY,217.0,2.046
+2014-10-15,Tookyoo,Sinzyukuku,Tokyo,35.69,139.69,miscellaneous food,Sugar,KG,actual,Retail,JPY,205.0,1.9329
+2014-10-15,Tookyoo,Sinzyukuku,Tokyo,35.69,139.69,vegetables and fruits,Cabbage,KG,actual,Retail,JPY,209.0,1.9706
+2014-10-15,Tookyoo,Sinzyukuku,Tokyo,35.69,139.69,vegetables and fruits,Radish,KG,actual,Retail,JPY,164.0,1.5463
+2014-11-15,Oosaka,Oosakasi_Tyuuooku,Osaka,34.69,135.5,cereals and tubers,Potatoes,KG,actual,Retail,JPY,308.0,2.6433
+2014-11-15,Oosaka,Oosakasi_Tyuuooku,Osaka,34.69,135.5,cereals and tubers,Rice,5 KG,actual,Retail,JPY,2046.0,17.5592
+2014-11-15,Oosaka,Oosakasi_Tyuuooku,Osaka,34.69,135.5,cereals and tubers,Wheat flour,KG,actual,Retail,JPY,238.0,2.0426
+2014-11-15,Oosaka,Oosakasi_Tyuuooku,Osaka,34.69,135.5,milk and dairy,Milk,L,actual,Retail,JPY,224.0,1.9224
+2014-11-15,Oosaka,Oosakasi_Tyuuooku,Osaka,34.69,135.5,miscellaneous food,Sugar,KG,actual,Retail,JPY,189.0,1.622
+2014-11-15,Oosaka,Oosakasi_Tyuuooku,Osaka,34.69,135.5,vegetables and fruits,Cabbage,KG,actual,Retail,JPY,149.0,1.2788
+2014-11-15,Oosaka,Oosakasi_Tyuuooku,Osaka,34.69,135.5,vegetables and fruits,Radish,KG,actual,Retail,JPY,147.0,1.2616
+2014-11-15,Tookyoo,Sinzyukuku,Tokyo,35.69,139.69,cereals and tubers,Potatoes,KG,actual,Retail,JPY,313.0,2.6862
+2014-11-15,Tookyoo,Sinzyukuku,Tokyo,35.69,139.69,cereals and tubers,Rice,5 KG,actual,Retail,JPY,2304.0,19.7734
+2014-11-15,Tookyoo,Sinzyukuku,Tokyo,35.69,139.69,cereals and tubers,Wheat flour,KG,actual,Retail,JPY,237.0,2.034
+2014-11-15,Tookyoo,Sinzyukuku,Tokyo,35.69,139.69,milk and dairy,Milk,L,actual,Retail,JPY,217.0,1.8623
+2014-11-15,Tookyoo,Sinzyukuku,Tokyo,35.69,139.69,miscellaneous food,Sugar,KG,actual,Retail,JPY,202.0,1.7336
+2014-11-15,Tookyoo,Sinzyukuku,Tokyo,35.69,139.69,vegetables and fruits,Cabbage,KG,actual,Retail,JPY,122.0,1.047
+2014-11-15,Tookyoo,Sinzyukuku,Tokyo,35.69,139.69,vegetables and fruits,Radish,KG,actual,Retail,JPY,117.0,1.0041
+2014-12-15,Oosaka,Oosakasi_Tyuuooku,Osaka,34.69,135.5,cereals and tubers,Potatoes,KG,actual,Retail,JPY,302.0,2.5648
+2014-12-15,Oosaka,Oosakasi_Tyuuooku,Osaka,34.69,135.5,cereals and tubers,Rice,5 KG,actual,Retail,JPY,2016.0,17.121
+2014-12-15,Oosaka,Oosakasi_Tyuuooku,Osaka,34.69,135.5,cereals and tubers,Wheat flour,KG,actual,Retail,JPY,242.0,2.0552
+2014-12-15,Oosaka,Oosakasi_Tyuuooku,Osaka,34.69,135.5,milk and dairy,Milk,L,actual,Retail,JPY,221.0,1.8769
+2014-12-15,Oosaka,Oosakasi_Tyuuooku,Osaka,34.69,135.5,miscellaneous food,Sugar,KG,actual,Retail,JPY,192.0,1.6306
+2014-12-15,Oosaka,Oosakasi_Tyuuooku,Osaka,34.69,135.5,vegetables and fruits,Cabbage,KG,actual,Retail,JPY,160.0,1.3588
+2014-12-15,Oosaka,Oosakasi_Tyuuooku,Osaka,34.69,135.5,vegetables and fruits,Radish,KG,actual,Retail,JPY,141.0,1.1975
+2014-12-15,Tookyoo,Sinzyukuku,Tokyo,35.69,139.69,cereals and tubers,Potatoes,KG,actual,Retail,JPY,309.0,2.6242
+2014-12-15,Tookyoo,Sinzyukuku,Tokyo,35.69,139.69,cereals and tubers,Rice,5 KG,actual,Retail,JPY,2308.0,19.6008
+2014-12-15,Tookyoo,Sinzyukuku,Tokyo,35.69,139.69,cereals and tubers,Wheat flour,KG,actual,Retail,JPY,237.0,2.0127
+2014-12-15,Tookyoo,Sinzyukuku,Tokyo,35.69,139.69,milk and dairy,Milk,L,actual,Retail,JPY,215.0,1.8259
+2014-12-15,Tookyoo,Sinzyukuku,Tokyo,35.69,139.69,miscellaneous food,Sugar,KG,actual,Retail,JPY,203.0,1.724
+2014-12-15,Tookyoo,Sinzyukuku,Tokyo,35.69,139.69,vegetables and fruits,Cabbage,KG,actual,Retail,JPY,158.0,1.3418
+2015-01-15,Oosaka,Oosakasi_Tyuuooku,Osaka,34.69,135.5,cereals and tubers,Potatoes,KG,actual,Retail,JPY,308.0,2.6336
+2015-01-15,Oosaka,Oosakasi_Tyuuooku,Osaka,34.69,135.5,cereals and tubers,Rice,5 KG,actual,Retail,JPY,2015.0,17.2296
+2015-01-15,Oosaka,Oosakasi_Tyuuooku,Osaka,34.69,135.5,cereals and tubers,Wheat flour,KG,actual,Retail,JPY,244.0,2.0864
+2015-01-15,Oosaka,Oosakasi_Tyuuooku,Osaka,34.69,135.5,milk and dairy,Milk,L,actual,Retail,JPY,224.0,1.9153
+2015-01-15,Oosaka,Oosakasi_Tyuuooku,Osaka,34.69,135.5,miscellaneous food,Sugar,KG,actual,Retail,JPY,191.0,1.6332
+2015-01-15,Oosaka,Oosakasi_Tyuuooku,Osaka,34.69,135.5,vegetables and fruits,Cabbage,KG,actual,Retail,JPY,217.0,1.8555
+2015-01-15,Oosaka,Oosakasi_Tyuuooku,Osaka,34.69,135.5,vegetables and fruits,Radish,KG,actual,Retail,JPY,150.0,1.2826
+2015-01-15,Tookyoo,Sinzyukuku,Tokyo,35.69,139.69,cereals and tubers,Potatoes,KG,actual,Retail,JPY,313.0,2.6764
+2015-01-15,Tookyoo,Sinzyukuku,Tokyo,35.69,139.69,cereals and tubers,Rice,5 KG,actual,Retail,JPY,2311.0,19.7606
+2015-01-15,Tookyoo,Sinzyukuku,Tokyo,35.69,139.69,cereals and tubers,"Rice (glutinous, unmilled)",KG,actual,Retail,JPY,573.0,4.8995
+2015-01-15,Tookyoo,Sinzyukuku,Tokyo,35.69,139.69,cereals and tubers,Wheat flour,KG,actual,Retail,JPY,234.0,2.0009
+2015-01-15,Tookyoo,Sinzyukuku,Tokyo,35.69,139.69,milk and dairy,Milk,L,actual,Retail,JPY,217.0,1.8555
+2015-01-15,Tookyoo,Sinzyukuku,Tokyo,35.69,139.69,miscellaneous food,Sugar,KG,actual,Retail,JPY,202.0,1.7272
+2015-01-15,Tookyoo,Sinzyukuku,Tokyo,35.69,139.69,vegetables and fruits,Cabbage,KG,actual,Retail,JPY,229.0,1.9581
+2015-01-15,Tookyoo,Sinzyukuku,Tokyo,35.69,139.69,vegetables and fruits,Radish,KG,actual,Retail,JPY,154.0,1.3168
+2015-02-15,Oosaka,Oosakasi_Tyuuooku,Osaka,34.69,135.5,cereals and tubers,Potatoes,KG,actual,Retail,JPY,311.0,2.6201
+2015-02-15,Oosaka,Oosakasi_Tyuuooku,Osaka,34.69,135.5,cereals and tubers,Rice,5 KG,actual,Retail,JPY,2057.0,17.3294
+2015-02-15,Oosaka,Oosakasi_Tyuuooku,Osaka,34.69,135.5,cereals and tubers,Wheat flour,KG,actual,Retail,JPY,237.0,1.9966
+2015-02-15,Oosaka,Oosakasi_Tyuuooku,Osaka,34.69,135.5,milk and dairy,Milk,L,actual,Retail,JPY,224.0,1.8871
+2015-02-15,Oosaka,Oosakasi_Tyuuooku,Osaka,34.69,135.5,miscellaneous food,Sugar,KG,actual,Retail,JPY,193.0,1.6259
+2015-02-15,Oosaka,Oosakasi_Tyuuooku,Osaka,34.69,135.5,vegetables and fruits,Cabbage,KG,actual,Retail,JPY,194.0,1.6344
+2015-02-15,Oosaka,Oosakasi_Tyuuooku,Osaka,34.69,135.5,vegetables and fruits,Radish,KG,actual,Retail,JPY,147.0,1.2384
+2015-02-15,Tookyoo,Sinzyukuku,Tokyo,35.69,139.69,cereals and tubers,Potatoes,KG,actual,Retail,JPY,316.0,2.6622
+2015-02-15,Tookyoo,Sinzyukuku,Tokyo,35.69,139.69,cereals and tubers,Rice,5 KG,actual,Retail,JPY,2314.0,19.4945
+2015-02-15,Tookyoo,Sinzyukuku,Tokyo,35.69,139.69,cereals and tubers,Wheat flour,KG,actual,Retail,JPY,237.0,1.9966
+2015-02-15,Tookyoo,Sinzyukuku,Tokyo,35.69,139.69,milk and dairy,Milk,L,actual,Retail,JPY,218.0,1.8366
+2015-02-15,Tookyoo,Sinzyukuku,Tokyo,35.69,139.69,miscellaneous food,Sugar,KG,actual,Retail,JPY,207.0,1.7439
+2015-02-15,Tookyoo,Sinzyukuku,Tokyo,35.69,139.69,vegetables and fruits,Cabbage,KG,actual,Retail,JPY,202.0,1.7018
+2015-02-15,Tookyoo,Sinzyukuku,Tokyo,35.69,139.69,vegetables and fruits,Radish,KG,actual,Retail,JPY,170.0,1.4322
+2015-03-15,Oosaka,Oosakasi_Tyuuooku,Osaka,34.69,135.5,cereals and tubers,Potatoes,KG,actual,Retail,JPY,326.0,2.6876
+2015-03-15,Oosaka,Oosakasi_Tyuuooku,Osaka,34.69,135.5,cereals and tubers,Rice,5 KG,actual,Retail,JPY,2013.0,16.5952
+2015-03-15,Oosaka,Oosakasi_Tyuuooku,Osaka,34.69,135.5,cereals and tubers,Wheat flour,KG,actual,Retail,JPY,244.0,2.0115
+2015-03-15,Oosaka,Oosakasi_Tyuuooku,Osaka,34.69,135.5,milk and dairy,Milk,L,actual,Retail,JPY,226.0,1.8631
+2015-03-15,Oosaka,Oosakasi_Tyuuooku,Osaka,34.69,135.5,miscellaneous food,Sugar,KG,actual,Retail,JPY,193.0,1.5911
+2015-03-15,Oosaka,Oosakasi_Tyuuooku,Osaka,34.69,135.5,vegetables and fruits,Cabbage,KG,actual,Retail,JPY,162.0,1.3355
+2015-03-15,Oosaka,Oosakasi_Tyuuooku,Osaka,34.69,135.5,vegetables and fruits,Radish,KG,actual,Retail,JPY,161.0,1.3273
+2015-03-15,Tookyoo,Sinzyukuku,Tokyo,35.69,139.69,cereals and tubers,Potatoes,KG,actual,Retail,JPY,324.0,2.6711
+2015-03-15,Tookyoo,Sinzyukuku,Tokyo,35.69,139.69,cereals and tubers,Rice,5 KG,actual,Retail,JPY,2279.0,18.7881
+2015-03-15,Tookyoo,Sinzyukuku,Tokyo,35.69,139.69,cereals and tubers,Wheat flour,KG,actual,Retail,JPY,236.0,1.9456
+2015-03-15,Tookyoo,Sinzyukuku,Tokyo,35.69,139.69,milk and dairy,Milk,L,actual,Retail,JPY,215.0,1.7725
+2015-03-15,Tookyoo,Sinzyukuku,Tokyo,35.69,139.69,miscellaneous food,Sugar,KG,actual,Retail,JPY,203.0,1.6735
+2015-03-15,Tookyoo,Sinzyukuku,Tokyo,35.69,139.69,vegetables and fruits,Cabbage,KG,actual,Retail,JPY,169.0,1.3932
+2015-03-15,Tookyoo,Sinzyukuku,Tokyo,35.69,139.69,vegetables and fruits,Radish,KG,actual,Retail,JPY,157.0,1.2943
+2015-04-15,Oosaka,Oosakasi_Tyuuooku,Osaka,34.69,135.5,cereals and tubers,Potatoes,KG,actual,Retail,JPY,423.0,3.5478
+2015-04-15,Oosaka,Oosakasi_Tyuuooku,Osaka,34.69,135.5,cereals and tubers,Rice,5 KG,actual,Retail,JPY,2026.0,16.9924
+2015-04-15,Oosaka,Oosakasi_Tyuuooku,Osaka,34.69,135.5,cereals and tubers,Wheat flour,KG,actual,Retail,JPY,239.0,2.0045
+2015-04-15,Oosaka,Oosakasi_Tyuuooku,Osaka,34.69,135.5,milk and dairy,Milk,L,actual,Retail,JPY,228.0,1.9123
+2015-04-15,Oosaka,Oosakasi_Tyuuooku,Osaka,34.69,135.5,miscellaneous food,Sugar,KG,actual,Retail,JPY,198.0,1.6607
+2015-04-15,Oosaka,Oosakasi_Tyuuooku,Osaka,34.69,135.5,vegetables and fruits,Cabbage,KG,actual,Retail,JPY,232.0,1.9458
+2015-04-15,Oosaka,Oosakasi_Tyuuooku,Osaka,34.69,135.5,vegetables and fruits,Radish,KG,actual,Retail,JPY,191.0,1.6019
+2015-04-15,Tookyoo,Sinzyukuku,Tokyo,35.69,139.69,cereals and tubers,Potatoes,KG,actual,Retail,JPY,358.0,3.0026
+2015-04-15,Tookyoo,Sinzyukuku,Tokyo,35.69,139.69,cereals and tubers,Rice,5 KG,actual,Retail,JPY,2271.0,19.0472
+2015-04-15,Tookyoo,Sinzyukuku,Tokyo,35.69,139.69,cereals and tubers,Wheat flour,KG,actual,Retail,JPY,237.0,1.9878
+2015-04-15,Tookyoo,Sinzyukuku,Tokyo,35.69,139.69,milk and dairy,Milk,L,actual,Retail,JPY,222.0,1.8619
+2015-04-15,Tookyoo,Sinzyukuku,Tokyo,35.69,139.69,miscellaneous food,Sugar,KG,actual,Retail,JPY,202.0,1.6942
+2015-04-15,Tookyoo,Sinzyukuku,Tokyo,35.69,139.69,vegetables and fruits,Cabbage,KG,actual,Retail,JPY,255.0,2.1387
+2015-04-15,Tookyoo,Sinzyukuku,Tokyo,35.69,139.69,vegetables and fruits,Radish,KG,actual,Retail,JPY,192.0,1.6103
+2015-05-15,Oosaka,Oosakasi_Tyuuooku,Osaka,34.69,135.5,cereals and tubers,Potatoes,KG,actual,Retail,JPY,460.0,3.8539
+2015-05-15,Oosaka,Oosakasi_Tyuuooku,Osaka,34.69,135.5,cereals and tubers,Rice,5 KG,actual,Retail,JPY,1999.0,16.7477
+2015-05-15,Oosaka,Oosakasi_Tyuuooku,Osaka,34.69,135.5,cereals and tubers,Wheat flour,KG,actual,Retail,JPY,238.0,1.994
+2015-05-15,Oosaka,Oosakasi_Tyuuooku,Osaka,34.69,135.5,milk and dairy,Milk,L,actual,Retail,JPY,229.0,1.9186
+2015-05-15,Oosaka,Oosakasi_Tyuuooku,Osaka,34.69,135.5,miscellaneous food,Sugar,KG,actual,Retail,JPY,188.0,1.5751
+2015-05-15,Oosaka,Oosakasi_Tyuuooku,Osaka,34.69,135.5,vegetables and fruits,Cabbage,KG,actual,Retail,JPY,366.0,3.0664
+2015-05-15,Oosaka,Oosakasi_Tyuuooku,Osaka,34.69,135.5,vegetables and fruits,Radish,KG,actual,Retail,JPY,210.0,1.7594
+2015-05-15,Tookyoo,Sinzyukuku,Tokyo,35.69,139.69,cereals and tubers,Potatoes,KG,actual,Retail,JPY,409.0,3.4266
+2015-05-15,Tookyoo,Sinzyukuku,Tokyo,35.69,139.69,cereals and tubers,Rice,5 KG,actual,Retail,JPY,2265.0,18.9762
+2015-05-15,Tookyoo,Sinzyukuku,Tokyo,35.69,139.69,cereals and tubers,"Rice (glutinous, unmilled)",KG,actual,Retail,JPY,584.0,4.8928
+2015-05-15,Tookyoo,Sinzyukuku,Tokyo,35.69,139.69,cereals and tubers,Wheat flour,KG,actual,Retail,JPY,232.0,1.9437
+2015-05-15,Tookyoo,Sinzyukuku,Tokyo,35.69,139.69,milk and dairy,Milk,L,actual,Retail,JPY,221.0,1.8515
+2015-05-15,Tookyoo,Sinzyukuku,Tokyo,35.69,139.69,miscellaneous food,Sugar,KG,actual,Retail,JPY,200.0,1.6756
+2015-05-15,Tookyoo,Sinzyukuku,Tokyo,35.69,139.69,vegetables and fruits,Cabbage,KG,actual,Retail,JPY,273.0,2.2872
+2015-06-15,Oosaka,Oosakasi_Tyuuooku,Osaka,34.69,135.5,cereals and tubers,Potatoes,KG,actual,Retail,JPY,467.0,3.7851
+2015-06-15,Oosaka,Oosakasi_Tyuuooku,Osaka,34.69,135.5,cereals and tubers,Rice,5 KG,actual,Retail,JPY,2008.0,16.2749
+2015-06-15,Oosaka,Oosakasi_Tyuuooku,Osaka,34.69,135.5,cereals and tubers,Wheat flour,KG,actual,Retail,JPY,235.0,1.9047
+2015-06-15,Oosaka,Oosakasi_Tyuuooku,Osaka,34.69,135.5,milk and dairy,Milk,L,actual,Retail,JPY,231.0,1.8723
+2015-06-15,Oosaka,Oosakasi_Tyuuooku,Osaka,34.69,135.5,miscellaneous food,Sugar,KG,actual,Retail,JPY,197.0,1.5967
+2015-06-15,Oosaka,Oosakasi_Tyuuooku,Osaka,34.69,135.5,vegetables and fruits,Cabbage,KG,actual,Retail,JPY,196.0,1.5886
+2015-06-15,Oosaka,Oosakasi_Tyuuooku,Osaka,34.69,135.5,vegetables and fruits,Radish,KG,actual,Retail,JPY,174.0,1.4103
+2015-06-15,Tookyoo,Sinzyukuku,Tokyo,35.69,139.69,cereals and tubers,Potatoes,KG,actual,Retail,JPY,443.0,3.5905
+2015-06-15,Tookyoo,Sinzyukuku,Tokyo,35.69,139.69,cereals and tubers,Rice,5 KG,actual,Retail,JPY,2239.0,18.1472
+2015-06-15,Tookyoo,Sinzyukuku,Tokyo,35.69,139.69,cereals and tubers,"Rice (glutinous, unmilled)",KG,actual,Retail,JPY,580.0,4.7009
+2015-06-15,Tookyoo,Sinzyukuku,Tokyo,35.69,139.69,cereals and tubers,Wheat flour,KG,actual,Retail,JPY,235.0,1.9047
+2015-06-15,Tookyoo,Sinzyukuku,Tokyo,35.69,139.69,milk and dairy,Milk,L,actual,Retail,JPY,222.0,1.7993
+2015-06-15,Tookyoo,Sinzyukuku,Tokyo,35.69,139.69,miscellaneous food,Sugar,KG,actual,Retail,JPY,201.0,1.6291
+2015-06-15,Tookyoo,Sinzyukuku,Tokyo,35.69,139.69,vegetables and fruits,Cabbage,KG,actual,Retail,JPY,188.0,1.5237
+2015-07-15,Oosaka,Oosakasi_Tyuuooku,Osaka,34.69,135.5,cereals and tubers,Potatoes,KG,actual,Retail,JPY,538.0,4.3426
+2015-07-15,Oosaka,Oosakasi_Tyuuooku,Osaka,34.69,135.5,cereals and tubers,Rice,5 KG,actual,Retail,JPY,2044.0,16.4985
+2015-07-15,Oosaka,Oosakasi_Tyuuooku,Osaka,34.69,135.5,cereals and tubers,Wheat flour,KG,actual,Retail,JPY,241.0,1.9453
+2015-07-15,Oosaka,Oosakasi_Tyuuooku,Osaka,34.69,135.5,milk and dairy,Milk,L,actual,Retail,JPY,229.0,1.8484
+2015-07-15,Oosaka,Oosakasi_Tyuuooku,Osaka,34.69,135.5,miscellaneous food,Sugar,KG,actual,Retail,JPY,192.0,1.5498
+2015-07-15,Oosaka,Oosakasi_Tyuuooku,Osaka,34.69,135.5,vegetables and fruits,Cabbage,KG,actual,Retail,JPY,184.0,1.4852
+2015-07-15,Tookyoo,Sinzyukuku,Tokyo,35.69,139.69,cereals and tubers,Potatoes,KG,actual,Retail,JPY,474.0,3.826
+2015-07-15,Tookyoo,Sinzyukuku,Tokyo,35.69,139.69,cereals and tubers,Rice,5 KG,actual,Retail,JPY,2263.0,18.2662
+2015-07-15,Tookyoo,Sinzyukuku,Tokyo,35.69,139.69,cereals and tubers,Wheat flour,KG,actual,Retail,JPY,237.0,1.913
+2015-07-15,Tookyoo,Sinzyukuku,Tokyo,35.69,139.69,milk and dairy,Milk,L,actual,Retail,JPY,221.0,1.7838
+2015-07-15,Tookyoo,Sinzyukuku,Tokyo,35.69,139.69,miscellaneous food,Sugar,KG,actual,Retail,JPY,200.0,1.6143
+2015-07-15,Tookyoo,Sinzyukuku,Tokyo,35.69,139.69,vegetables and fruits,Cabbage,KG,actual,Retail,JPY,167.0,1.348
+2015-07-15,Tookyoo,Sinzyukuku,Tokyo,35.69,139.69,vegetables and fruits,Radish,KG,actual,Retail,JPY,188.0,1.5175
+2015-08-15,Oosaka,Oosakasi_Tyuuooku,Osaka,34.69,135.5,cereals and tubers,Potatoes,KG,actual,Retail,JPY,472.0,3.7982
+2015-08-15,Oosaka,Oosakasi_Tyuuooku,Osaka,34.69,135.5,cereals and tubers,Rice,5 KG,actual,Retail,JPY,1974.0,15.8848
+2015-08-15,Oosaka,Oosakasi_Tyuuooku,Osaka,34.69,135.5,cereals and tubers,Wheat flour,KG,actual,Retail,JPY,248.0,1.9957
+2015-08-15,Oosaka,Oosakasi_Tyuuooku,Osaka,34.69,135.5,milk and dairy,Milk,L,actual,Retail,JPY,231.0,1.8589
+2015-08-15,Oosaka,Oosakasi_Tyuuooku,Osaka,34.69,135.5,miscellaneous food,Sugar,KG,actual,Retail,JPY,195.0,1.5692
+2015-08-15,Oosaka,Oosakasi_Tyuuooku,Osaka,34.69,135.5,vegetables and fruits,Cabbage,KG,actual,Retail,JPY,215.0,1.7301
+2015-08-15,Tookyoo,Sinzyukuku,Tokyo,35.69,139.69,cereals and tubers,Potatoes,KG,actual,Retail,JPY,437.0,3.5165
+2015-08-15,Tookyoo,Sinzyukuku,Tokyo,35.69,139.69,cereals and tubers,Rice,5 KG,actual,Retail,JPY,2253.0,18.1299
+2015-08-15,Tookyoo,Sinzyukuku,Tokyo,35.69,139.69,cereals and tubers,Wheat flour,KG,actual,Retail,JPY,240.0,1.9313
+2015-08-15,Tookyoo,Sinzyukuku,Tokyo,35.69,139.69,milk and dairy,Milk,L,actual,Retail,JPY,221.0,1.7784
+2015-08-15,Tookyoo,Sinzyukuku,Tokyo,35.69,139.69,miscellaneous food,Sugar,KG,actual,Retail,JPY,197.0,1.5853
+2015-08-15,Tookyoo,Sinzyukuku,Tokyo,35.69,139.69,vegetables and fruits,Cabbage,KG,actual,Retail,JPY,188.0,1.5128
+2015-08-15,Tookyoo,Sinzyukuku,Tokyo,35.69,139.69,vegetables and fruits,Radish,KG,actual,Retail,JPY,199.0,1.6014
+2015-09-15,Oosaka,Oosakasi_Tyuuooku,Osaka,34.69,135.5,cereals and tubers,Potatoes,KG,actual,Retail,JPY,379.0,3.1505
+2015-09-15,Oosaka,Oosakasi_Tyuuooku,Osaka,34.69,135.5,cereals and tubers,Rice,5 KG,actual,Retail,JPY,2019.0,16.783
+2015-09-15,Oosaka,Oosakasi_Tyuuooku,Osaka,34.69,135.5,cereals and tubers,Wheat flour,KG,actual,Retail,JPY,252.0,2.0948
+2015-09-15,Oosaka,Oosakasi_Tyuuooku,Osaka,34.69,135.5,milk and dairy,Milk,L,actual,Retail,JPY,230.0,1.9119
+2015-09-15,Oosaka,Oosakasi_Tyuuooku,Osaka,34.69,135.5,miscellaneous food,Sugar,KG,actual,Retail,JPY,192.0,1.596
+2015-09-15,Oosaka,Oosakasi_Tyuuooku,Osaka,34.69,135.5,vegetables and fruits,Cabbage,KG,actual,Retail,JPY,236.0,1.9618
+2015-09-15,Tookyoo,Sinzyukuku,Tokyo,35.69,139.69,cereals and tubers,Potatoes,KG,actual,Retail,JPY,343.0,2.8512
+2015-09-15,Tookyoo,Sinzyukuku,Tokyo,35.69,139.69,cereals and tubers,Rice,5 KG,actual,Retail,JPY,2275.0,18.9111
+2015-09-15,Tookyoo,Sinzyukuku,Tokyo,35.69,139.69,cereals and tubers,Wheat flour,KG,actual,Retail,JPY,240.0,1.995
+2015-09-15,Tookyoo,Sinzyukuku,Tokyo,35.69,139.69,milk and dairy,Milk,L,actual,Retail,JPY,221.0,1.8371
+2015-09-15,Tookyoo,Sinzyukuku,Tokyo,35.69,139.69,miscellaneous food,Sugar,KG,actual,Retail,JPY,198.0,1.6459
+2015-09-15,Tookyoo,Sinzyukuku,Tokyo,35.69,139.69,vegetables and fruits,Cabbage,KG,actual,Retail,JPY,226.0,1.8786
+2015-09-15,Tookyoo,Sinzyukuku,Tokyo,35.69,139.69,vegetables and fruits,Radish,KG,actual,Retail,JPY,204.0,1.6958
+2015-10-15,Oosaka,Oosakasi_Tyuuooku,Osaka,34.69,135.5,cereals and tubers,Potatoes,KG,actual,Retail,JPY,344.0,2.9088
+2015-10-15,Oosaka,Oosakasi_Tyuuooku,Osaka,34.69,135.5,cereals and tubers,Rice,5 KG,actual,Retail,JPY,2055.0,17.377
+2015-10-15,Oosaka,Oosakasi_Tyuuooku,Osaka,34.69,135.5,cereals and tubers,Wheat flour,KG,actual,Retail,JPY,246.0,2.0802
+2015-10-15,Oosaka,Oosakasi_Tyuuooku,Osaka,34.69,135.5,milk and dairy,Milk,L,actual,Retail,JPY,233.0,1.9702
+2015-10-15,Oosaka,Oosakasi_Tyuuooku,Osaka,34.69,135.5,miscellaneous food,Sugar,KG,actual,Retail,JPY,194.0,1.6405
+2015-10-15,Oosaka,Oosakasi_Tyuuooku,Osaka,34.69,135.5,vegetables and fruits,Cabbage,KG,actual,Retail,JPY,309.0,2.6129
+2015-10-15,Oosaka,Oosakasi_Tyuuooku,Osaka,34.69,135.5,vegetables and fruits,Radish,KG,actual,Retail,JPY,183.0,1.5474
+2015-10-15,Tookyoo,Sinzyukuku,Tokyo,35.69,139.69,cereals and tubers,Potatoes,KG,actual,Retail,JPY,328.0,2.7735
+2015-10-15,Tookyoo,Sinzyukuku,Tokyo,35.69,139.69,cereals and tubers,Rice,5 KG,actual,Retail,JPY,2307.0,19.5079
+2015-10-15,Tookyoo,Sinzyukuku,Tokyo,35.69,139.69,cereals and tubers,"Rice (glutinous, unmilled)",KG,actual,Retail,JPY,596.0,5.0397
+2015-10-15,Tookyoo,Sinzyukuku,Tokyo,35.69,139.69,cereals and tubers,Wheat flour,KG,actual,Retail,JPY,240.0,2.0294
+2015-10-15,Tookyoo,Sinzyukuku,Tokyo,35.69,139.69,milk and dairy,Milk,L,actual,Retail,JPY,222.0,1.8772
+2015-10-15,Tookyoo,Sinzyukuku,Tokyo,35.69,139.69,miscellaneous food,Sugar,KG,actual,Retail,JPY,197.0,1.6658
+2015-10-15,Tookyoo,Sinzyukuku,Tokyo,35.69,139.69,vegetables and fruits,Cabbage,KG,actual,Retail,JPY,277.0,2.3423
+2015-10-15,Tookyoo,Sinzyukuku,Tokyo,35.69,139.69,vegetables and fruits,Radish,KG,actual,Retail,JPY,182.0,1.539
+2015-11-15,Oosaka,Oosakasi_Tyuuooku,Osaka,34.69,135.5,cereals and tubers,Potatoes,KG,actual,Retail,JPY,337.0,2.7374
+2015-11-15,Oosaka,Oosakasi_Tyuuooku,Osaka,34.69,135.5,cereals and tubers,Rice,5 KG,actual,Retail,JPY,2059.0,16.7249
+2015-11-15,Oosaka,Oosakasi_Tyuuooku,Osaka,34.69,135.5,cereals and tubers,Wheat flour,KG,actual,Retail,JPY,246.0,1.9982
+2015-11-15,Oosaka,Oosakasi_Tyuuooku,Osaka,34.69,135.5,milk and dairy,Milk,L,actual,Retail,JPY,232.0,1.8845
+2015-11-15,Oosaka,Oosakasi_Tyuuooku,Osaka,34.69,135.5,miscellaneous food,Sugar,KG,actual,Retail,JPY,193.0,1.5677
+2015-11-15,Oosaka,Oosakasi_Tyuuooku,Osaka,34.69,135.5,vegetables and fruits,Cabbage,KG,actual,Retail,JPY,207.0,1.6814
+2015-11-15,Oosaka,Oosakasi_Tyuuooku,Osaka,34.69,135.5,vegetables and fruits,Radish,KG,actual,Retail,JPY,161.0,1.3078
+2015-11-15,Tookyoo,Sinzyukuku,Tokyo,35.69,139.69,cereals and tubers,Potatoes,KG,actual,Retail,JPY,315.0,2.5587
+2015-11-15,Tookyoo,Sinzyukuku,Tokyo,35.69,139.69,cereals and tubers,Rice,5 KG,actual,Retail,JPY,2331.0,18.9343
+2015-11-15,Tookyoo,Sinzyukuku,Tokyo,35.69,139.69,cereals and tubers,"Rice (glutinous, unmilled)",KG,actual,Retail,JPY,603.0,4.8981
+2015-11-15,Tookyoo,Sinzyukuku,Tokyo,35.69,139.69,cereals and tubers,Wheat flour,KG,actual,Retail,JPY,244.0,1.982
+2015-11-15,Tookyoo,Sinzyukuku,Tokyo,35.69,139.69,milk and dairy,Milk,L,actual,Retail,JPY,223.0,1.8114
+2015-11-15,Tookyoo,Sinzyukuku,Tokyo,35.69,139.69,miscellaneous food,Sugar,KG,actual,Retail,JPY,199.0,1.6164
+2015-11-15,Tookyoo,Sinzyukuku,Tokyo,35.69,139.69,vegetables and fruits,Cabbage,KG,actual,Retail,JPY,192.0,1.5596
+2015-11-15,Tookyoo,Sinzyukuku,Tokyo,35.69,139.69,vegetables and fruits,Radish,KG,actual,Retail,JPY,138.0,1.1209
+2015-12-15,Oosaka,Oosakasi_Tyuuooku,Osaka,34.69,135.5,cereals and tubers,Potatoes,KG,actual,Retail,JPY,325.0,2.6714
+2015-12-15,Oosaka,Oosakasi_Tyuuooku,Osaka,34.69,135.5,cereals and tubers,Rice,5 KG,actual,Retail,JPY,2112.0,17.3599
+2015-12-15,Oosaka,Oosakasi_Tyuuooku,Osaka,34.69,135.5,cereals and tubers,"Rice (glutinous, unmilled)",KG,actual,Retail,JPY,554.0,4.5537
+2015-12-15,Oosaka,Oosakasi_Tyuuooku,Osaka,34.69,135.5,cereals and tubers,Wheat flour,KG,actual,Retail,JPY,242.0,1.9892
+2015-12-15,Oosaka,Oosakasi_Tyuuooku,Osaka,34.69,135.5,milk and dairy,Milk,L,actual,Retail,JPY,232.0,1.907
+2015-12-15,Oosaka,Oosakasi_Tyuuooku,Osaka,34.69,135.5,miscellaneous food,Sugar,KG,actual,Retail,JPY,190.0,1.5617
+2015-12-15,Oosaka,Oosakasi_Tyuuooku,Osaka,34.69,135.5,vegetables and fruits,Cabbage,KG,actual,Retail,JPY,145.0,1.1918
+2015-12-15,Oosaka,Oosakasi_Tyuuooku,Osaka,34.69,135.5,vegetables and fruits,Radish,KG,actual,Retail,JPY,130.0,1.0686
+2015-12-15,Tookyoo,Sinzyukuku,Tokyo,35.69,139.69,cereals and tubers,Potatoes,KG,actual,Retail,JPY,303.0,2.4905
+2015-12-15,Tookyoo,Sinzyukuku,Tokyo,35.69,139.69,cereals and tubers,Rice,5 KG,actual,Retail,JPY,2312.0,19.0038
+2015-12-15,Tookyoo,Sinzyukuku,Tokyo,35.69,139.69,cereals and tubers,Wheat flour,KG,actual,Retail,JPY,243.0,1.9974
+2015-12-15,Tookyoo,Sinzyukuku,Tokyo,35.69,139.69,milk and dairy,Milk,L,actual,Retail,JPY,225.0,1.8494
+2015-12-15,Tookyoo,Sinzyukuku,Tokyo,35.69,139.69,miscellaneous food,Sugar,KG,actual,Retail,JPY,197.0,1.6193
+2015-12-15,Tookyoo,Sinzyukuku,Tokyo,35.69,139.69,vegetables and fruits,Cabbage,KG,actual,Retail,JPY,135.0,1.1096
+2016-01-15,Oosaka,Oosakasi_Tyuuooku,Osaka,34.69,135.5,cereals and tubers,Potatoes,KG,actual,Retail,JPY,346.0,2.9628
+2016-01-15,Oosaka,Oosakasi_Tyuuooku,Osaka,34.69,135.5,cereals and tubers,Rice,5 KG,actual,Retail,JPY,2111.0,18.0767
+2016-01-15,Oosaka,Oosakasi_Tyuuooku,Osaka,34.69,135.5,cereals and tubers,Wheat flour,KG,actual,Retail,JPY,252.0,2.1579
+2016-01-15,Oosaka,Oosakasi_Tyuuooku,Osaka,34.69,135.5,milk and dairy,Milk,L,actual,Retail,JPY,233.0,1.9952
+2016-01-15,Oosaka,Oosakasi_Tyuuooku,Osaka,34.69,135.5,miscellaneous food,Sugar,KG,actual,Retail,JPY,192.0,1.6441
+2016-01-15,Oosaka,Oosakasi_Tyuuooku,Osaka,34.69,135.5,vegetables and fruits,Cabbage,KG,actual,Retail,JPY,139.0,1.1903
+2016-01-15,Oosaka,Oosakasi_Tyuuooku,Osaka,34.69,135.5,vegetables and fruits,Radish,KG,actual,Retail,JPY,148.0,1.2673
+2016-01-15,Tookyoo,Sinzyukuku,Tokyo,35.69,139.69,cereals and tubers,Potatoes,KG,actual,Retail,JPY,310.0,2.6546
+2016-01-15,Tookyoo,Sinzyukuku,Tokyo,35.69,139.69,cereals and tubers,Rice,5 KG,actual,Retail,JPY,2318.0,19.8493
+2016-01-15,Tookyoo,Sinzyukuku,Tokyo,35.69,139.69,cereals and tubers,"Rice (glutinous, unmilled)",KG,actual,Retail,JPY,612.0,5.2406
+2016-01-15,Tookyoo,Sinzyukuku,Tokyo,35.69,139.69,cereals and tubers,Wheat flour,KG,actual,Retail,JPY,242.0,2.0723
+2016-01-15,Tookyoo,Sinzyukuku,Tokyo,35.69,139.69,milk and dairy,Milk,L,actual,Retail,JPY,224.0,1.9181
+2016-01-15,Tookyoo,Sinzyukuku,Tokyo,35.69,139.69,miscellaneous food,Sugar,KG,actual,Retail,JPY,198.0,1.6955
+2016-01-15,Tookyoo,Sinzyukuku,Tokyo,35.69,139.69,vegetables and fruits,Cabbage,KG,actual,Retail,JPY,125.0,1.0704
+2016-01-15,Tookyoo,Sinzyukuku,Tokyo,35.69,139.69,vegetables and fruits,Radish,KG,actual,Retail,JPY,118.0,1.0104
+2016-02-15,Oosaka,Oosakasi_Tyuuooku,Osaka,34.69,135.5,cereals and tubers,Potatoes,KG,actual,Retail,JPY,372.0,3.266
+2016-02-15,Oosaka,Oosakasi_Tyuuooku,Osaka,34.69,135.5,cereals and tubers,Rice,5 KG,actual,Retail,JPY,2190.0,19.2274
+2016-02-15,Oosaka,Oosakasi_Tyuuooku,Osaka,34.69,135.5,cereals and tubers,Wheat flour,KG,actual,Retail,JPY,239.0,2.0983
+2016-02-15,Oosaka,Oosakasi_Tyuuooku,Osaka,34.69,135.5,milk and dairy,Milk,L,actual,Retail,JPY,229.0,2.0105
+2016-02-15,Oosaka,Oosakasi_Tyuuooku,Osaka,34.69,135.5,miscellaneous food,Sugar,KG,actual,Retail,JPY,191.0,1.6769
+2016-02-15,Oosaka,Oosakasi_Tyuuooku,Osaka,34.69,135.5,vegetables and fruits,Cabbage,KG,actual,Retail,JPY,146.0,1.2818
+2016-02-15,Oosaka,Oosakasi_Tyuuooku,Osaka,34.69,135.5,vegetables and fruits,Radish,KG,actual,Retail,JPY,148.0,1.2994
+2016-02-15,Tookyoo,Sinzyukuku,Tokyo,35.69,139.69,cereals and tubers,Potatoes,KG,actual,Retail,JPY,336.0,2.95
+2016-02-15,Tookyoo,Sinzyukuku,Tokyo,35.69,139.69,cereals and tubers,Rice,5 KG,actual,Retail,JPY,2309.0,20.2722
+2016-02-15,Tookyoo,Sinzyukuku,Tokyo,35.69,139.69,cereals and tubers,Wheat flour,KG,actual,Retail,JPY,244.0,2.1422
+2016-02-15,Tookyoo,Sinzyukuku,Tokyo,35.69,139.69,milk and dairy,Milk,L,actual,Retail,JPY,224.0,1.9666
+2016-02-15,Tookyoo,Sinzyukuku,Tokyo,35.69,139.69,miscellaneous food,Sugar,KG,actual,Retail,JPY,199.0,1.7471
+2016-02-15,Tookyoo,Sinzyukuku,Tokyo,35.69,139.69,vegetables and fruits,Cabbage,KG,actual,Retail,JPY,138.0,1.2116
+2016-02-15,Tookyoo,Sinzyukuku,Tokyo,35.69,139.69,vegetables and fruits,Radish,KG,actual,Retail,JPY,139.0,1.2204
+2016-03-15,Oosaka,Oosakasi_Tyuuooku,Osaka,34.69,135.5,cereals and tubers,Potatoes,KG,actual,Retail,JPY,393.0,3.4816
+2016-03-15,Oosaka,Oosakasi_Tyuuooku,Osaka,34.69,135.5,cereals and tubers,Rice,5 KG,actual,Retail,JPY,2161.0,19.1442
+2016-03-15,Oosaka,Oosakasi_Tyuuooku,Osaka,34.69,135.5,cereals and tubers,Wheat flour,KG,actual,Retail,JPY,245.0,2.1704
+2016-03-15,Oosaka,Oosakasi_Tyuuooku,Osaka,34.69,135.5,milk and dairy,Milk,L,actual,Retail,JPY,233.0,2.0641
+2016-03-15,Oosaka,Oosakasi_Tyuuooku,Osaka,34.69,135.5,miscellaneous food,Sugar,KG,actual,Retail,JPY,191.0,1.6921
+2016-03-15,Oosaka,Oosakasi_Tyuuooku,Osaka,34.69,135.5,vegetables and fruits,Cabbage,KG,actual,Retail,JPY,153.0,1.3554
+2016-03-15,Tookyoo,Sinzyukuku,Tokyo,35.69,139.69,cereals and tubers,Potatoes,KG,actual,Retail,JPY,356.0,3.1538
+2016-03-15,Tookyoo,Sinzyukuku,Tokyo,35.69,139.69,cereals and tubers,Rice,5 KG,actual,Retail,JPY,2343.0,20.7566
+2016-03-15,Tookyoo,Sinzyukuku,Tokyo,35.69,139.69,cereals and tubers,Wheat flour,KG,actual,Retail,JPY,241.0,2.135
+2016-03-15,Tookyoo,Sinzyukuku,Tokyo,35.69,139.69,milk and dairy,Milk,L,actual,Retail,JPY,224.0,1.9844
+2016-03-15,Tookyoo,Sinzyukuku,Tokyo,35.69,139.69,miscellaneous food,Sugar,KG,actual,Retail,JPY,198.0,1.7541
+2016-03-15,Tookyoo,Sinzyukuku,Tokyo,35.69,139.69,vegetables and fruits,Cabbage,KG,actual,Retail,JPY,159.0,1.4086
+2016-03-15,Tookyoo,Sinzyukuku,Tokyo,35.69,139.69,vegetables and fruits,Radish,KG,actual,Retail,JPY,146.0,1.2934
+2016-04-15,Oosaka,Oosakasi_Tyuuooku,Osaka,34.69,135.5,cereals and tubers,Potatoes,KG,actual,Retail,JPY,456.0,4.1927
+2016-04-15,Oosaka,Oosakasi_Tyuuooku,Osaka,34.69,135.5,cereals and tubers,Rice,5 KG,actual,Retail,JPY,2161.0,19.8694
+2016-04-15,Oosaka,Oosakasi_Tyuuooku,Osaka,34.69,135.5,cereals and tubers,Wheat flour,KG,actual,Retail,JPY,246.0,2.2619
+2016-04-15,Oosaka,Oosakasi_Tyuuooku,Osaka,34.69,135.5,milk and dairy,Milk,L,actual,Retail,JPY,233.0,2.1423
+2016-04-15,Oosaka,Oosakasi_Tyuuooku,Osaka,34.69,135.5,miscellaneous food,Sugar,KG,actual,Retail,JPY,192.0,1.7654
+2016-04-15,Oosaka,Oosakasi_Tyuuooku,Osaka,34.69,135.5,vegetables and fruits,Cabbage,KG,actual,Retail,JPY,189.0,1.7378
+2016-04-15,Tookyoo,Sinzyukuku,Tokyo,35.69,139.69,cereals and tubers,Potatoes,KG,actual,Retail,JPY,409.0,3.7606
+2016-04-15,Tookyoo,Sinzyukuku,Tokyo,35.69,139.69,cereals and tubers,Rice,5 KG,actual,Retail,JPY,2329.0,21.4141
+2016-04-15,Tookyoo,Sinzyukuku,Tokyo,35.69,139.69,cereals and tubers,Wheat flour,KG,actual,Retail,JPY,242.0,2.2251
+2016-04-15,Tookyoo,Sinzyukuku,Tokyo,35.69,139.69,milk and dairy,Milk,L,actual,Retail,JPY,224.0,2.0596
+2016-04-15,Tookyoo,Sinzyukuku,Tokyo,35.69,139.69,miscellaneous food,Sugar,KG,actual,Retail,JPY,200.0,1.8389
+2016-04-15,Tookyoo,Sinzyukuku,Tokyo,35.69,139.69,vegetables and fruits,Cabbage,KG,actual,Retail,JPY,210.0,1.9309
+2016-04-15,Tookyoo,Sinzyukuku,Tokyo,35.69,139.69,vegetables and fruits,Radish,KG,actual,Retail,JPY,188.0,1.7286
+2016-05-15,Oosaka,Oosakasi_Tyuuooku,Osaka,34.69,135.5,cereals and tubers,Potatoes,KG,actual,Retail,JPY,526.0,4.8306
+2016-05-15,Oosaka,Oosakasi_Tyuuooku,Osaka,34.69,135.5,cereals and tubers,Rice,5 KG,actual,Retail,JPY,2131.0,19.5702
+2016-05-15,Oosaka,Oosakasi_Tyuuooku,Osaka,34.69,135.5,cereals and tubers,Wheat flour,KG,actual,Retail,JPY,244.0,2.2408
+2016-05-15,Oosaka,Oosakasi_Tyuuooku,Osaka,34.69,135.5,milk and dairy,Milk,L,actual,Retail,JPY,231.0,2.1214
+2016-05-15,Oosaka,Oosakasi_Tyuuooku,Osaka,34.69,135.5,miscellaneous food,Sugar,KG,actual,Retail,JPY,191.0,1.7541
+2016-05-15,Oosaka,Oosakasi_Tyuuooku,Osaka,34.69,135.5,vegetables and fruits,Cabbage,KG,actual,Retail,JPY,223.0,2.0479
+2016-05-15,Oosaka,Oosakasi_Tyuuooku,Osaka,34.69,135.5,vegetables and fruits,Radish,KG,actual,Retail,JPY,175.0,1.6071
+2016-05-15,Tookyoo,Sinzyukuku,Tokyo,35.69,139.69,cereals and tubers,Potatoes,KG,actual,Retail,JPY,421.0,3.8663
+2016-05-15,Tookyoo,Sinzyukuku,Tokyo,35.69,139.69,cereals and tubers,Rice,5 KG,actual,Retail,JPY,2357.0,21.6457
+2016-05-15,Tookyoo,Sinzyukuku,Tokyo,35.69,139.69,cereals and tubers,Wheat flour,KG,actual,Retail,JPY,238.0,2.1857
+2016-05-15,Tookyoo,Sinzyukuku,Tokyo,35.69,139.69,milk and dairy,Milk,L,actual,Retail,JPY,222.0,2.0388
+2016-05-15,Tookyoo,Sinzyukuku,Tokyo,35.69,139.69,miscellaneous food,Sugar,KG,actual,Retail,JPY,199.0,1.8275
+2016-05-15,Tookyoo,Sinzyukuku,Tokyo,35.69,139.69,vegetables and fruits,Cabbage,KG,actual,Retail,JPY,207.0,1.901
+2016-05-15,Tookyoo,Sinzyukuku,Tokyo,35.69,139.69,vegetables and fruits,Radish,KG,actual,Retail,JPY,167.0,1.5337
+2016-06-15,Oosaka,Oosakasi_Tyuuooku,Osaka,34.69,135.5,cereals and tubers,Potatoes,KG,actual,Retail,JPY,537.0,5.0723
+2016-06-15,Oosaka,Oosakasi_Tyuuooku,Osaka,34.69,135.5,cereals and tubers,Rice,5 KG,actual,Retail,JPY,2126.0,20.0812
+2016-06-15,Oosaka,Oosakasi_Tyuuooku,Osaka,34.69,135.5,cereals and tubers,Wheat flour,KG,actual,Retail,JPY,237.0,2.2386
+2016-06-15,Oosaka,Oosakasi_Tyuuooku,Osaka,34.69,135.5,milk and dairy,Milk,L,actual,Retail,JPY,232.0,2.1914
+2016-06-15,Oosaka,Oosakasi_Tyuuooku,Osaka,34.69,135.5,miscellaneous food,Sugar,KG,actual,Retail,JPY,186.0,1.7569
+2016-06-15,Oosaka,Oosakasi_Tyuuooku,Osaka,34.69,135.5,vegetables and fruits,Cabbage,KG,actual,Retail,JPY,206.0,1.9458
+2016-06-15,Oosaka,Oosakasi_Tyuuooku,Osaka,34.69,135.5,vegetables and fruits,Radish,KG,actual,Retail,JPY,180.0,1.7002
+2016-06-15,Tookyoo,Sinzyukuku,Tokyo,35.69,139.69,cereals and tubers,Potatoes,KG,actual,Retail,JPY,447.0,4.2222
+2016-06-15,Tookyoo,Sinzyukuku,Tokyo,35.69,139.69,cereals and tubers,Rice,5 KG,actual,Retail,JPY,2357.0,22.2632
+2016-06-15,Tookyoo,Sinzyukuku,Tokyo,35.69,139.69,cereals and tubers,"Rice (glutinous, unmilled)",KG,actual,Retail,JPY,621.0,5.8657
+2016-06-15,Tookyoo,Sinzyukuku,Tokyo,35.69,139.69,cereals and tubers,Wheat flour,KG,actual,Retail,JPY,240.0,2.2669
+2016-06-15,Tookyoo,Sinzyukuku,Tokyo,35.69,139.69,milk and dairy,Milk,L,actual,Retail,JPY,224.0,2.1158
+2016-06-15,Tookyoo,Sinzyukuku,Tokyo,35.69,139.69,miscellaneous food,Sugar,KG,actual,Retail,JPY,200.0,1.8891
+2016-06-15,Tookyoo,Sinzyukuku,Tokyo,35.69,139.69,vegetables and fruits,Cabbage,KG,actual,Retail,JPY,190.0,1.7947
+2016-06-15,Tookyoo,Sinzyukuku,Tokyo,35.69,139.69,vegetables and fruits,Radish,KG,actual,Retail,JPY,164.0,1.5491
+2016-07-15,Oosaka,Oosakasi_Tyuuooku,Osaka,34.69,135.5,cereals and tubers,Potatoes,KG,actual,Retail,JPY,421.0,3.9852
+2016-07-15,Oosaka,Oosakasi_Tyuuooku,Osaka,34.69,135.5,cereals and tubers,Rice,5 KG,actual,Retail,JPY,2108.0,19.9546
+2016-07-15,Oosaka,Oosakasi_Tyuuooku,Osaka,34.69,135.5,cereals and tubers,"Rice (glutinous, unmilled)",KG,actual,Retail,JPY,576.0,5.4525
+2016-07-15,Oosaka,Oosakasi_Tyuuooku,Osaka,34.69,135.5,cereals and tubers,Wheat flour,KG,actual,Retail,JPY,238.0,2.2529
+2016-07-15,Oosaka,Oosakasi_Tyuuooku,Osaka,34.69,135.5,milk and dairy,Milk,L,actual,Retail,JPY,232.0,2.1961
+2016-07-15,Oosaka,Oosakasi_Tyuuooku,Osaka,34.69,135.5,miscellaneous food,Sugar,KG,actual,Retail,JPY,189.0,1.7891
+2016-07-15,Oosaka,Oosakasi_Tyuuooku,Osaka,34.69,135.5,vegetables and fruits,Cabbage,KG,actual,Retail,JPY,169.0,1.5998
+2016-07-15,Oosaka,Oosakasi_Tyuuooku,Osaka,34.69,135.5,vegetables and fruits,Radish,KG,actual,Retail,JPY,208.0,1.969
+2016-07-15,Tookyoo,Sinzyukuku,Tokyo,35.69,139.69,cereals and tubers,Potatoes,KG,actual,Retail,JPY,452.0,4.2787
+2016-07-15,Tookyoo,Sinzyukuku,Tokyo,35.69,139.69,cereals and tubers,Rice,5 KG,actual,Retail,JPY,2360.0,22.34
+2016-07-15,Tookyoo,Sinzyukuku,Tokyo,35.69,139.69,cereals and tubers,Wheat flour,KG,actual,Retail,JPY,239.0,2.2624
+2016-07-15,Tookyoo,Sinzyukuku,Tokyo,35.69,139.69,milk and dairy,Milk,L,actual,Retail,JPY,224.0,2.1204
+2016-07-15,Tookyoo,Sinzyukuku,Tokyo,35.69,139.69,miscellaneous food,Sugar,KG,actual,Retail,JPY,200.0,1.8932
+2016-07-15,Tookyoo,Sinzyukuku,Tokyo,35.69,139.69,vegetables and fruits,Cabbage,KG,actual,Retail,JPY,148.0,1.401
+2016-08-15,Oosaka,Oosakasi_Tyuuooku,Osaka,34.69,135.5,cereals and tubers,Potatoes,KG,actual,Retail,JPY,467.0,4.6228
+2016-08-15,Oosaka,Oosakasi_Tyuuooku,Osaka,34.69,135.5,cereals and tubers,Rice,5 KG,actual,Retail,JPY,2123.0,21.0156
+2016-08-15,Oosaka,Oosakasi_Tyuuooku,Osaka,34.69,135.5,cereals and tubers,"Rice (glutinous, unmilled)",KG,actual,Retail,JPY,548.0,5.4247
+2016-08-15,Oosaka,Oosakasi_Tyuuooku,Osaka,34.69,135.5,cereals and tubers,Wheat flour,KG,actual,Retail,JPY,245.0,2.4253
+2016-08-15,Oosaka,Oosakasi_Tyuuooku,Osaka,34.69,135.5,milk and dairy,Milk,L,actual,Retail,JPY,232.0,2.2966
+2016-08-15,Oosaka,Oosakasi_Tyuuooku,Osaka,34.69,135.5,miscellaneous food,Sugar,KG,actual,Retail,JPY,186.0,1.8412
+2016-08-15,Oosaka,Oosakasi_Tyuuooku,Osaka,34.69,135.5,vegetables and fruits,Cabbage,KG,actual,Retail,JPY,168.0,1.663
+2016-08-15,Oosaka,Oosakasi_Tyuuooku,Osaka,34.69,135.5,vegetables and fruits,Radish,KG,actual,Retail,JPY,191.0,1.8907
+2016-08-15,Tookyoo,Sinzyukuku,Tokyo,35.69,139.69,cereals and tubers,Potatoes,KG,actual,Retail,JPY,446.0,4.415
+2016-08-15,Tookyoo,Sinzyukuku,Tokyo,35.69,139.69,cereals and tubers,Rice,5 KG,actual,Retail,JPY,2333.0,23.0944
+2016-08-15,Tookyoo,Sinzyukuku,Tokyo,35.69,139.69,cereals and tubers,Wheat flour,KG,actual,Retail,JPY,239.0,2.3659
+2016-08-15,Tookyoo,Sinzyukuku,Tokyo,35.69,139.69,milk and dairy,Milk,L,actual,Retail,JPY,225.0,2.2273
+2016-08-15,Tookyoo,Sinzyukuku,Tokyo,35.69,139.69,miscellaneous food,Sugar,KG,actual,Retail,JPY,198.0,1.96
+2016-08-15,Tookyoo,Sinzyukuku,Tokyo,35.69,139.69,vegetables and fruits,Cabbage,KG,actual,Retail,JPY,133.0,1.3166
+2016-09-15,Oosaka,Oosakasi_Tyuuooku,Osaka,34.69,135.5,cereals and tubers,Potatoes,KG,actual,Retail,JPY,407.0,3.9808
+2016-09-15,Oosaka,Oosakasi_Tyuuooku,Osaka,34.69,135.5,cereals and tubers,Rice,5 KG,actual,Retail,JPY,2109.0,20.6279
+2016-09-15,Oosaka,Oosakasi_Tyuuooku,Osaka,34.69,135.5,cereals and tubers,"Rice (glutinous, unmilled)",KG,actual,Retail,JPY,565.0,5.5262
+2016-09-15,Oosaka,Oosakasi_Tyuuooku,Osaka,34.69,135.5,cereals and tubers,Wheat flour,KG,actual,Retail,JPY,243.0,2.3768
+2016-09-15,Oosaka,Oosakasi_Tyuuooku,Osaka,34.69,135.5,milk and dairy,Milk,L,actual,Retail,JPY,230.0,2.2496
+2016-09-15,Oosaka,Oosakasi_Tyuuooku,Osaka,34.69,135.5,miscellaneous food,Sugar,KG,actual,Retail,JPY,190.0,1.8584
+2016-09-15,Oosaka,Oosakasi_Tyuuooku,Osaka,34.69,135.5,vegetables and fruits,Cabbage,KG,actual,Retail,JPY,170.0,1.6628
+2016-09-15,Oosaka,Oosakasi_Tyuuooku,Osaka,34.69,135.5,vegetables and fruits,Radish,KG,actual,Retail,JPY,228.0,2.23
+2016-09-15,Tookyoo,Sinzyukuku,Tokyo,35.69,139.69,cereals and tubers,Potatoes,KG,actual,Retail,JPY,386.0,3.7754
+2016-09-15,Tookyoo,Sinzyukuku,Tokyo,35.69,139.69,cereals and tubers,Rice,5 KG,actual,Retail,JPY,2391.0,23.3862
+2016-09-15,Tookyoo,Sinzyukuku,Tokyo,35.69,139.69,cereals and tubers,Wheat flour,KG,actual,Retail,JPY,238.0,2.3279
+2016-09-15,Tookyoo,Sinzyukuku,Tokyo,35.69,139.69,milk and dairy,Milk,L,actual,Retail,JPY,227.0,2.2203
+2016-09-15,Tookyoo,Sinzyukuku,Tokyo,35.69,139.69,miscellaneous food,Sugar,KG,actual,Retail,JPY,201.0,1.966
+2016-09-15,Tookyoo,Sinzyukuku,Tokyo,35.69,139.69,vegetables and fruits,Cabbage,KG,actual,Retail,JPY,166.0,1.6236
+2016-09-15,Tookyoo,Sinzyukuku,Tokyo,35.69,139.69,vegetables and fruits,Radish,KG,actual,Retail,JPY,231.0,2.2594
+2016-10-15,Oosaka,Oosakasi_Tyuuooku,Osaka,34.69,135.5,cereals and tubers,Potatoes,KG,actual,Retail,JPY,400.0,3.8425
+2016-10-15,Oosaka,Oosakasi_Tyuuooku,Osaka,34.69,135.5,cereals and tubers,Rice,5 KG,actual,Retail,JPY,2172.0,20.8646
+2016-10-15,Oosaka,Oosakasi_Tyuuooku,Osaka,34.69,135.5,cereals and tubers,Wheat flour,KG,actual,Retail,JPY,243.0,2.3343
+2016-10-15,Oosaka,Oosakasi_Tyuuooku,Osaka,34.69,135.5,milk and dairy,Milk,L,actual,Retail,JPY,230.0,2.2094
+2016-10-15,Oosaka,Oosakasi_Tyuuooku,Osaka,34.69,135.5,miscellaneous food,Sugar,KG,actual,Retail,JPY,190.0,1.8252
+2016-10-15,Oosaka,Oosakasi_Tyuuooku,Osaka,34.69,135.5,vegetables and fruits,Cabbage,KG,actual,Retail,JPY,254.0,2.44
+2016-10-15,Oosaka,Oosakasi_Tyuuooku,Osaka,34.69,135.5,vegetables and fruits,Radish,KG,actual,Retail,JPY,250.0,2.4015
+2016-10-15,Tookyoo,Sinzyukuku,Tokyo,35.69,139.69,cereals and tubers,Potatoes,KG,actual,Retail,JPY,373.0,3.5831
+2016-10-15,Tookyoo,Sinzyukuku,Tokyo,35.69,139.69,cereals and tubers,Rice,5 KG,actual,Retail,JPY,2411.0,23.1604
+2016-10-15,Tookyoo,Sinzyukuku,Tokyo,35.69,139.69,cereals and tubers,Wheat flour,KG,actual,Retail,JPY,240.0,2.3055
+2016-10-15,Tookyoo,Sinzyukuku,Tokyo,35.69,139.69,milk and dairy,Milk,L,actual,Retail,JPY,224.0,2.1518
+2016-10-15,Tookyoo,Sinzyukuku,Tokyo,35.69,139.69,miscellaneous food,Sugar,KG,actual,Retail,JPY,201.0,1.9308
+2016-10-15,Tookyoo,Sinzyukuku,Tokyo,35.69,139.69,vegetables and fruits,Cabbage,KG,actual,Retail,JPY,261.0,2.5072
+2016-10-15,Tookyoo,Sinzyukuku,Tokyo,35.69,139.69,vegetables and fruits,Radish,KG,actual,Retail,JPY,253.0,2.4304
+2016-11-15,Oosaka,Oosakasi_Tyuuooku,Osaka,34.69,135.5,cereals and tubers,Potatoes,KG,actual,Retail,JPY,386.0,3.5432
+2016-11-15,Oosaka,Oosakasi_Tyuuooku,Osaka,34.69,135.5,cereals and tubers,Rice,5 KG,actual,Retail,JPY,2230.0,20.47
+2016-11-15,Oosaka,Oosakasi_Tyuuooku,Osaka,34.69,135.5,cereals and tubers,Wheat flour,KG,actual,Retail,JPY,244.0,2.2398
+2016-11-15,Oosaka,Oosakasi_Tyuuooku,Osaka,34.69,135.5,milk and dairy,Milk,L,actual,Retail,JPY,233.0,2.1388
+2016-11-15,Oosaka,Oosakasi_Tyuuooku,Osaka,34.69,135.5,miscellaneous food,Sugar,KG,actual,Retail,JPY,190.0,1.7441
+2016-11-15,Oosaka,Oosakasi_Tyuuooku,Osaka,34.69,135.5,vegetables and fruits,Cabbage,KG,actual,Retail,JPY,381.0,3.4973
+2016-11-15,Oosaka,Oosakasi_Tyuuooku,Osaka,34.69,135.5,vegetables and fruits,Radish,KG,actual,Retail,JPY,273.0,2.506
+2016-11-15,Tookyoo,Sinzyukuku,Tokyo,35.69,139.69,cereals and tubers,Potatoes,KG,actual,Retail,JPY,365.0,3.3505
+2016-11-15,Tookyoo,Sinzyukuku,Tokyo,35.69,139.69,cereals and tubers,Rice,5 KG,actual,Retail,JPY,2372.0,21.7735
+2016-11-15,Tookyoo,Sinzyukuku,Tokyo,35.69,139.69,cereals and tubers,Wheat flour,KG,actual,Retail,JPY,242.0,2.2214
+2016-11-15,Tookyoo,Sinzyukuku,Tokyo,35.69,139.69,milk and dairy,Milk,L,actual,Retail,JPY,225.0,2.0654
+2016-11-15,Tookyoo,Sinzyukuku,Tokyo,35.69,139.69,miscellaneous food,Sugar,KG,actual,Retail,JPY,198.0,1.8175
+2016-11-15,Tookyoo,Sinzyukuku,Tokyo,35.69,139.69,vegetables and fruits,Cabbage,KG,actual,Retail,JPY,346.0,3.1761
+2016-11-15,Tookyoo,Sinzyukuku,Tokyo,35.69,139.69,vegetables and fruits,Radish,KG,actual,Retail,JPY,246.0,2.2581
+2016-12-15,Oosaka,Oosakasi_Tyuuooku,Osaka,34.69,135.5,cereals and tubers,Potatoes,KG,actual,Retail,JPY,388.0,3.2792
+2016-12-15,Oosaka,Oosakasi_Tyuuooku,Osaka,34.69,135.5,cereals and tubers,Rice,5 KG,actual,Retail,JPY,2266.0,19.1515
+2016-12-15,Oosaka,Oosakasi_Tyuuooku,Osaka,34.69,135.5,cereals and tubers,Wheat flour,KG,actual,Retail,JPY,246.0,2.0791
+2016-12-15,Oosaka,Oosakasi_Tyuuooku,Osaka,34.69,135.5,milk and dairy,Milk,L,actual,Retail,JPY,230.0,1.9439
+2016-12-15,Oosaka,Oosakasi_Tyuuooku,Osaka,34.69,135.5,miscellaneous food,Sugar,KG,actual,Retail,JPY,190.0,1.6058
+2016-12-15,Oosaka,Oosakasi_Tyuuooku,Osaka,34.69,135.5,vegetables and fruits,Cabbage,KG,actual,Retail,JPY,242.0,2.0453
+2016-12-15,Oosaka,Oosakasi_Tyuuooku,Osaka,34.69,135.5,vegetables and fruits,Radish,KG,actual,Retail,JPY,203.0,1.7157
+2016-12-15,Tookyoo,Sinzyukuku,Tokyo,35.69,139.69,cereals and tubers,Potatoes,KG,actual,Retail,JPY,368.0,3.1102
+2016-12-15,Tookyoo,Sinzyukuku,Tokyo,35.69,139.69,cereals and tubers,Rice,5 KG,actual,Retail,JPY,2384.0,20.1487
+2016-12-15,Tookyoo,Sinzyukuku,Tokyo,35.69,139.69,cereals and tubers,"Rice (glutinous, unmilled)",KG,actual,Retail,JPY,607.0,5.1302
+2016-12-15,Tookyoo,Sinzyukuku,Tokyo,35.69,139.69,cereals and tubers,Wheat flour,KG,actual,Retail,JPY,241.0,2.0368
+2016-12-15,Tookyoo,Sinzyukuku,Tokyo,35.69,139.69,milk and dairy,Milk,L,actual,Retail,JPY,223.0,1.8847
+2016-12-15,Tookyoo,Sinzyukuku,Tokyo,35.69,139.69,miscellaneous food,Sugar,KG,actual,Retail,JPY,195.0,1.6481
+2016-12-15,Tookyoo,Sinzyukuku,Tokyo,35.69,139.69,vegetables and fruits,Cabbage,KG,actual,Retail,JPY,233.0,1.9692
+2017-01-15,Oosaka,Oosakasi_Tyuuooku,Osaka,34.69,135.5,cereals and tubers,Potatoes,KG,actual,Retail,JPY,407.0,3.5382
+2017-01-15,Oosaka,Oosakasi_Tyuuooku,Osaka,34.69,135.5,cereals and tubers,Rice,5 KG,actual,Retail,JPY,2240.0,19.4732
+2017-01-15,Oosaka,Oosakasi_Tyuuooku,Osaka,34.69,135.5,cereals and tubers,Wheat flour,KG,actual,Retail,JPY,250.0,2.1733
+2017-01-15,Oosaka,Oosakasi_Tyuuooku,Osaka,34.69,135.5,milk and dairy,Milk,L,actual,Retail,JPY,232.0,2.0169
+2017-01-15,Oosaka,Oosakasi_Tyuuooku,Osaka,34.69,135.5,miscellaneous food,Sugar,KG,actual,Retail,JPY,190.0,1.6517
+2017-01-15,Oosaka,Oosakasi_Tyuuooku,Osaka,34.69,135.5,vegetables and fruits,Cabbage,KG,actual,Retail,JPY,244.0,2.1212
+2017-01-15,Tookyoo,Sinzyukuku,Tokyo,35.69,139.69,cereals and tubers,Potatoes,KG,actual,Retail,JPY,382.0,3.3209
+2017-01-15,Tookyoo,Sinzyukuku,Tokyo,35.69,139.69,cereals and tubers,Rice,5 KG,actual,Retail,JPY,2355.0,20.4729
+2017-01-15,Tookyoo,Sinzyukuku,Tokyo,35.69,139.69,cereals and tubers,"Rice (glutinous, unmilled)",KG,actual,Retail,JPY,615.0,5.3464
+2017-01-15,Tookyoo,Sinzyukuku,Tokyo,35.69,139.69,cereals and tubers,Wheat flour,KG,actual,Retail,JPY,242.0,2.1038
+2017-01-15,Tookyoo,Sinzyukuku,Tokyo,35.69,139.69,milk and dairy,Milk,L,actual,Retail,JPY,224.0,1.9473
+2017-01-15,Tookyoo,Sinzyukuku,Tokyo,35.69,139.69,miscellaneous food,Sugar,KG,actual,Retail,JPY,199.0,1.73
+2017-01-15,Tookyoo,Sinzyukuku,Tokyo,35.69,139.69,vegetables and fruits,Cabbage,KG,actual,Retail,JPY,213.0,1.8517
+2017-01-15,Tookyoo,Sinzyukuku,Tokyo,35.69,139.69,vegetables and fruits,Radish,KG,actual,Retail,JPY,166.0,1.4431
+2017-02-15,Oosaka,Oosakasi_Tyuuooku,Osaka,34.69,135.5,cereals and tubers,Potatoes,KG,actual,Retail,JPY,415.0,3.6349
+2017-02-15,Oosaka,Oosakasi_Tyuuooku,Osaka,34.69,135.5,cereals and tubers,Rice,5 KG,actual,Retail,JPY,2258.0,19.7775
+2017-02-15,Oosaka,Oosakasi_Tyuuooku,Osaka,34.69,135.5,cereals and tubers,Wheat flour,KG,actual,Retail,JPY,252.0,2.2072
+2017-02-15,Oosaka,Oosakasi_Tyuuooku,Osaka,34.69,135.5,milk and dairy,Milk,L,actual,Retail,JPY,230.0,2.0145
+2017-02-15,Oosaka,Oosakasi_Tyuuooku,Osaka,34.69,135.5,miscellaneous food,Sugar,KG,actual,Retail,JPY,192.0,1.6817
+2017-02-15,Oosaka,Oosakasi_Tyuuooku,Osaka,34.69,135.5,vegetables and fruits,Cabbage,KG,actual,Retail,JPY,239.0,2.0934
+2017-02-15,Tookyoo,Sinzyukuku,Tokyo,35.69,139.69,cereals and tubers,Potatoes,KG,actual,Retail,JPY,402.0,3.5211
+2017-02-15,Tookyoo,Sinzyukuku,Tokyo,35.69,139.69,cereals and tubers,Rice,5 KG,actual,Retail,JPY,2370.0,20.7585
+2017-02-15,Tookyoo,Sinzyukuku,Tokyo,35.69,139.69,cereals and tubers,Wheat flour,KG,actual,Retail,JPY,243.0,2.1284
+2017-02-15,Tookyoo,Sinzyukuku,Tokyo,35.69,139.69,milk and dairy,Milk,L,actual,Retail,JPY,223.0,1.9532
+2017-02-15,Tookyoo,Sinzyukuku,Tokyo,35.69,139.69,miscellaneous food,Sugar,KG,actual,Retail,JPY,197.0,1.7255
+2017-02-15,Tookyoo,Sinzyukuku,Tokyo,35.69,139.69,vegetables and fruits,Cabbage,KG,actual,Retail,JPY,219.0,1.9182
+2017-02-15,Tookyoo,Sinzyukuku,Tokyo,35.69,139.69,vegetables and fruits,Radish,KG,actual,Retail,JPY,164.0,1.4365
+2017-03-15,Oosaka,Oosakasi_Tyuuooku,Osaka,34.69,135.5,cereals and tubers,Potatoes,KG,actual,Retail,JPY,450.0,3.9246
+2017-03-15,Oosaka,Oosakasi_Tyuuooku,Osaka,34.69,135.5,cereals and tubers,Rice,5 KG,actual,Retail,JPY,2258.0,19.693
+2017-03-15,Oosaka,Oosakasi_Tyuuooku,Osaka,34.69,135.5,cereals and tubers,Wheat flour,KG,actual,Retail,JPY,248.0,2.1629
+2017-03-15,Oosaka,Oosakasi_Tyuuooku,Osaka,34.69,135.5,milk and dairy,Milk,L,actual,Retail,JPY,230.0,2.0059
+2017-03-15,Oosaka,Oosakasi_Tyuuooku,Osaka,34.69,135.5,miscellaneous food,Sugar,KG,actual,Retail,JPY,192.0,1.6745
+2017-03-15,Oosaka,Oosakasi_Tyuuooku,Osaka,34.69,135.5,vegetables and fruits,Cabbage,KG,actual,Retail,JPY,221.0,1.9274
+2017-03-15,Tookyoo,Sinzyukuku,Tokyo,35.69,139.69,cereals and tubers,Potatoes,KG,actual,Retail,JPY,432.0,3.7677
+2017-03-15,Tookyoo,Sinzyukuku,Tokyo,35.69,139.69,cereals and tubers,Rice,5 KG,actual,Retail,JPY,2406.0,20.9838
+2017-03-15,Tookyoo,Sinzyukuku,Tokyo,35.69,139.69,cereals and tubers,Wheat flour,KG,actual,Retail,JPY,233.0,2.0321
+2017-03-15,Tookyoo,Sinzyukuku,Tokyo,35.69,139.69,milk and dairy,Milk,L,actual,Retail,JPY,223.0,1.9449
+2017-03-15,Tookyoo,Sinzyukuku,Tokyo,35.69,139.69,miscellaneous food,Sugar,KG,actual,Retail,JPY,200.0,1.7443
+2017-03-15,Tookyoo,Sinzyukuku,Tokyo,35.69,139.69,vegetables and fruits,Cabbage,KG,actual,Retail,JPY,229.0,1.9972
+2017-03-15,Tookyoo,Sinzyukuku,Tokyo,35.69,139.69,vegetables and fruits,Radish,KG,actual,Retail,JPY,161.0,1.4042
+2017-04-15,Oosaka,Oosakasi_Tyuuooku,Osaka,34.69,135.5,cereals and tubers,Potatoes,KG,actual,Retail,JPY,480.0,4.4187
+2017-04-15,Oosaka,Oosakasi_Tyuuooku,Osaka,34.69,135.5,cereals and tubers,Rice,5 KG,actual,Retail,JPY,2258.0,20.7862
+2017-04-15,Oosaka,Oosakasi_Tyuuooku,Osaka,34.69,135.5,cereals and tubers,Wheat flour,KG,actual,Retail,JPY,248.0,2.283
+2017-04-15,Oosaka,Oosakasi_Tyuuooku,Osaka,34.69,135.5,milk and dairy,Milk,L,actual,Retail,JPY,206.0,1.8963
+2017-04-15,Oosaka,Oosakasi_Tyuuooku,Osaka,34.69,135.5,miscellaneous food,Sugar,KG,actual,Retail,JPY,197.0,1.8135
+2017-04-15,Oosaka,Oosakasi_Tyuuooku,Osaka,34.69,135.5,vegetables and fruits,Cabbage,KG,actual,Retail,JPY,244.0,2.2462
+2017-04-15,Tookyoo,Sinzyukuku,Tokyo,35.69,139.69,cereals and tubers,Potatoes,KG,actual,Retail,JPY,438.0,4.032
+2017-04-15,Tookyoo,Sinzyukuku,Tokyo,35.69,139.69,cereals and tubers,Rice,5 KG,actual,Retail,JPY,2362.0,21.7435
+2017-04-15,Tookyoo,Sinzyukuku,Tokyo,35.69,139.69,cereals and tubers,Wheat flour,KG,actual,Retail,JPY,239.0,2.2001
+2017-04-15,Tookyoo,Sinzyukuku,Tokyo,35.69,139.69,milk and dairy,Milk,L,actual,Retail,JPY,223.0,2.0528
+2017-04-15,Tookyoo,Sinzyukuku,Tokyo,35.69,139.69,miscellaneous food,Sugar,KG,actual,Retail,JPY,201.0,1.8503
+2017-04-15,Tookyoo,Sinzyukuku,Tokyo,35.69,139.69,vegetables and fruits,Cabbage,KG,actual,Retail,JPY,244.0,2.2462
+2017-04-15,Tookyoo,Sinzyukuku,Tokyo,35.69,139.69,vegetables and fruits,Radish,KG,actual,Retail,JPY,178.0,1.6386
+2017-05-15,Oosaka,Oosakasi_Tyuuooku,Osaka,34.69,135.5,cereals and tubers,Potatoes,KG,actual,Retail,JPY,456.0,4.0162
+2017-05-15,Oosaka,Oosakasi_Tyuuooku,Osaka,34.69,135.5,cereals and tubers,Rice,5 KG,actual,Retail,JPY,2284.0,20.1163
+2017-05-15,Oosaka,Oosakasi_Tyuuooku,Osaka,34.69,135.5,cereals and tubers,Wheat flour,KG,actual,Retail,JPY,249.0,2.1931
+2017-05-15,Oosaka,Oosakasi_Tyuuooku,Osaka,34.69,135.5,milk and dairy,Milk,L,actual,Retail,JPY,201.0,1.7703
+2017-05-15,Oosaka,Oosakasi_Tyuuooku,Osaka,34.69,135.5,miscellaneous food,Sugar,KG,actual,Retail,JPY,198.0,1.7439
+2017-05-15,Oosaka,Oosakasi_Tyuuooku,Osaka,34.69,135.5,vegetables and fruits,Cabbage,KG,actual,Retail,JPY,232.0,2.0433
+2017-05-15,Oosaka,Oosakasi_Tyuuooku,Osaka,34.69,135.5,vegetables and fruits,Radish,KG,actual,Retail,JPY,176.0,1.5501
+2017-05-15,Tookyoo,Sinzyukuku,Tokyo,35.69,139.69,cereals and tubers,Potatoes,KG,actual,Retail,JPY,455.0,4.0074
+2017-05-15,Tookyoo,Sinzyukuku,Tokyo,35.69,139.69,cereals and tubers,Rice,5 KG,actual,Retail,JPY,2371.0,20.8825
+2017-05-15,Tookyoo,Sinzyukuku,Tokyo,35.69,139.69,cereals and tubers,"Rice (glutinous, unmilled)",KG,actual,Retail,JPY,620.0,5.4606
+2017-05-15,Tookyoo,Sinzyukuku,Tokyo,35.69,139.69,cereals and tubers,Wheat flour,KG,actual,Retail,JPY,240.0,2.1138
+2017-05-15,Tookyoo,Sinzyukuku,Tokyo,35.69,139.69,milk and dairy,Milk,L,actual,Retail,JPY,222.0,1.9553
+2017-05-15,Tookyoo,Sinzyukuku,Tokyo,35.69,139.69,miscellaneous food,Sugar,KG,actual,Retail,JPY,202.0,1.7791
+2017-05-15,Tookyoo,Sinzyukuku,Tokyo,35.69,139.69,vegetables and fruits,Cabbage,KG,actual,Retail,JPY,197.0,1.7351
+2017-05-15,Tookyoo,Sinzyukuku,Tokyo,35.69,139.69,vegetables and fruits,Radish,KG,actual,Retail,JPY,177.0,1.5589
+2017-06-15,Oosaka,Oosakasi_Tyuuooku,Osaka,34.69,135.5,cereals and tubers,Potatoes,KG,actual,Retail,JPY,399.0,3.6056
+2017-06-15,Oosaka,Oosakasi_Tyuuooku,Osaka,34.69,135.5,cereals and tubers,Rice,5 KG,actual,Retail,JPY,2221.0,20.0705
+2017-06-15,Oosaka,Oosakasi_Tyuuooku,Osaka,34.69,135.5,cereals and tubers,Wheat flour,KG,actual,Retail,JPY,247.0,2.2321
+2017-06-15,Oosaka,Oosakasi_Tyuuooku,Osaka,34.69,135.5,milk and dairy,Milk,L,actual,Retail,JPY,208.0,1.8796
+2017-06-15,Oosaka,Oosakasi_Tyuuooku,Osaka,34.69,135.5,miscellaneous food,Sugar,KG,actual,Retail,JPY,198.0,1.7893
+2017-06-15,Oosaka,Oosakasi_Tyuuooku,Osaka,34.69,135.5,vegetables and fruits,Cabbage,KG,actual,Retail,JPY,179.0,1.6176
+2017-06-15,Oosaka,Oosakasi_Tyuuooku,Osaka,34.69,135.5,vegetables and fruits,Radish,KG,actual,Retail,JPY,190.0,1.717
+2017-06-15,Tookyoo,Sinzyukuku,Tokyo,35.69,139.69,cereals and tubers,Potatoes,KG,actual,Retail,JPY,426.0,3.8496
+2017-06-15,Tookyoo,Sinzyukuku,Tokyo,35.69,139.69,cereals and tubers,Rice,5 KG,actual,Retail,JPY,2385.0,21.5525
+2017-06-15,Tookyoo,Sinzyukuku,Tokyo,35.69,139.69,cereals and tubers,"Rice (glutinous, unmilled)",KG,actual,Retail,JPY,618.0,5.5847
+2017-06-15,Tookyoo,Sinzyukuku,Tokyo,35.69,139.69,cereals and tubers,Wheat flour,KG,actual,Retail,JPY,240.0,2.1688
+2017-06-15,Tookyoo,Sinzyukuku,Tokyo,35.69,139.69,milk and dairy,Milk,L,actual,Retail,JPY,223.0,2.0152
+2017-06-15,Tookyoo,Sinzyukuku,Tokyo,35.69,139.69,miscellaneous food,Sugar,KG,actual,Retail,JPY,202.0,1.8254
+2017-06-15,Tookyoo,Sinzyukuku,Tokyo,35.69,139.69,vegetables and fruits,Cabbage,KG,actual,Retail,JPY,157.0,1.4188
+2017-06-15,Tookyoo,Sinzyukuku,Tokyo,35.69,139.69,vegetables and fruits,Radish,KG,actual,Retail,JPY,186.0,1.6808
+2017-07-15,Oosaka,Oosakasi_Tyuuooku,Osaka,34.69,135.5,cereals and tubers,Potatoes,KG,actual,Retail,JPY,381.0,3.3819
+2017-07-15,Oosaka,Oosakasi_Tyuuooku,Osaka,34.69,135.5,cereals and tubers,Rice,5 KG,actual,Retail,JPY,2214.0,19.6521
+2017-07-15,Oosaka,Oosakasi_Tyuuooku,Osaka,34.69,135.5,cereals and tubers,"Rice (glutinous, unmilled)",KG,actual,Retail,JPY,587.0,5.2104
+2017-07-15,Oosaka,Oosakasi_Tyuuooku,Osaka,34.69,135.5,cereals and tubers,Wheat flour,KG,actual,Retail,JPY,245.0,2.1747
+2017-07-15,Oosaka,Oosakasi_Tyuuooku,Osaka,34.69,135.5,milk and dairy,Milk,L,actual,Retail,JPY,207.0,1.8374
+2017-07-15,Oosaka,Oosakasi_Tyuuooku,Osaka,34.69,135.5,miscellaneous food,Sugar,KG,actual,Retail,JPY,195.0,1.7309
+2017-07-15,Oosaka,Oosakasi_Tyuuooku,Osaka,34.69,135.5,vegetables and fruits,Cabbage,KG,actual,Retail,JPY,172.0,1.5267
+2017-07-15,Oosaka,Oosakasi_Tyuuooku,Osaka,34.69,135.5,vegetables and fruits,Radish,KG,actual,Retail,JPY,178.0,1.58
+2017-07-15,Tookyoo,Sinzyukuku,Tokyo,35.69,139.69,cereals and tubers,Potatoes,KG,actual,Retail,JPY,380.0,3.373
+2017-07-15,Tookyoo,Sinzyukuku,Tokyo,35.69,139.69,cereals and tubers,Rice,5 KG,actual,Retail,JPY,2359.0,20.9391
+2017-07-15,Tookyoo,Sinzyukuku,Tokyo,35.69,139.69,cereals and tubers,Wheat flour,KG,actual,Retail,JPY,236.0,2.0948
+2017-07-15,Tookyoo,Sinzyukuku,Tokyo,35.69,139.69,milk and dairy,Milk,L,actual,Retail,JPY,222.0,1.9705
+2017-07-15,Tookyoo,Sinzyukuku,Tokyo,35.69,139.69,miscellaneous food,Sugar,KG,actual,Retail,JPY,199.0,1.7664
+2017-07-15,Tookyoo,Sinzyukuku,Tokyo,35.69,139.69,vegetables and fruits,Cabbage,KG,actual,Retail,JPY,145.0,1.2871
+2017-07-15,Tookyoo,Sinzyukuku,Tokyo,35.69,139.69,vegetables and fruits,Radish,KG,actual,Retail,JPY,179.0,1.5889
+2017-08-15,Oosaka,Oosakasi_Tyuuooku,Osaka,34.69,135.5,cereals and tubers,Potatoes,KG,actual,Retail,JPY,391.0,3.541
+2017-08-15,Oosaka,Oosakasi_Tyuuooku,Osaka,34.69,135.5,cereals and tubers,Rice,5 KG,actual,Retail,JPY,2258.0,20.4492
+2017-08-15,Oosaka,Oosakasi_Tyuuooku,Osaka,34.69,135.5,cereals and tubers,"Rice (glutinous, unmilled)",KG,actual,Retail,JPY,559.0,5.0625
+2017-08-15,Oosaka,Oosakasi_Tyuuooku,Osaka,34.69,135.5,cereals and tubers,Wheat flour,KG,actual,Retail,JPY,245.0,2.2188
+2017-08-15,Oosaka,Oosakasi_Tyuuooku,Osaka,34.69,135.5,milk and dairy,Milk,L,actual,Retail,JPY,207.0,1.8747
+2017-08-15,Oosaka,Oosakasi_Tyuuooku,Osaka,34.69,135.5,miscellaneous food,Sugar,KG,actual,Retail,JPY,197.0,1.7841
+2017-08-15,Oosaka,Oosakasi_Tyuuooku,Osaka,34.69,135.5,vegetables and fruits,Cabbage,KG,actual,Retail,JPY,160.0,1.449
+2017-08-15,Tookyoo,Sinzyukuku,Tokyo,35.69,139.69,cereals and tubers,Potatoes,KG,actual,Retail,JPY,371.0,3.3599
+2017-08-15,Tookyoo,Sinzyukuku,Tokyo,35.69,139.69,cereals and tubers,Rice,5 KG,actual,Retail,JPY,2391.0,21.6537
+2017-08-15,Tookyoo,Sinzyukuku,Tokyo,35.69,139.69,cereals and tubers,Wheat flour,KG,actual,Retail,JPY,232.0,2.1011
+2017-08-15,Tookyoo,Sinzyukuku,Tokyo,35.69,139.69,milk and dairy,Milk,L,actual,Retail,JPY,223.0,2.0196
+2017-08-15,Tookyoo,Sinzyukuku,Tokyo,35.69,139.69,miscellaneous food,Sugar,KG,actual,Retail,JPY,200.0,1.8113
+2017-08-15,Tookyoo,Sinzyukuku,Tokyo,35.69,139.69,vegetables and fruits,Cabbage,KG,actual,Retail,JPY,139.0,1.2588
+2017-08-15,Tookyoo,Sinzyukuku,Tokyo,35.69,139.69,vegetables and fruits,Radish,KG,actual,Retail,JPY,171.0,1.5486
+2017-09-15,Oosaka,Oosakasi_Tyuuooku,Osaka,34.69,135.5,cereals and tubers,Potatoes,KG,actual,Retail,JPY,393.0,3.5457
+2017-09-15,Oosaka,Oosakasi_Tyuuooku,Osaka,34.69,135.5,cereals and tubers,Rice,5 KG,actual,Retail,JPY,2255.0,20.3446
+2017-09-15,Oosaka,Oosakasi_Tyuuooku,Osaka,34.69,135.5,cereals and tubers,"Rice (glutinous, unmilled)",KG,actual,Retail,JPY,576.0,5.1967
+2017-09-15,Oosaka,Oosakasi_Tyuuooku,Osaka,34.69,135.5,cereals and tubers,Wheat flour,KG,actual,Retail,JPY,242.0,2.1833
+2017-09-15,Oosaka,Oosakasi_Tyuuooku,Osaka,34.69,135.5,milk and dairy,Milk,L,actual,Retail,JPY,204.0,1.8405
+2017-09-15,Oosaka,Oosakasi_Tyuuooku,Osaka,34.69,135.5,miscellaneous food,Sugar,KG,actual,Retail,JPY,193.0,1.7412
+2017-09-15,Oosaka,Oosakasi_Tyuuooku,Osaka,34.69,135.5,vegetables and fruits,Cabbage,KG,actual,Retail,JPY,200.0,1.8044
+2017-09-15,Tookyoo,Sinzyukuku,Tokyo,35.69,139.69,cereals and tubers,Potatoes,KG,actual,Retail,JPY,362.0,3.266
+2017-09-15,Tookyoo,Sinzyukuku,Tokyo,35.69,139.69,cereals and tubers,Rice,5 KG,actual,Retail,JPY,2403.0,21.6799
+2017-09-15,Tookyoo,Sinzyukuku,Tokyo,35.69,139.69,cereals and tubers,Wheat flour,KG,actual,Retail,JPY,233.0,2.1021
+2017-09-15,Tookyoo,Sinzyukuku,Tokyo,35.69,139.69,milk and dairy,Milk,L,actual,Retail,JPY,222.0,2.0029
+2017-09-15,Tookyoo,Sinzyukuku,Tokyo,35.69,139.69,miscellaneous food,Sugar,KG,actual,Retail,JPY,200.0,1.8044
+2017-09-15,Tookyoo,Sinzyukuku,Tokyo,35.69,139.69,vegetables and fruits,Cabbage,KG,actual,Retail,JPY,170.0,1.5337
+2017-09-15,Tookyoo,Sinzyukuku,Tokyo,35.69,139.69,vegetables and fruits,Radish,KG,actual,Retail,JPY,182.0,1.642
+2017-10-15,Oosaka,Oosakasi_Tyuuooku,Osaka,34.69,135.5,cereals and tubers,Potatoes,KG,actual,Retail,JPY,374.0,3.3477
+2017-10-15,Oosaka,Oosakasi_Tyuuooku,Osaka,34.69,135.5,cereals and tubers,Rice,5 KG,actual,Retail,JPY,2294.0,20.5335
+2017-10-15,Oosaka,Oosakasi_Tyuuooku,Osaka,34.69,135.5,cereals and tubers,Wheat flour,KG,actual,Retail,JPY,236.0,2.1124
+2017-10-15,Oosaka,Oosakasi_Tyuuooku,Osaka,34.69,135.5,milk and dairy,Milk,L,actual,Retail,JPY,208.0,1.8618
+2017-10-15,Oosaka,Oosakasi_Tyuuooku,Osaka,34.69,135.5,miscellaneous food,Sugar,KG,actual,Retail,JPY,195.0,1.7454
+2017-10-15,Oosaka,Oosakasi_Tyuuooku,Osaka,34.69,135.5,vegetables and fruits,Cabbage,KG,actual,Retail,JPY,186.0,1.6649
+2017-10-15,Oosaka,Oosakasi_Tyuuooku,Osaka,34.69,135.5,vegetables and fruits,Radish,KG,actual,Retail,JPY,174.0,1.5575
+2017-10-15,Tookyoo,Sinzyukuku,Tokyo,35.69,139.69,cereals and tubers,Potatoes,KG,actual,Retail,JPY,344.0,3.0791
+2017-10-15,Tookyoo,Sinzyukuku,Tokyo,35.69,139.69,cereals and tubers,Rice,5 KG,actual,Retail,JPY,2395.0,21.4375
+2017-10-15,Tookyoo,Sinzyukuku,Tokyo,35.69,139.69,cereals and tubers,Wheat flour,KG,actual,Retail,JPY,234.0,2.0945
+2017-10-15,Tookyoo,Sinzyukuku,Tokyo,35.69,139.69,milk and dairy,Milk,L,actual,Retail,JPY,222.0,1.9871
+2017-10-15,Tookyoo,Sinzyukuku,Tokyo,35.69,139.69,miscellaneous food,Sugar,KG,actual,Retail,JPY,200.0,1.7902
+2017-10-15,Tookyoo,Sinzyukuku,Tokyo,35.69,139.69,vegetables and fruits,Cabbage,KG,actual,Retail,JPY,143.0,1.28
+2017-10-15,Tookyoo,Sinzyukuku,Tokyo,35.69,139.69,vegetables and fruits,Radish,KG,actual,Retail,JPY,157.0,1.4053
+2017-11-15,Oosaka,Oosakasi_Tyuuooku,Osaka,34.69,135.5,cereals and tubers,Potatoes,KG,actual,Retail,JPY,312.0,2.7574
+2017-11-15,Oosaka,Oosakasi_Tyuuooku,Osaka,34.69,135.5,cereals and tubers,Rice,5 KG,actual,Retail,JPY,2354.0,20.8042
+2017-11-15,Oosaka,Oosakasi_Tyuuooku,Osaka,34.69,135.5,cereals and tubers,Wheat flour,KG,actual,Retail,JPY,241.0,2.1299
+2017-11-15,Oosaka,Oosakasi_Tyuuooku,Osaka,34.69,135.5,milk and dairy,Milk,L,actual,Retail,JPY,206.0,1.8206
+2017-11-15,Oosaka,Oosakasi_Tyuuooku,Osaka,34.69,135.5,miscellaneous food,Sugar,KG,actual,Retail,JPY,195.0,1.7234
+2017-11-15,Oosaka,Oosakasi_Tyuuooku,Osaka,34.69,135.5,vegetables and fruits,Cabbage,KG,actual,Retail,JPY,224.0,1.9797
+2017-11-15,Oosaka,Oosakasi_Tyuuooku,Osaka,34.69,135.5,vegetables and fruits,Radish,KG,actual,Retail,JPY,203.0,1.7941
+2017-11-15,Tookyoo,Sinzyukuku,Tokyo,35.69,139.69,cereals and tubers,Potatoes,KG,actual,Retail,JPY,331.0,2.9253
+2017-11-15,Tookyoo,Sinzyukuku,Tokyo,35.69,139.69,cereals and tubers,Rice,5 KG,actual,Retail,JPY,2429.0,21.4671
+2017-11-15,Tookyoo,Sinzyukuku,Tokyo,35.69,139.69,cereals and tubers,Wheat flour,KG,actual,Retail,JPY,233.0,2.0592
+2017-11-15,Tookyoo,Sinzyukuku,Tokyo,35.69,139.69,milk and dairy,Milk,L,actual,Retail,JPY,217.0,1.9178
+2017-11-15,Tookyoo,Sinzyukuku,Tokyo,35.69,139.69,miscellaneous food,Sugar,KG,actual,Retail,JPY,197.0,1.7411
+2017-11-15,Tookyoo,Sinzyukuku,Tokyo,35.69,139.69,vegetables and fruits,Cabbage,KG,actual,Retail,JPY,185.0,1.635
+2017-11-15,Tookyoo,Sinzyukuku,Tokyo,35.69,139.69,vegetables and fruits,Radish,KG,actual,Retail,JPY,175.0,1.5466
+2017-12-15,Oosaka,Oosakasi_Tyuuooku,Osaka,34.69,135.5,cereals and tubers,Potatoes,KG,actual,Retail,JPY,345.0,3.0618
+2017-12-15,Oosaka,Oosakasi_Tyuuooku,Osaka,34.69,135.5,cereals and tubers,Rice,5 KG,actual,Retail,JPY,2363.0,20.9709
+2017-12-15,Oosaka,Oosakasi_Tyuuooku,Osaka,34.69,135.5,cereals and tubers,Wheat flour,KG,actual,Retail,JPY,238.0,2.1122
+2017-12-15,Oosaka,Oosakasi_Tyuuooku,Osaka,34.69,135.5,milk and dairy,Milk,L,actual,Retail,JPY,207.0,1.8371
+2017-12-15,Oosaka,Oosakasi_Tyuuooku,Osaka,34.69,135.5,miscellaneous food,Sugar,KG,actual,Retail,JPY,192.0,1.7039
+2017-12-15,Oosaka,Oosakasi_Tyuuooku,Osaka,34.69,135.5,vegetables and fruits,Cabbage,KG,actual,Retail,JPY,270.0,2.3962
+2017-12-15,Oosaka,Oosakasi_Tyuuooku,Osaka,34.69,135.5,vegetables and fruits,Radish,KG,actual,Retail,JPY,229.0,2.0323
+2017-12-15,Tookyoo,Sinzyukuku,Tokyo,35.69,139.69,cereals and tubers,Potatoes,KG,actual,Retail,JPY,328.0,2.9109
+2017-12-15,Tookyoo,Sinzyukuku,Tokyo,35.69,139.69,cereals and tubers,Rice,5 KG,actual,Retail,JPY,2434.0,21.601
+2017-12-15,Tookyoo,Sinzyukuku,Tokyo,35.69,139.69,cereals and tubers,Wheat flour,KG,actual,Retail,JPY,242.0,2.1477
+2017-12-15,Tookyoo,Sinzyukuku,Tokyo,35.69,139.69,milk and dairy,Milk,L,actual,Retail,JPY,210.0,1.8637
+2017-12-15,Tookyoo,Sinzyukuku,Tokyo,35.69,139.69,miscellaneous food,Sugar,KG,actual,Retail,JPY,194.0,1.7217
+2017-12-15,Tookyoo,Sinzyukuku,Tokyo,35.69,139.69,vegetables and fruits,Cabbage,KG,actual,Retail,JPY,255.0,2.263
+2018-01-15,Oosaka,Oosakasi_Tyuuooku,Osaka,34.69,135.5,cereals and tubers,Potatoes,KG,actual,Retail,JPY,328.0,2.9619
+2018-01-15,Oosaka,Oosakasi_Tyuuooku,Osaka,34.69,135.5,cereals and tubers,Rice,5 KG,actual,Retail,JPY,2295.0,20.7242
+2018-01-15,Oosaka,Oosakasi_Tyuuooku,Osaka,34.69,135.5,cereals and tubers,Wheat flour,KG,actual,Retail,JPY,249.0,2.2485
+2018-01-15,Oosaka,Oosakasi_Tyuuooku,Osaka,34.69,135.5,milk and dairy,Milk,L,actual,Retail,JPY,203.0,1.8331
+2018-01-15,Oosaka,Oosakasi_Tyuuooku,Osaka,34.69,135.5,miscellaneous food,Sugar,KG,actual,Retail,JPY,195.0,1.7609
+2018-01-15,Oosaka,Oosakasi_Tyuuooku,Osaka,34.69,135.5,vegetables and fruits,Cabbage,KG,actual,Retail,JPY,387.0,3.4947
+2018-01-15,Oosaka,Oosakasi_Tyuuooku,Osaka,34.69,135.5,vegetables and fruits,Radish,KG,actual,Retail,JPY,308.0,2.7813
+2018-01-15,Tookyoo,Sinzyukuku,Tokyo,35.69,139.69,cereals and tubers,Potatoes,KG,actual,Retail,JPY,327.0,2.9529
+2018-01-15,Tookyoo,Sinzyukuku,Tokyo,35.69,139.69,cereals and tubers,Rice,5 KG,actual,Retail,JPY,2433.0,21.9704
+2018-01-15,Tookyoo,Sinzyukuku,Tokyo,35.69,139.69,cereals and tubers,Wheat flour,KG,actual,Retail,JPY,245.0,2.2124
+2018-01-15,Tookyoo,Sinzyukuku,Tokyo,35.69,139.69,milk and dairy,Milk,L,actual,Retail,JPY,209.0,1.8873
+2018-01-15,Tookyoo,Sinzyukuku,Tokyo,35.69,139.69,miscellaneous food,Sugar,KG,actual,Retail,JPY,198.0,1.788
+2018-01-15,Tookyoo,Sinzyukuku,Tokyo,35.69,139.69,vegetables and fruits,Cabbage,KG,actual,Retail,JPY,361.0,3.2599
+2018-01-15,Tookyoo,Sinzyukuku,Tokyo,35.69,139.69,vegetables and fruits,Radish,KG,actual,Retail,JPY,312.0,2.8174
+2018-02-15,Oosaka,Oosakasi_Tyuuooku,Osaka,34.69,135.5,cereals and tubers,Potatoes,KG,actual,Retail,JPY,358.0,3.3659
+2018-02-15,Oosaka,Oosakasi_Tyuuooku,Osaka,34.69,135.5,cereals and tubers,Rice,5 KG,actual,Retail,JPY,2363.0,22.217
+2018-02-15,Oosaka,Oosakasi_Tyuuooku,Osaka,34.69,135.5,cereals and tubers,Wheat flour,KG,actual,Retail,JPY,250.0,2.3505
+2018-02-15,Oosaka,Oosakasi_Tyuuooku,Osaka,34.69,135.5,milk and dairy,Milk,L,actual,Retail,JPY,206.0,1.9368
+2018-02-15,Oosaka,Oosakasi_Tyuuooku,Osaka,34.69,135.5,miscellaneous food,Sugar,KG,actual,Retail,JPY,195.0,1.8334
+2018-02-15,Oosaka,Oosakasi_Tyuuooku,Osaka,34.69,135.5,vegetables and fruits,Cabbage,KG,actual,Retail,JPY,425.0,3.9959
+2018-02-15,Oosaka,Oosakasi_Tyuuooku,Osaka,34.69,135.5,vegetables and fruits,Radish,KG,actual,Retail,JPY,275.0,2.5856
+2018-02-15,Tookyoo,Sinzyukuku,Tokyo,35.69,139.69,cereals and tubers,Potatoes,KG,actual,Retail,JPY,331.0,3.1121
+2018-02-15,Tookyoo,Sinzyukuku,Tokyo,35.69,139.69,cereals and tubers,Rice,5 KG,actual,Retail,JPY,2438.0,22.9222
+2018-02-15,Tookyoo,Sinzyukuku,Tokyo,35.69,139.69,cereals and tubers,Wheat flour,KG,actual,Retail,JPY,248.0,2.3317
+2018-02-15,Tookyoo,Sinzyukuku,Tokyo,35.69,139.69,milk and dairy,Milk,L,actual,Retail,JPY,208.0,1.9556
+2018-02-15,Tookyoo,Sinzyukuku,Tokyo,35.69,139.69,miscellaneous food,Sugar,KG,actual,Retail,JPY,199.0,1.871
+2018-02-15,Tookyoo,Sinzyukuku,Tokyo,35.69,139.69,vegetables and fruits,Cabbage,KG,actual,Retail,JPY,401.0,3.7702
+2018-02-15,Tookyoo,Sinzyukuku,Tokyo,35.69,139.69,vegetables and fruits,Radish,KG,actual,Retail,JPY,301.0,2.83
+2018-03-15,Oosaka,Oosakasi_Tyuuooku,Osaka,34.69,135.5,cereals and tubers,Potatoes,KG,actual,Retail,JPY,364.0,3.4317
+2018-03-15,Oosaka,Oosakasi_Tyuuooku,Osaka,34.69,135.5,cereals and tubers,Rice,5 KG,actual,Retail,JPY,2318.0,21.8535
+2018-03-15,Oosaka,Oosakasi_Tyuuooku,Osaka,34.69,135.5,cereals and tubers,Wheat flour,KG,actual,Retail,JPY,253.0,2.3852
+2018-03-15,Oosaka,Oosakasi_Tyuuooku,Osaka,34.69,135.5,milk and dairy,Milk,L,actual,Retail,JPY,207.0,1.9515
+2018-03-15,Oosaka,Oosakasi_Tyuuooku,Osaka,34.69,135.5,miscellaneous food,Sugar,KG,actual,Retail,JPY,191.0,1.8007
+2018-03-15,Oosaka,Oosakasi_Tyuuooku,Osaka,34.69,135.5,vegetables and fruits,Cabbage,KG,actual,Retail,JPY,352.0,3.3186
+2018-03-15,Oosaka,Oosakasi_Tyuuooku,Osaka,34.69,135.5,vegetables and fruits,Radish,KG,actual,Retail,JPY,274.0,2.5832
+2018-03-15,Tookyoo,Sinzyukuku,Tokyo,35.69,139.69,cereals and tubers,Potatoes,KG,actual,Retail,JPY,336.0,3.1677
+2018-03-15,Tookyoo,Sinzyukuku,Tokyo,35.69,139.69,cereals and tubers,Rice,5 KG,actual,Retail,JPY,2466.0,23.2488
+2018-03-15,Tookyoo,Sinzyukuku,Tokyo,35.69,139.69,cereals and tubers,Wheat flour,KG,actual,Retail,JPY,250.0,2.3569
+2018-03-15,Tookyoo,Sinzyukuku,Tokyo,35.69,139.69,milk and dairy,Milk,L,actual,Retail,JPY,208.0,1.961
+2018-03-15,Tookyoo,Sinzyukuku,Tokyo,35.69,139.69,miscellaneous food,Sugar,KG,actual,Retail,JPY,199.0,1.8761
+2018-03-15,Tookyoo,Sinzyukuku,Tokyo,35.69,139.69,vegetables and fruits,Cabbage,KG,actual,Retail,JPY,309.0,2.9132
+2018-03-15,Tookyoo,Sinzyukuku,Tokyo,35.69,139.69,vegetables and fruits,Radish,KG,actual,Retail,JPY,248.0,2.3381
+2018-04-15,Oosaka,Oosakasi_Tyuuooku,Osaka,34.69,135.5,cereals and tubers,Potatoes,KG,actual,Retail,JPY,414.0,3.8598
+2018-04-15,Oosaka,Oosakasi_Tyuuooku,Osaka,34.69,135.5,cereals and tubers,Rice,5 KG,actual,Retail,JPY,2336.0,21.7789
+2018-04-15,Oosaka,Oosakasi_Tyuuooku,Osaka,34.69,135.5,cereals and tubers,Wheat flour,KG,actual,Retail,JPY,260.0,2.424
+2018-04-15,Oosaka,Oosakasi_Tyuuooku,Osaka,34.69,135.5,milk and dairy,Milk,L,actual,Retail,JPY,206.0,1.9206
+2018-04-15,Oosaka,Oosakasi_Tyuuooku,Osaka,34.69,135.5,miscellaneous food,Sugar,KG,actual,Retail,JPY,191.0,1.7807
+2018-04-15,Oosaka,Oosakasi_Tyuuooku,Osaka,34.69,135.5,vegetables and fruits,Cabbage,KG,actual,Retail,JPY,263.0,2.452
+2018-04-15,Oosaka,Oosakasi_Tyuuooku,Osaka,34.69,135.5,vegetables and fruits,Radish,KG,actual,Retail,JPY,191.0,1.7807
+2018-04-15,Tookyoo,Sinzyukuku,Tokyo,35.69,139.69,cereals and tubers,Potatoes,KG,actual,Retail,JPY,335.0,3.1233
+2018-04-15,Tookyoo,Sinzyukuku,Tokyo,35.69,139.69,cereals and tubers,Rice,5 KG,actual,Retail,JPY,2474.0,23.0654
+2018-04-15,Tookyoo,Sinzyukuku,Tokyo,35.69,139.69,cereals and tubers,Wheat flour,KG,actual,Retail,JPY,251.0,2.3401
+2018-04-15,Tookyoo,Sinzyukuku,Tokyo,35.69,139.69,milk and dairy,Milk,L,actual,Retail,JPY,208.0,1.9392
+2018-04-15,Tookyoo,Sinzyukuku,Tokyo,35.69,139.69,miscellaneous food,Sugar,KG,actual,Retail,JPY,199.0,1.8553
+2018-04-15,Tookyoo,Sinzyukuku,Tokyo,35.69,139.69,vegetables and fruits,Cabbage,KG,actual,Retail,JPY,189.0,1.7621
+2018-04-15,Tookyoo,Sinzyukuku,Tokyo,35.69,139.69,vegetables and fruits,Radish,KG,actual,Retail,JPY,171.0,1.5943
+2018-05-15,Oosaka,Oosakasi_Tyuuooku,Osaka,34.69,135.5,cereals and tubers,Potatoes,KG,actual,Retail,JPY,407.0,3.6916
+2018-05-15,Oosaka,Oosakasi_Tyuuooku,Osaka,34.69,135.5,cereals and tubers,Rice,5 KG,actual,Retail,JPY,2414.0,21.8957
+2018-05-15,Oosaka,Oosakasi_Tyuuooku,Osaka,34.69,135.5,cereals and tubers,Wheat flour,KG,actual,Retail,JPY,245.0,2.2222
+2018-05-15,Oosaka,Oosakasi_Tyuuooku,Osaka,34.69,135.5,milk and dairy,Milk,L,actual,Retail,JPY,206.0,1.8685
+2018-05-15,Oosaka,Oosakasi_Tyuuooku,Osaka,34.69,135.5,miscellaneous food,Sugar,KG,actual,Retail,JPY,194.0,1.7596
+2018-05-15,Oosaka,Oosakasi_Tyuuooku,Osaka,34.69,135.5,vegetables and fruits,Cabbage,KG,actual,Retail,JPY,222.0,2.0136
+2018-05-15,Oosaka,Oosakasi_Tyuuooku,Osaka,34.69,135.5,vegetables and fruits,Radish,KG,actual,Retail,JPY,177.0,1.6054
+2018-05-15,Tookyoo,Sinzyukuku,Tokyo,35.69,139.69,cereals and tubers,Potatoes,KG,actual,Retail,JPY,332.0,3.0113
+2018-05-15,Tookyoo,Sinzyukuku,Tokyo,35.69,139.69,cereals and tubers,Rice,5 KG,actual,Retail,JPY,2431.0,22.0499
+2018-05-15,Tookyoo,Sinzyukuku,Tokyo,35.69,139.69,cereals and tubers,"Rice (glutinous, unmilled)",KG,actual,Retail,JPY,613.0,5.5601
+2018-05-15,Tookyoo,Sinzyukuku,Tokyo,35.69,139.69,cereals and tubers,Wheat flour,KG,actual,Retail,JPY,246.0,2.2313
+2018-05-15,Tookyoo,Sinzyukuku,Tokyo,35.69,139.69,milk and dairy,Milk,L,actual,Retail,JPY,207.0,1.8776
+2018-05-15,Tookyoo,Sinzyukuku,Tokyo,35.69,139.69,miscellaneous food,Sugar,KG,actual,Retail,JPY,199.0,1.805
+2018-05-15,Tookyoo,Sinzyukuku,Tokyo,35.69,139.69,vegetables and fruits,Cabbage,KG,actual,Retail,JPY,145.0,1.3152
+2018-05-15,Tookyoo,Sinzyukuku,Tokyo,35.69,139.69,vegetables and fruits,Radish,KG,actual,Retail,JPY,164.0,1.4875
+2018-06-15,Oosaka,Oosakasi_Tyuuooku,Osaka,34.69,135.5,cereals and tubers,Potatoes,KG,actual,Retail,JPY,358.0,3.2375
+2018-06-15,Oosaka,Oosakasi_Tyuuooku,Osaka,34.69,135.5,cereals and tubers,Rice,5 KG,actual,Retail,JPY,2441.0,22.0745
+2018-06-15,Oosaka,Oosakasi_Tyuuooku,Osaka,34.69,135.5,cereals and tubers,Wheat flour,KG,actual,Retail,JPY,248.0,2.2427
+2018-06-15,Oosaka,Oosakasi_Tyuuooku,Osaka,34.69,135.5,milk and dairy,Milk,L,actual,Retail,JPY,207.0,1.8719
+2018-06-15,Oosaka,Oosakasi_Tyuuooku,Osaka,34.69,135.5,miscellaneous food,Sugar,KG,actual,Retail,JPY,195.0,1.7634
+2018-06-15,Oosaka,Oosakasi_Tyuuooku,Osaka,34.69,135.5,vegetables and fruits,Cabbage,KG,actual,Retail,JPY,169.0,1.5283
+2018-06-15,Oosaka,Oosakasi_Tyuuooku,Osaka,34.69,135.5,vegetables and fruits,Radish,KG,actual,Retail,JPY,192.0,1.7363
+2018-06-15,Tookyoo,Sinzyukuku,Tokyo,35.69,139.69,cereals and tubers,Potatoes,KG,actual,Retail,JPY,332.0,3.0024
+2018-06-15,Tookyoo,Sinzyukuku,Tokyo,35.69,139.69,cereals and tubers,Rice,5 KG,actual,Retail,JPY,2460.0,22.2463
+2018-06-15,Tookyoo,Sinzyukuku,Tokyo,35.69,139.69,cereals and tubers,"Rice (glutinous, unmilled)",KG,actual,Retail,JPY,612.0,5.5345
+2018-06-15,Tookyoo,Sinzyukuku,Tokyo,35.69,139.69,cereals and tubers,Wheat flour,KG,actual,Retail,JPY,248.0,2.2427
+2018-06-15,Tookyoo,Sinzyukuku,Tokyo,35.69,139.69,milk and dairy,Milk,L,actual,Retail,JPY,209.0,1.89
+2018-06-15,Tookyoo,Sinzyukuku,Tokyo,35.69,139.69,miscellaneous food,Sugar,KG,actual,Retail,JPY,199.0,1.7996
+2018-06-15,Tookyoo,Sinzyukuku,Tokyo,35.69,139.69,vegetables and fruits,Cabbage,KG,actual,Retail,JPY,148.0,1.3384
+2018-07-15,Oosaka,Oosakasi_Tyuuooku,Osaka,34.69,135.5,cereals and tubers,Potatoes,KG,actual,Retail,JPY,349.0,3.108
+2018-07-15,Oosaka,Oosakasi_Tyuuooku,Osaka,34.69,135.5,cereals and tubers,Rice,5 KG,actual,Retail,JPY,2407.0,21.4356
+2018-07-15,Oosaka,Oosakasi_Tyuuooku,Osaka,34.69,135.5,cereals and tubers,"Rice (glutinous, unmilled)",KG,actual,Retail,JPY,569.0,5.0672
+2018-07-15,Oosaka,Oosakasi_Tyuuooku,Osaka,34.69,135.5,cereals and tubers,Wheat flour,KG,actual,Retail,JPY,251.0,2.2353
+2018-07-15,Oosaka,Oosakasi_Tyuuooku,Osaka,34.69,135.5,milk and dairy,Milk,L,actual,Retail,JPY,208.0,1.8523
+2018-07-15,Oosaka,Oosakasi_Tyuuooku,Osaka,34.69,135.5,miscellaneous food,Sugar,KG,actual,Retail,JPY,195.0,1.7366
+2018-07-15,Oosaka,Oosakasi_Tyuuooku,Osaka,34.69,135.5,vegetables and fruits,Cabbage,KG,actual,Retail,JPY,204.0,1.8167
+2018-07-15,Tookyoo,Sinzyukuku,Tokyo,35.69,139.69,cereals and tubers,Potatoes,KG,actual,Retail,JPY,320.0,2.8498
+2018-07-15,Tookyoo,Sinzyukuku,Tokyo,35.69,139.69,cereals and tubers,Rice,5 KG,actual,Retail,JPY,2444.0,21.7651
+2018-07-15,Tookyoo,Sinzyukuku,Tokyo,35.69,139.69,cereals and tubers,Wheat flour,KG,actual,Retail,JPY,252.0,2.2442
+2018-07-15,Tookyoo,Sinzyukuku,Tokyo,35.69,139.69,milk and dairy,Milk,L,actual,Retail,JPY,206.0,1.8345
+2018-07-15,Tookyoo,Sinzyukuku,Tokyo,35.69,139.69,miscellaneous food,Sugar,KG,actual,Retail,JPY,199.0,1.7722
+2018-07-15,Tookyoo,Sinzyukuku,Tokyo,35.69,139.69,vegetables and fruits,Cabbage,KG,actual,Retail,JPY,174.0,1.5496
+2018-07-15,Tookyoo,Sinzyukuku,Tokyo,35.69,139.69,vegetables and fruits,Radish,KG,actual,Retail,JPY,197.0,1.7544
+2018-08-15,Oosaka,Oosakasi_Tyuuooku,Osaka,34.69,135.5,cereals and tubers,Potatoes,KG,actual,Retail,JPY,342.0,3.0917
+2018-08-15,Oosaka,Oosakasi_Tyuuooku,Osaka,34.69,135.5,cereals and tubers,Rice,5 KG,actual,Retail,JPY,2416.0,21.8405
+2018-08-15,Oosaka,Oosakasi_Tyuuooku,Osaka,34.69,135.5,cereals and tubers,Wheat flour,KG,actual,Retail,JPY,255.0,2.3052
+2018-08-15,Oosaka,Oosakasi_Tyuuooku,Osaka,34.69,135.5,milk and dairy,Milk,L,actual,Retail,JPY,205.0,1.8532
+2018-08-15,Oosaka,Oosakasi_Tyuuooku,Osaka,34.69,135.5,miscellaneous food,Sugar,KG,actual,Retail,JPY,197.0,1.7809
+2018-08-15,Oosaka,Oosakasi_Tyuuooku,Osaka,34.69,135.5,vegetables and fruits,Cabbage,KG,actual,Retail,JPY,249.0,2.2509
+2018-08-15,Tookyoo,Sinzyukuku,Tokyo,35.69,139.69,cereals and tubers,Potatoes,KG,actual,Retail,JPY,325.0,2.938
+2018-08-15,Tookyoo,Sinzyukuku,Tokyo,35.69,139.69,cereals and tubers,Rice,5 KG,actual,Retail,JPY,2453.0,22.175
+2018-08-15,Tookyoo,Sinzyukuku,Tokyo,35.69,139.69,cereals and tubers,Wheat flour,KG,actual,Retail,JPY,256.0,2.3142
+2018-08-15,Tookyoo,Sinzyukuku,Tokyo,35.69,139.69,milk and dairy,Milk,L,actual,Retail,JPY,208.0,1.8803
+2018-08-15,Tookyoo,Sinzyukuku,Tokyo,35.69,139.69,miscellaneous food,Sugar,KG,actual,Retail,JPY,200.0,1.808
+2018-08-15,Tookyoo,Sinzyukuku,Tokyo,35.69,139.69,vegetables and fruits,Cabbage,KG,actual,Retail,JPY,216.0,1.9526
+2018-08-15,Tookyoo,Sinzyukuku,Tokyo,35.69,139.69,vegetables and fruits,Radish,KG,actual,Retail,JPY,238.0,2.1515
+2018-09-15,Oosaka,Oosakasi_Tyuuooku,Osaka,34.69,135.5,cereals and tubers,Potatoes,KG,actual,Retail,JPY,362.0,3.2295
+2018-09-15,Oosaka,Oosakasi_Tyuuooku,Osaka,34.69,135.5,cereals and tubers,Rice,5 KG,actual,Retail,JPY,2378.0,21.2151
+2018-09-15,Oosaka,Oosakasi_Tyuuooku,Osaka,34.69,135.5,cereals and tubers,Wheat flour,KG,actual,Retail,JPY,246.0,2.1947
+2018-09-15,Oosaka,Oosakasi_Tyuuooku,Osaka,34.69,135.5,milk and dairy,Milk,L,actual,Retail,JPY,208.0,1.8557
+2018-09-15,Oosaka,Oosakasi_Tyuuooku,Osaka,34.69,135.5,miscellaneous food,Sugar,KG,actual,Retail,JPY,197.0,1.7575
+2018-09-15,Oosaka,Oosakasi_Tyuuooku,Osaka,34.69,135.5,vegetables and fruits,Cabbage,KG,actual,Retail,JPY,172.0,1.5345
+2018-09-15,Tookyoo,Sinzyukuku,Tokyo,35.69,139.69,cereals and tubers,Potatoes,KG,actual,Retail,JPY,341.0,3.0422
+2018-09-15,Tookyoo,Sinzyukuku,Tokyo,35.69,139.69,cereals and tubers,Rice,5 KG,actual,Retail,JPY,2437.0,21.7415
+2018-09-15,Tookyoo,Sinzyukuku,Tokyo,35.69,139.69,cereals and tubers,Wheat flour,KG,actual,Retail,JPY,255.0,2.275
+2018-09-15,Tookyoo,Sinzyukuku,Tokyo,35.69,139.69,milk and dairy,Milk,L,actual,Retail,JPY,208.0,1.8557
+2018-09-15,Tookyoo,Sinzyukuku,Tokyo,35.69,139.69,miscellaneous food,Sugar,KG,actual,Retail,JPY,202.0,1.8021
+2018-09-15,Tookyoo,Sinzyukuku,Tokyo,35.69,139.69,vegetables and fruits,Cabbage,KG,actual,Retail,JPY,147.0,1.3114
+2018-09-15,Tookyoo,Sinzyukuku,Tokyo,35.69,139.69,vegetables and fruits,Radish,KG,actual,Retail,JPY,232.0,2.0698
+2018-10-15,Oosaka,Oosakasi_Tyuuooku,Osaka,34.69,135.5,cereals and tubers,Potatoes,KG,actual,Retail,JPY,381.0,3.4073
+2018-10-15,Oosaka,Oosakasi_Tyuuooku,Osaka,34.69,135.5,cereals and tubers,Rice,5 KG,actual,Retail,JPY,2342.0,20.9444
+2018-10-15,Oosaka,Oosakasi_Tyuuooku,Osaka,34.69,135.5,cereals and tubers,Wheat flour,KG,actual,Retail,JPY,240.0,2.1463
+2018-10-15,Oosaka,Oosakasi_Tyuuooku,Osaka,34.69,135.5,milk and dairy,Milk,L,actual,Retail,JPY,207.0,1.8512
+2018-10-15,Oosaka,Oosakasi_Tyuuooku,Osaka,34.69,135.5,miscellaneous food,Sugar,KG,actual,Retail,JPY,196.0,1.7528
+2018-10-15,Oosaka,Oosakasi_Tyuuooku,Osaka,34.69,135.5,vegetables and fruits,Cabbage,KG,actual,Retail,JPY,199.0,1.7796
+2018-10-15,Oosaka,Oosakasi_Tyuuooku,Osaka,34.69,135.5,vegetables and fruits,Radish,KG,actual,Retail,JPY,216.0,1.9317
+2018-10-15,Tookyoo,Sinzyukuku,Tokyo,35.69,139.69,cereals and tubers,Potatoes,KG,actual,Retail,JPY,333.0,2.978
+2018-10-15,Tookyoo,Sinzyukuku,Tokyo,35.69,139.69,cereals and tubers,Rice,5 KG,actual,Retail,JPY,2473.0,22.1159
+2018-10-15,Tookyoo,Sinzyukuku,Tokyo,35.69,139.69,cereals and tubers,Wheat flour,KG,actual,Retail,JPY,252.0,2.2536
+2018-10-15,Tookyoo,Sinzyukuku,Tokyo,35.69,139.69,milk and dairy,Milk,L,actual,Retail,JPY,208.0,1.8601
+2018-10-15,Tookyoo,Sinzyukuku,Tokyo,35.69,139.69,miscellaneous food,Sugar,KG,actual,Retail,JPY,201.0,1.7975
+2018-10-15,Tookyoo,Sinzyukuku,Tokyo,35.69,139.69,vegetables and fruits,Cabbage,KG,actual,Retail,JPY,170.0,1.5203
+2018-10-15,Tookyoo,Sinzyukuku,Tokyo,35.69,139.69,vegetables and fruits,Radish,KG,actual,Retail,JPY,197.0,1.7618
+2018-11-15,Oosaka,Oosakasi_Tyuuooku,Osaka,34.69,135.5,cereals and tubers,Potatoes,KG,actual,Retail,JPY,346.0,3.0495
+2018-11-15,Oosaka,Oosakasi_Tyuuooku,Osaka,34.69,135.5,cereals and tubers,Rice,5 KG,actual,Retail,JPY,2398.0,21.1352
+2018-11-15,Oosaka,Oosakasi_Tyuuooku,Osaka,34.69,135.5,cereals and tubers,Wheat flour,KG,actual,Retail,JPY,250.0,2.2034
+2018-11-15,Oosaka,Oosakasi_Tyuuooku,Osaka,34.69,135.5,milk and dairy,Milk,L,actual,Retail,JPY,207.0,1.8244
+2018-11-15,Oosaka,Oosakasi_Tyuuooku,Osaka,34.69,135.5,miscellaneous food,Sugar,KG,actual,Retail,JPY,196.0,1.7275
+2018-11-15,Oosaka,Oosakasi_Tyuuooku,Osaka,34.69,135.5,vegetables and fruits,Cabbage,KG,actual,Retail,JPY,225.0,1.9831
+2018-11-15,Oosaka,Oosakasi_Tyuuooku,Osaka,34.69,135.5,vegetables and fruits,Radish,KG,actual,Retail,JPY,192.0,1.6922
+2018-11-15,Tookyoo,Sinzyukuku,Tokyo,35.69,139.69,cereals and tubers,Potatoes,KG,actual,Retail,JPY,317.0,2.7939
+2018-11-15,Tookyoo,Sinzyukuku,Tokyo,35.69,139.69,cereals and tubers,Rice,5 KG,actual,Retail,JPY,2466.0,21.7345
+2018-11-15,Tookyoo,Sinzyukuku,Tokyo,35.69,139.69,cereals and tubers,"Rice (glutinous, unmilled)",KG,actual,Retail,JPY,599.0,5.2794
+2018-11-15,Tookyoo,Sinzyukuku,Tokyo,35.69,139.69,cereals and tubers,Wheat flour,KG,actual,Retail,JPY,256.0,2.2563
+2018-11-15,Tookyoo,Sinzyukuku,Tokyo,35.69,139.69,milk and dairy,Milk,L,actual,Retail,JPY,207.0,1.8244
+2018-11-15,Tookyoo,Sinzyukuku,Tokyo,35.69,139.69,miscellaneous food,Sugar,KG,actual,Retail,JPY,198.0,1.7451
+2018-11-15,Tookyoo,Sinzyukuku,Tokyo,35.69,139.69,vegetables and fruits,Cabbage,KG,actual,Retail,JPY,174.0,1.5336
+2018-11-15,Tookyoo,Sinzyukuku,Tokyo,35.69,139.69,vegetables and fruits,Radish,KG,actual,Retail,JPY,147.0,1.2956
+2018-12-15,Oosaka,Oosakasi_Tyuuooku,Osaka,34.69,135.5,cereals and tubers,Potatoes,KG,actual,Retail,JPY,353.0,3.1142
+2018-12-15,Oosaka,Oosakasi_Tyuuooku,Osaka,34.69,135.5,cereals and tubers,Rice,5 KG,actual,Retail,JPY,2344.0,20.6793
+2018-12-15,Oosaka,Oosakasi_Tyuuooku,Osaka,34.69,135.5,cereals and tubers,"Rice (glutinous, unmilled)",KG,actual,Retail,JPY,554.0,4.8875
+2018-12-15,Oosaka,Oosakasi_Tyuuooku,Osaka,34.69,135.5,cereals and tubers,Wheat flour,KG,actual,Retail,JPY,254.0,2.2408
+2018-12-15,Oosaka,Oosakasi_Tyuuooku,Osaka,34.69,135.5,milk and dairy,Milk,L,actual,Retail,JPY,205.0,1.8086
+2018-12-15,Oosaka,Oosakasi_Tyuuooku,Osaka,34.69,135.5,miscellaneous food,Sugar,KG,actual,Retail,JPY,196.0,1.7292
+2018-12-15,Oosaka,Oosakasi_Tyuuooku,Osaka,34.69,135.5,vegetables and fruits,Cabbage,KG,actual,Retail,JPY,179.0,1.5792
+2018-12-15,Oosaka,Oosakasi_Tyuuooku,Osaka,34.69,135.5,vegetables and fruits,Radish,KG,actual,Retail,JPY,139.0,1.2263
+2018-12-15,Tookyoo,Sinzyukuku,Tokyo,35.69,139.69,cereals and tubers,Potatoes,KG,actual,Retail,JPY,322.0,2.8408
+2018-12-15,Tookyoo,Sinzyukuku,Tokyo,35.69,139.69,cereals and tubers,Rice,5 KG,actual,Retail,JPY,2433.0,21.4645
+2018-12-15,Tookyoo,Sinzyukuku,Tokyo,35.69,139.69,cereals and tubers,Wheat flour,KG,actual,Retail,JPY,251.0,2.2144
+2018-12-15,Tookyoo,Sinzyukuku,Tokyo,35.69,139.69,milk and dairy,Milk,L,actual,Retail,JPY,207.0,1.8262
+2018-12-15,Tookyoo,Sinzyukuku,Tokyo,35.69,139.69,miscellaneous food,Sugar,KG,actual,Retail,JPY,195.0,1.7203
+2018-12-15,Tookyoo,Sinzyukuku,Tokyo,35.69,139.69,vegetables and fruits,Cabbage,KG,actual,Retail,JPY,138.0,1.2175
+2019-01-15,Oosaka,Oosakasi_Tyuuooku,Osaka,34.69,135.5,cereals and tubers,Potatoes,KG,actual,Retail,JPY,351.0,3.2285
+2019-01-15,Oosaka,Oosakasi_Tyuuooku,Osaka,34.69,135.5,cereals and tubers,Rice,5 KG,actual,Retail,JPY,2353.0,21.6428
+2019-01-15,Oosaka,Oosakasi_Tyuuooku,Osaka,34.69,135.5,cereals and tubers,Wheat flour,KG,actual,Retail,JPY,255.0,2.3455
+2019-01-15,Oosaka,Oosakasi_Tyuuooku,Osaka,34.69,135.5,milk and dairy,Milk,L,actual,Retail,JPY,207.0,1.904
+2019-01-15,Oosaka,Oosakasi_Tyuuooku,Osaka,34.69,135.5,miscellaneous food,Sugar,KG,actual,Retail,JPY,196.0,1.8028
+2019-01-15,Oosaka,Oosakasi_Tyuuooku,Osaka,34.69,135.5,vegetables and fruits,Cabbage,KG,actual,Retail,JPY,190.0,1.7476
+2019-01-15,Oosaka,Oosakasi_Tyuuooku,Osaka,34.69,135.5,vegetables and fruits,Radish,KG,actual,Retail,JPY,163.0,1.4993
+2019-01-15,Tookyoo,Sinzyukuku,Tokyo,35.69,139.69,cereals and tubers,Potatoes,KG,actual,Retail,JPY,321.0,2.9525
+2019-01-15,Tookyoo,Sinzyukuku,Tokyo,35.69,139.69,cereals and tubers,Rice,5 KG,actual,Retail,JPY,2434.0,22.3878
+2019-01-15,Tookyoo,Sinzyukuku,Tokyo,35.69,139.69,cereals and tubers,Wheat flour,KG,actual,Retail,JPY,256.0,2.3547
+2019-01-15,Tookyoo,Sinzyukuku,Tokyo,35.69,139.69,milk and dairy,Milk,L,actual,Retail,JPY,207.0,1.904
+2019-01-15,Tookyoo,Sinzyukuku,Tokyo,35.69,139.69,miscellaneous food,Sugar,KG,actual,Retail,JPY,195.0,1.7936
+2019-01-15,Tookyoo,Sinzyukuku,Tokyo,35.69,139.69,vegetables and fruits,Cabbage,KG,actual,Retail,JPY,177.0,1.628
+2019-01-15,Tookyoo,Sinzyukuku,Tokyo,35.69,139.69,vegetables and fruits,Radish,KG,actual,Retail,JPY,137.0,1.2601
+2019-02-15,Oosaka,Oosakasi_Tyuuooku,Osaka,34.69,135.5,cereals and tubers,Potatoes,KG,actual,Retail,JPY,390.0,3.5281
+2019-02-15,Oosaka,Oosakasi_Tyuuooku,Osaka,34.69,135.5,cereals and tubers,Rice,5 KG,actual,Retail,JPY,2419.0,21.8835
+2019-02-15,Oosaka,Oosakasi_Tyuuooku,Osaka,34.69,135.5,cereals and tubers,Wheat flour,KG,actual,Retail,JPY,253.0,2.2888
+2019-02-15,Oosaka,Oosakasi_Tyuuooku,Osaka,34.69,135.5,milk and dairy,Milk,L,actual,Retail,JPY,206.0,1.8636
+2019-02-15,Oosaka,Oosakasi_Tyuuooku,Osaka,34.69,135.5,miscellaneous food,Sugar,KG,actual,Retail,JPY,196.0,1.7731
+2019-02-15,Oosaka,Oosakasi_Tyuuooku,Osaka,34.69,135.5,vegetables and fruits,Cabbage,KG,actual,Retail,JPY,202.0,1.8274
+2019-02-15,Oosaka,Oosakasi_Tyuuooku,Osaka,34.69,135.5,vegetables and fruits,Radish,KG,actual,Retail,JPY,164.0,1.4836
+2019-02-15,Tookyoo,Sinzyukuku,Tokyo,35.69,139.69,cereals and tubers,Potatoes,KG,actual,Retail,JPY,337.0,3.0487
+2019-02-15,Tookyoo,Sinzyukuku,Tokyo,35.69,139.69,cereals and tubers,Rice,5 KG,actual,Retail,JPY,2453.0,22.1911
+2019-02-15,Tookyoo,Sinzyukuku,Tokyo,35.69,139.69,cereals and tubers,Wheat flour,KG,actual,Retail,JPY,260.0,2.3521
+2019-02-15,Tookyoo,Sinzyukuku,Tokyo,35.69,139.69,milk and dairy,Milk,L,actual,Retail,JPY,209.0,1.8907
+2019-02-15,Tookyoo,Sinzyukuku,Tokyo,35.69,139.69,miscellaneous food,Sugar,KG,actual,Retail,JPY,201.0,1.8183
+2019-02-15,Tookyoo,Sinzyukuku,Tokyo,35.69,139.69,vegetables and fruits,Cabbage,KG,actual,Retail,JPY,186.0,1.6826
+2019-02-15,Tookyoo,Sinzyukuku,Tokyo,35.69,139.69,vegetables and fruits,Radish,KG,actual,Retail,JPY,151.0,1.366
+2019-03-15,Oosaka,Oosakasi_Tyuuooku,Osaka,34.69,135.5,cereals and tubers,Potatoes,KG,actual,Retail,JPY,333.0,2.9847
+2019-03-15,Oosaka,Oosakasi_Tyuuooku,Osaka,34.69,135.5,cereals and tubers,Rice,5 KG,actual,Retail,JPY,2457.0,22.022
+2019-03-15,Oosaka,Oosakasi_Tyuuooku,Osaka,34.69,135.5,cereals and tubers,Wheat flour,KG,actual,Retail,JPY,256.0,2.2945
+2019-03-15,Oosaka,Oosakasi_Tyuuooku,Osaka,34.69,135.5,milk and dairy,Milk,L,actual,Retail,JPY,207.0,1.8553
+2019-03-15,Oosaka,Oosakasi_Tyuuooku,Osaka,34.69,135.5,miscellaneous food,Sugar,KG,actual,Retail,JPY,196.0,1.7567
+2019-03-15,Oosaka,Oosakasi_Tyuuooku,Osaka,34.69,135.5,vegetables and fruits,Cabbage,KG,actual,Retail,JPY,154.0,1.3803
+2019-03-15,Oosaka,Oosakasi_Tyuuooku,Osaka,34.69,135.5,vegetables and fruits,Radish,KG,actual,Retail,JPY,157.0,1.4072
+2019-03-15,Tookyoo,Sinzyukuku,Tokyo,35.69,139.69,cereals and tubers,Potatoes,KG,actual,Retail,JPY,337.0,3.0205
+2019-03-15,Tookyoo,Sinzyukuku,Tokyo,35.69,139.69,cereals and tubers,Rice,5 KG,actual,Retail,JPY,2451.0,21.9683
+2019-03-15,Tookyoo,Sinzyukuku,Tokyo,35.69,139.69,cereals and tubers,Wheat flour,KG,actual,Retail,JPY,264.0,2.3662
+2019-03-15,Tookyoo,Sinzyukuku,Tokyo,35.69,139.69,milk and dairy,Milk,L,actual,Retail,JPY,210.0,1.8822
+2019-03-15,Tookyoo,Sinzyukuku,Tokyo,35.69,139.69,miscellaneous food,Sugar,KG,actual,Retail,JPY,202.0,1.8105
+2019-03-15,Tookyoo,Sinzyukuku,Tokyo,35.69,139.69,vegetables and fruits,Cabbage,KG,actual,Retail,JPY,139.0,1.2459
+2019-03-15,Tookyoo,Sinzyukuku,Tokyo,35.69,139.69,vegetables and fruits,Radish,KG,actual,Retail,JPY,136.0,1.219
+2019-04-15,Oosaka,Oosakasi_Tyuuooku,Osaka,34.69,135.5,cereals and tubers,Potatoes,KG,actual,Retail,JPY,343.0,3.0625
+2019-04-15,Oosaka,Oosakasi_Tyuuooku,Osaka,34.69,135.5,cereals and tubers,Rice,5 KG,actual,Retail,JPY,2404.0,21.4643
+2019-04-15,Oosaka,Oosakasi_Tyuuooku,Osaka,34.69,135.5,cereals and tubers,Wheat flour,KG,actual,Retail,JPY,257.0,2.2946
+2019-04-15,Oosaka,Oosakasi_Tyuuooku,Osaka,34.69,135.5,milk and dairy,Milk,L,actual,Retail,JPY,208.0,1.8571
+2019-04-15,Oosaka,Oosakasi_Tyuuooku,Osaka,34.69,135.5,miscellaneous food,Sugar,KG,actual,Retail,JPY,196.0,1.75
+2019-04-15,Oosaka,Oosakasi_Tyuuooku,Osaka,34.69,135.5,vegetables and fruits,Cabbage,KG,actual,Retail,JPY,190.0,1.6964
+2019-04-15,Oosaka,Oosakasi_Tyuuooku,Osaka,34.69,135.5,vegetables and fruits,Radish,KG,actual,Retail,JPY,186.0,1.6607
+2019-04-15,Tookyoo,Sinzyukuku,Tokyo,35.69,139.69,cereals and tubers,Potatoes,KG,actual,Retail,JPY,337.0,3.0089
+2019-04-15,Tookyoo,Sinzyukuku,Tokyo,35.69,139.69,cereals and tubers,Rice,5 KG,actual,Retail,JPY,2443.0,21.8125
+2019-04-15,Tookyoo,Sinzyukuku,Tokyo,35.69,139.69,cereals and tubers,Wheat flour,KG,actual,Retail,JPY,265.0,2.3661
+2019-04-15,Tookyoo,Sinzyukuku,Tokyo,35.69,139.69,milk and dairy,Milk,L,actual,Retail,JPY,214.0,1.9107
+2019-04-15,Tookyoo,Sinzyukuku,Tokyo,35.69,139.69,miscellaneous food,Sugar,KG,actual,Retail,JPY,202.0,1.8036
+2019-04-15,Tookyoo,Sinzyukuku,Tokyo,35.69,139.69,vegetables and fruits,Cabbage,KG,actual,Retail,JPY,177.0,1.5804
+2019-04-15,Tookyoo,Sinzyukuku,Tokyo,35.69,139.69,vegetables and fruits,Radish,KG,actual,Retail,JPY,164.0,1.4643
+2019-07-15,Oosaka,Oosakasi_Tyuuooku,Osaka,34.69,135.5,cereals and tubers,Potatoes,KG,actual,Retail,JPY,363.0,3.3645
+2019-07-15,Oosaka,Oosakasi_Tyuuooku,Osaka,34.69,135.5,cereals and tubers,Rice,5 KG,actual,Retail,JPY,2392.0,22.1707
+2019-07-15,Oosaka,Oosakasi_Tyuuooku,Osaka,34.69,135.5,cereals and tubers,Wheat flour,KG,actual,Retail,JPY,250.0,2.3172
+2019-07-15,Oosaka,Oosakasi_Tyuuooku,Osaka,34.69,135.5,milk and dairy,Milk,L,actual,Retail,JPY,213.0,1.9742
+2019-07-15,Oosaka,Oosakasi_Tyuuooku,Osaka,34.69,135.5,miscellaneous food,Sugar,KG,actual,Retail,JPY,188.0,1.7425
+2019-07-15,Oosaka,Oosakasi_Tyuuooku,Osaka,34.69,135.5,vegetables and fruits,Cabbage,KG,actual,Retail,JPY,193.0,1.7889
+2019-07-15,Tookyoo,Sinzyukuku,Tokyo,35.69,139.69,cereals and tubers,Potatoes,KG,actual,Retail,JPY,363.0,3.3645
+2019-07-15,Tookyoo,Sinzyukuku,Tokyo,35.69,139.69,cereals and tubers,Rice,5 KG,actual,Retail,JPY,2458.0,22.7825
+2019-07-15,Tookyoo,Sinzyukuku,Tokyo,35.69,139.69,cereals and tubers,Wheat flour,KG,actual,Retail,JPY,266.0,2.4655
+2019-07-15,Tookyoo,Sinzyukuku,Tokyo,35.69,139.69,milk and dairy,Milk,L,actual,Retail,JPY,217.0,2.0113
+2019-07-15,Tookyoo,Sinzyukuku,Tokyo,35.69,139.69,miscellaneous food,Sugar,KG,actual,Retail,JPY,198.0,1.8352
+2019-07-15,Tookyoo,Sinzyukuku,Tokyo,35.69,139.69,vegetables and fruits,Cabbage,KG,actual,Retail,JPY,154.0,1.4274
+2019-07-15,Tookyoo,Sinzyukuku,Tokyo,35.69,139.69,vegetables and fruits,Radish,KG,actual,Retail,JPY,159.0,1.4737
+2019-08-15,Oosaka,Oosakasi_Tyuuooku,Osaka,34.69,135.5,cereals and tubers,Potatoes,KG,actual,Retail,JPY,383.0,3.6091
+2019-08-15,Oosaka,Oosakasi_Tyuuooku,Osaka,34.69,135.5,cereals and tubers,Rice,5 KG,actual,Retail,JPY,2383.0,22.4557
+2019-08-15,Oosaka,Oosakasi_Tyuuooku,Osaka,34.69,135.5,cereals and tubers,Wheat flour,KG,actual,Retail,JPY,248.0,2.337
+2019-08-15,Oosaka,Oosakasi_Tyuuooku,Osaka,34.69,135.5,milk and dairy,Milk,L,actual,Retail,JPY,214.0,2.0166
+2019-08-15,Oosaka,Oosakasi_Tyuuooku,Osaka,34.69,135.5,miscellaneous food,Sugar,KG,actual,Retail,JPY,184.0,1.7339
+2019-08-15,Oosaka,Oosakasi_Tyuuooku,Osaka,34.69,135.5,vegetables and fruits,Cabbage,KG,actual,Retail,JPY,215.0,2.026
+2019-08-15,Tookyoo,Sinzyukuku,Tokyo,35.69,139.69,cereals and tubers,Potatoes,KG,actual,Retail,JPY,371.0,3.496
+2019-08-15,Tookyoo,Sinzyukuku,Tokyo,35.69,139.69,cereals and tubers,Rice,5 KG,actual,Retail,JPY,2431.0,22.908
+2019-08-15,Tookyoo,Sinzyukuku,Tokyo,35.69,139.69,cereals and tubers,Wheat flour,KG,actual,Retail,JPY,266.0,2.5066
+2019-08-15,Tookyoo,Sinzyukuku,Tokyo,35.69,139.69,milk and dairy,Milk,L,actual,Retail,JPY,216.0,2.0354
+2019-08-15,Tookyoo,Sinzyukuku,Tokyo,35.69,139.69,miscellaneous food,Sugar,KG,actual,Retail,JPY,199.0,1.8752
+2019-08-15,Tookyoo,Sinzyukuku,Tokyo,35.69,139.69,vegetables and fruits,Cabbage,KG,actual,Retail,JPY,188.0,1.7716
+2019-08-15,Tookyoo,Sinzyukuku,Tokyo,35.69,139.69,vegetables and fruits,Radish,KG,actual,Retail,JPY,171.0,1.6114
+2019-09-15,Oosaka,Oosakasi_Tyuuooku,Osaka,34.69,135.5,cereals and tubers,Potatoes,KG,actual,Retail,JPY,333.0,3.085
+2019-09-15,Oosaka,Oosakasi_Tyuuooku,Osaka,34.69,135.5,cereals and tubers,Rice,5 KG,actual,Retail,JPY,2448.0,22.6793
+2019-09-15,Oosaka,Oosakasi_Tyuuooku,Osaka,34.69,135.5,cereals and tubers,Wheat flour,KG,actual,Retail,JPY,256.0,2.3717
+2019-09-15,Oosaka,Oosakasi_Tyuuooku,Osaka,34.69,135.5,milk and dairy,Milk,L,actual,Retail,JPY,215.0,1.9918
+2019-09-15,Oosaka,Oosakasi_Tyuuooku,Osaka,34.69,135.5,miscellaneous food,Sugar,KG,actual,Retail,JPY,188.0,1.7417
+2019-09-15,Oosaka,Oosakasi_Tyuuooku,Osaka,34.69,135.5,vegetables and fruits,Cabbage,KG,actual,Retail,JPY,199.0,1.8436
+2019-09-15,Tookyoo,Sinzyukuku,Tokyo,35.69,139.69,cereals and tubers,Potatoes,KG,actual,Retail,JPY,334.0,3.0943
+2019-09-15,Tookyoo,Sinzyukuku,Tokyo,35.69,139.69,cereals and tubers,Rice,5 KG,actual,Retail,JPY,2475.0,22.9294
+2019-09-15,Tookyoo,Sinzyukuku,Tokyo,35.69,139.69,cereals and tubers,Wheat flour,KG,actual,Retail,JPY,262.0,2.4273
+2019-09-15,Tookyoo,Sinzyukuku,Tokyo,35.69,139.69,milk and dairy,Milk,L,actual,Retail,JPY,218.0,2.0196
+2019-09-15,Tookyoo,Sinzyukuku,Tokyo,35.69,139.69,miscellaneous food,Sugar,KG,actual,Retail,JPY,201.0,1.8621
+2019-09-15,Tookyoo,Sinzyukuku,Tokyo,35.69,139.69,vegetables and fruits,Cabbage,KG,actual,Retail,JPY,177.0,1.6398
+2019-09-15,Tookyoo,Sinzyukuku,Tokyo,35.69,139.69,vegetables and fruits,Radish,KG,actual,Retail,JPY,175.0,1.6213
+2019-10-15,Oosaka,Oosakasi_Tyuuooku,Osaka,34.69,135.5,cereals and tubers,Potatoes,KG,actual,Retail,JPY,326.0,2.9955
+2019-10-15,Oosaka,Oosakasi_Tyuuooku,Osaka,34.69,135.5,cereals and tubers,Rice,5 KG,actual,Retail,JPY,2461.0,22.6133
+2019-10-15,Oosaka,Oosakasi_Tyuuooku,Osaka,34.69,135.5,cereals and tubers,Wheat flour,KG,actual,Retail,JPY,252.0,2.3155
+2019-10-15,Oosaka,Oosakasi_Tyuuooku,Osaka,34.69,135.5,milk and dairy,Milk,L,actual,Retail,JPY,214.0,1.9664
+2019-10-15,Oosaka,Oosakasi_Tyuuooku,Osaka,34.69,135.5,miscellaneous food,Sugar,KG,actual,Retail,JPY,188.0,1.7275
+2019-10-15,Oosaka,Oosakasi_Tyuuooku,Osaka,34.69,135.5,vegetables and fruits,Cabbage,KG,actual,Retail,JPY,200.0,1.8377
+2019-10-15,Oosaka,Oosakasi_Tyuuooku,Osaka,34.69,135.5,vegetables and fruits,Radish,KG,actual,Retail,JPY,197.0,1.8102
+2019-10-15,Tookyoo,Sinzyukuku,Tokyo,35.69,139.69,cereals and tubers,Potatoes,KG,actual,Retail,JPY,329.0,3.0231
+2019-10-15,Tookyoo,Sinzyukuku,Tokyo,35.69,139.69,cereals and tubers,Rice,5 KG,actual,Retail,JPY,2474.0,22.7327
+2019-10-15,Tookyoo,Sinzyukuku,Tokyo,35.69,139.69,cereals and tubers,"Rice (glutinous, unmilled)",KG,actual,Retail,JPY,606.0,5.5683
+2019-10-15,Tookyoo,Sinzyukuku,Tokyo,35.69,139.69,cereals and tubers,Wheat flour,KG,actual,Retail,JPY,264.0,2.4258
+2019-10-15,Tookyoo,Sinzyukuku,Tokyo,35.69,139.69,milk and dairy,Milk,L,actual,Retail,JPY,217.0,1.9939
+2019-10-15,Tookyoo,Sinzyukuku,Tokyo,35.69,139.69,miscellaneous food,Sugar,KG,actual,Retail,JPY,201.0,1.8469
+2019-10-15,Tookyoo,Sinzyukuku,Tokyo,35.69,139.69,vegetables and fruits,Cabbage,KG,actual,Retail,JPY,154.0,1.4151
+2019-10-15,Tookyoo,Sinzyukuku,Tokyo,35.69,139.69,vegetables and fruits,Radish,KG,actual,Retail,JPY,169.0,1.5529
+2019-11-15,Oosaka,Oosakasi_Tyuuooku,Osaka,34.69,135.5,cereals and tubers,Potatoes,KG,actual,Retail,JPY,330.0,3.0331
+2019-11-15,Oosaka,Oosakasi_Tyuuooku,Osaka,34.69,135.5,cereals and tubers,Rice,5 KG,actual,Retail,JPY,2466.0,22.6654
+2019-11-15,Oosaka,Oosakasi_Tyuuooku,Osaka,34.69,135.5,cereals and tubers,Wheat flour,KG,actual,Retail,JPY,248.0,2.2794
+2019-11-15,Oosaka,Oosakasi_Tyuuooku,Osaka,34.69,135.5,milk and dairy,Milk,L,actual,Retail,JPY,215.0,1.9761
+2019-11-15,Oosaka,Oosakasi_Tyuuooku,Osaka,34.69,135.5,miscellaneous food,Sugar,KG,actual,Retail,JPY,187.0,1.7188
+2019-11-15,Oosaka,Oosakasi_Tyuuooku,Osaka,34.69,135.5,vegetables and fruits,Cabbage,KG,actual,Retail,JPY,176.0,1.6176
+2019-11-15,Oosaka,Oosakasi_Tyuuooku,Osaka,34.69,135.5,vegetables and fruits,Radish,KG,actual,Retail,JPY,178.0,1.636
+2019-11-15,Tookyoo,Sinzyukuku,Tokyo,35.69,139.69,cereals and tubers,Potatoes,KG,actual,Retail,JPY,321.0,2.9504
+2019-11-15,Tookyoo,Sinzyukuku,Tokyo,35.69,139.69,cereals and tubers,Rice,5 KG,actual,Retail,JPY,2483.0,22.8217
+2019-11-15,Tookyoo,Sinzyukuku,Tokyo,35.69,139.69,cereals and tubers,"Rice (glutinous, unmilled)",KG,actual,Retail,JPY,610.0,5.6066
+2019-11-15,Tookyoo,Sinzyukuku,Tokyo,35.69,139.69,cereals and tubers,Wheat flour,KG,actual,Retail,JPY,264.0,2.4265
+2019-11-15,Tookyoo,Sinzyukuku,Tokyo,35.69,139.69,milk and dairy,Milk,L,actual,Retail,JPY,216.0,1.9853
+2019-11-15,Tookyoo,Sinzyukuku,Tokyo,35.69,139.69,miscellaneous food,Sugar,KG,actual,Retail,JPY,199.0,1.829
+2019-11-15,Tookyoo,Sinzyukuku,Tokyo,35.69,139.69,vegetables and fruits,Cabbage,KG,actual,Retail,JPY,161.0,1.4798
+2019-11-15,Tookyoo,Sinzyukuku,Tokyo,35.69,139.69,vegetables and fruits,Radish,KG,actual,Retail,JPY,177.0,1.6268
+2019-12-15,Oosaka,Oosakasi_Tyuuooku,Osaka,34.69,135.5,cereals and tubers,Potatoes,KG,actual,Retail,JPY,329.0,3.0007
+2019-12-15,Oosaka,Oosakasi_Tyuuooku,Osaka,34.69,135.5,cereals and tubers,Rice,5 KG,actual,Retail,JPY,2434.0,22.1999
+2019-12-15,Oosaka,Oosakasi_Tyuuooku,Osaka,34.69,135.5,cereals and tubers,"Rice (glutinous, unmilled)",KG,actual,Retail,JPY,568.0,5.1806
+2019-12-15,Oosaka,Oosakasi_Tyuuooku,Osaka,34.69,135.5,cereals and tubers,Wheat flour,KG,actual,Retail,JPY,258.0,2.3532
+2019-12-15,Oosaka,Oosakasi_Tyuuooku,Osaka,34.69,135.5,milk and dairy,Milk,L,actual,Retail,JPY,215.0,1.961
+2019-12-15,Oosaka,Oosakasi_Tyuuooku,Osaka,34.69,135.5,miscellaneous food,Sugar,KG,actual,Retail,JPY,184.0,1.6782
+2019-12-15,Oosaka,Oosakasi_Tyuuooku,Osaka,34.69,135.5,vegetables and fruits,Cabbage,KG,actual,Retail,JPY,161.0,1.4684
+2019-12-15,Oosaka,Oosakasi_Tyuuooku,Osaka,34.69,135.5,vegetables and fruits,Radish,KG,actual,Retail,JPY,192.0,1.7512
+2019-12-15,Tookyoo,Sinzyukuku,Tokyo,35.69,139.69,cereals and tubers,Potatoes,KG,actual,Retail,JPY,322.0,2.9369
+2019-12-15,Tookyoo,Sinzyukuku,Tokyo,35.69,139.69,cereals and tubers,Rice,5 KG,actual,Retail,JPY,2472.0,22.5465
+2019-12-15,Tookyoo,Sinzyukuku,Tokyo,35.69,139.69,cereals and tubers,Wheat flour,KG,actual,Retail,JPY,262.0,2.3896
+2019-12-15,Tookyoo,Sinzyukuku,Tokyo,35.69,139.69,milk and dairy,Milk,L,actual,Retail,JPY,215.0,1.961
+2019-12-15,Tookyoo,Sinzyukuku,Tokyo,35.69,139.69,miscellaneous food,Sugar,KG,actual,Retail,JPY,196.0,1.7877
+2019-12-15,Tookyoo,Sinzyukuku,Tokyo,35.69,139.69,vegetables and fruits,Cabbage,KG,actual,Retail,JPY,154.0,1.4046
+2019-12-15,Tookyoo,Sinzyukuku,Tokyo,35.69,139.69,vegetables and fruits,Radish,KG,actual,Retail,JPY,151.0,1.3772
+2020-01-15,Oosaka,Oosakasi_Tyuuooku,Osaka,34.69,135.5,cereals and tubers,Potatoes,KG,actual,Retail,JPY,346.0,3.1472
+2020-01-15,Oosaka,Oosakasi_Tyuuooku,Osaka,34.69,135.5,cereals and tubers,Rice,5 KG,actual,Retail,JPY,2422.0,22.0302
+2020-01-15,Oosaka,Oosakasi_Tyuuooku,Osaka,34.69,135.5,cereals and tubers,Wheat flour,KG,actual,Retail,JPY,248.0,2.2558
+2020-01-15,Oosaka,Oosakasi_Tyuuooku,Osaka,34.69,135.5,milk and dairy,Milk,L,actual,Retail,JPY,214.0,1.9465
+2020-01-15,Oosaka,Oosakasi_Tyuuooku,Osaka,34.69,135.5,miscellaneous food,Sugar,KG,actual,Retail,JPY,182.0,1.6554
+2020-01-15,Oosaka,Oosakasi_Tyuuooku,Osaka,34.69,135.5,vegetables and fruits,Cabbage,KG,actual,Retail,JPY,155.0,1.4099
+2020-01-15,Oosaka,Oosakasi_Tyuuooku,Osaka,34.69,135.5,vegetables and fruits,Radish,KG,actual,Retail,JPY,154.0,1.4008
+2020-01-15,Tookyoo,Sinzyukuku,Tokyo,35.69,139.69,cereals and tubers,Potatoes,KG,actual,Retail,JPY,325.0,2.9562
+2020-01-15,Tookyoo,Sinzyukuku,Tokyo,35.69,139.69,cereals and tubers,Rice,5 KG,actual,Retail,JPY,2439.0,22.1848
+2020-01-15,Tookyoo,Sinzyukuku,Tokyo,35.69,139.69,cereals and tubers,Wheat flour,KG,actual,Retail,JPY,266.0,2.4195
+2020-01-15,Tookyoo,Sinzyukuku,Tokyo,35.69,139.69,milk and dairy,Milk,L,actual,Retail,JPY,215.0,1.9556
+2020-01-15,Tookyoo,Sinzyukuku,Tokyo,35.69,139.69,miscellaneous food,Sugar,KG,actual,Retail,JPY,197.0,1.7919
+2020-01-15,Tookyoo,Sinzyukuku,Tokyo,35.69,139.69,vegetables and fruits,Cabbage,KG,actual,Retail,JPY,152.0,1.3826
+2020-01-15,Tookyoo,Sinzyukuku,Tokyo,35.69,139.69,vegetables and fruits,Radish,KG,actual,Retail,JPY,144.0,1.3098
+2020-02-15,Oosaka,Oosakasi_Tyuuooku,Osaka,34.69,135.5,cereals and tubers,Potatoes,KG,actual,Retail,JPY,318.0,2.897
+2020-02-15,Oosaka,Oosakasi_Tyuuooku,Osaka,34.69,135.5,cereals and tubers,Rice,5 KG,actual,Retail,JPY,2382.0,21.6999
+2020-02-15,Oosaka,Oosakasi_Tyuuooku,Osaka,34.69,135.5,cereals and tubers,Wheat flour,KG,actual,Retail,JPY,246.0,2.241
+2020-02-15,Oosaka,Oosakasi_Tyuuooku,Osaka,34.69,135.5,milk and dairy,Milk,L,actual,Retail,JPY,213.0,1.9404
+2020-02-15,Oosaka,Oosakasi_Tyuuooku,Osaka,34.69,135.5,miscellaneous food,Sugar,KG,actual,Retail,JPY,190.0,1.7309
+2020-02-15,Oosaka,Oosakasi_Tyuuooku,Osaka,34.69,135.5,vegetables and fruits,Cabbage,KG,actual,Retail,JPY,124.0,1.1296
+2020-02-15,Oosaka,Oosakasi_Tyuuooku,Osaka,34.69,135.5,vegetables and fruits,Radish,KG,actual,Retail,JPY,144.0,1.3118
+2020-02-15,Tookyoo,Sinzyukuku,Tokyo,35.69,139.69,cereals and tubers,Potatoes,KG,actual,Retail,JPY,323.0,2.9425
+2020-02-15,Tookyoo,Sinzyukuku,Tokyo,35.69,139.69,cereals and tubers,Rice,5 KG,actual,Retail,JPY,2455.0,22.3649
+2020-02-15,Tookyoo,Sinzyukuku,Tokyo,35.69,139.69,cereals and tubers,Wheat flour,KG,actual,Retail,JPY,259.0,2.3595
+2020-02-15,Tookyoo,Sinzyukuku,Tokyo,35.69,139.69,milk and dairy,Milk,L,actual,Retail,JPY,216.0,1.9678
+2020-02-15,Tookyoo,Sinzyukuku,Tokyo,35.69,139.69,miscellaneous food,Sugar,KG,actual,Retail,JPY,199.0,1.8129
+2020-02-15,Tookyoo,Sinzyukuku,Tokyo,35.69,139.69,vegetables and fruits,Cabbage,KG,actual,Retail,JPY,128.0,1.1661
+2020-02-15,Tookyoo,Sinzyukuku,Tokyo,35.69,139.69,vegetables and fruits,Radish,KG,actual,Retail,JPY,126.0,1.1479
+2020-03-15,Oosaka,Oosakasi_Tyuuooku,Osaka,34.69,135.5,cereals and tubers,Potatoes,KG,actual,Retail,JPY,325.0,3.0765
+2020-03-15,Oosaka,Oosakasi_Tyuuooku,Osaka,34.69,135.5,cereals and tubers,Rice,5 KG,actual,Retail,JPY,2421.0,22.9175
+2020-03-15,Oosaka,Oosakasi_Tyuuooku,Osaka,34.69,135.5,cereals and tubers,Wheat flour,KG,actual,Retail,JPY,244.0,2.3097
+2020-03-15,Oosaka,Oosakasi_Tyuuooku,Osaka,34.69,135.5,milk and dairy,Milk,L,actual,Retail,JPY,212.0,2.0068
+2020-03-15,Oosaka,Oosakasi_Tyuuooku,Osaka,34.69,135.5,miscellaneous food,Sugar,KG,actual,Retail,JPY,190.0,1.7986
+2020-03-15,Oosaka,Oosakasi_Tyuuooku,Osaka,34.69,135.5,vegetables and fruits,Cabbage,KG,actual,Retail,JPY,147.0,1.3915
+2020-03-15,Tookyoo,Sinzyukuku,Tokyo,35.69,139.69,cereals and tubers,Potatoes,KG,actual,Retail,JPY,324.0,3.067
+2020-03-15,Tookyoo,Sinzyukuku,Tokyo,35.69,139.69,cereals and tubers,Rice,5 KG,actual,Retail,JPY,2443.0,23.1257
+2020-03-15,Tookyoo,Sinzyukuku,Tokyo,35.69,139.69,cereals and tubers,Wheat flour,KG,actual,Retail,JPY,263.0,2.4896
+2020-03-15,Tookyoo,Sinzyukuku,Tokyo,35.69,139.69,milk and dairy,Milk,L,actual,Retail,JPY,216.0,2.0447
+2020-03-15,Tookyoo,Sinzyukuku,Tokyo,35.69,139.69,miscellaneous food,Sugar,KG,actual,Retail,JPY,198.0,1.8743
+2020-03-15,Tookyoo,Sinzyukuku,Tokyo,35.69,139.69,vegetables and fruits,Cabbage,KG,actual,Retail,JPY,149.0,1.4105
+2020-03-15,Tookyoo,Sinzyukuku,Tokyo,35.69,139.69,vegetables and fruits,Radish,KG,actual,Retail,JPY,141.0,1.3347
+2020-04-15,Oosaka,Oosakasi_Tyuuooku,Osaka,34.69,135.5,cereals and tubers,Potatoes,KG,actual,Retail,JPY,385.0,3.5841
+2020-04-15,Oosaka,Oosakasi_Tyuuooku,Osaka,34.69,135.5,cereals and tubers,Rice,5 KG,actual,Retail,JPY,2421.0,22.5377
+2020-04-15,Oosaka,Oosakasi_Tyuuooku,Osaka,34.69,135.5,cereals and tubers,Wheat flour,KG,actual,Retail,JPY,246.0,2.2901
+2020-04-15,Oosaka,Oosakasi_Tyuuooku,Osaka,34.69,135.5,milk and dairy,Milk,L,actual,Retail,JPY,214.0,1.9922
+2020-04-15,Oosaka,Oosakasi_Tyuuooku,Osaka,34.69,135.5,miscellaneous food,Sugar,KG,actual,Retail,JPY,192.0,1.7874
+2020-04-15,Oosaka,Oosakasi_Tyuuooku,Osaka,34.69,135.5,vegetables and fruits,Cabbage,KG,actual,Retail,JPY,256.0,2.3832
+2020-04-15,Tookyoo,Sinzyukuku,Tokyo,35.69,139.69,cereals and tubers,Potatoes,KG,actual,Retail,JPY,342.0,3.1838
+2020-04-15,Tookyoo,Sinzyukuku,Tokyo,35.69,139.69,cereals and tubers,Rice,5 KG,actual,Retail,JPY,2407.0,22.4074
+2020-04-15,Tookyoo,Sinzyukuku,Tokyo,35.69,139.69,cereals and tubers,Wheat flour,KG,actual,Retail,JPY,263.0,2.4483
+2020-04-15,Tookyoo,Sinzyukuku,Tokyo,35.69,139.69,milk and dairy,Milk,L,actual,Retail,JPY,214.0,1.9922
+2020-04-15,Tookyoo,Sinzyukuku,Tokyo,35.69,139.69,miscellaneous food,Sugar,KG,actual,Retail,JPY,198.0,1.8432
+2020-04-15,Tookyoo,Sinzyukuku,Tokyo,35.69,139.69,vegetables and fruits,Cabbage,KG,actual,Retail,JPY,264.0,2.4576
+2020-04-15,Tookyoo,Sinzyukuku,Tokyo,35.69,139.69,vegetables and fruits,Radish,KG,actual,Retail,JPY,192.0,1.7874
+2020-05-15,Oosaka,Oosakasi_Tyuuooku,Osaka,34.69,135.5,cereals and tubers,Potatoes,KG,actual,Retail,JPY,426.0,3.9713
+2020-05-15,Oosaka,Oosakasi_Tyuuooku,Osaka,34.69,135.5,cereals and tubers,Rice,5 KG,actual,Retail,JPY,2349.0,21.898
+2020-05-15,Oosaka,Oosakasi_Tyuuooku,Osaka,34.69,135.5,cereals and tubers,Wheat flour,KG,actual,Retail,JPY,245.0,2.284
+2020-05-15,Oosaka,Oosakasi_Tyuuooku,Osaka,34.69,135.5,milk and dairy,Milk,L,actual,Retail,JPY,214.0,1.995
+2020-05-15,Oosaka,Oosakasi_Tyuuooku,Osaka,34.69,135.5,miscellaneous food,Sugar,KG,actual,Retail,JPY,185.0,1.7246
+2020-05-15,Oosaka,Oosakasi_Tyuuooku,Osaka,34.69,135.5,vegetables and fruits,Cabbage,KG,actual,Retail,JPY,314.0,2.9272
+2020-05-15,Oosaka,Oosakasi_Tyuuooku,Osaka,34.69,135.5,vegetables and fruits,Radish,KG,actual,Retail,JPY,200.0,1.8645
+2020-05-15,Tookyoo,Sinzyukuku,Tokyo,35.69,139.69,cereals and tubers,Potatoes,KG,actual,Retail,JPY,375.0,3.4959
+2020-05-15,Tookyoo,Sinzyukuku,Tokyo,35.69,139.69,cereals and tubers,Rice,5 KG,actual,Retail,JPY,2416.0,22.5226
+2020-05-15,Tookyoo,Sinzyukuku,Tokyo,35.69,139.69,cereals and tubers,"Rice (glutinous, unmilled)",KG,actual,Retail,JPY,613.0,5.7146
+2020-05-15,Tookyoo,Sinzyukuku,Tokyo,35.69,139.69,cereals and tubers,Wheat flour,KG,actual,Retail,JPY,261.0,2.4331
+2020-05-15,Tookyoo,Sinzyukuku,Tokyo,35.69,139.69,milk and dairy,Milk,L,actual,Retail,JPY,216.0,2.0136
+2020-05-15,Tookyoo,Sinzyukuku,Tokyo,35.69,139.69,miscellaneous food,Sugar,KG,actual,Retail,JPY,198.0,1.8458
+2020-05-15,Tookyoo,Sinzyukuku,Tokyo,35.69,139.69,vegetables and fruits,Cabbage,KG,actual,Retail,JPY,266.0,2.4797
+2020-05-15,Tookyoo,Sinzyukuku,Tokyo,35.69,139.69,vegetables and fruits,Radish,KG,actual,Retail,JPY,199.0,1.8551
+2020-06-15,Oosaka,Oosakasi_Tyuuooku,Osaka,34.69,135.5,cereals and tubers,Potatoes,KG,actual,Retail,JPY,484.0,4.5095
+2020-06-15,Oosaka,Oosakasi_Tyuuooku,Osaka,34.69,135.5,cereals and tubers,Rice,5 KG,actual,Retail,JPY,2394.0,22.305
+2020-06-15,Oosaka,Oosakasi_Tyuuooku,Osaka,34.69,135.5,cereals and tubers,Wheat flour,KG,actual,Retail,JPY,249.0,2.3199
+2020-06-15,Oosaka,Oosakasi_Tyuuooku,Osaka,34.69,135.5,milk and dairy,Milk,L,actual,Retail,JPY,218.0,2.0311
+2020-06-15,Oosaka,Oosakasi_Tyuuooku,Osaka,34.69,135.5,miscellaneous food,Sugar,KG,actual,Retail,JPY,185.0,1.7237
+2020-06-15,Oosaka,Oosakasi_Tyuuooku,Osaka,34.69,135.5,vegetables and fruits,Cabbage,KG,actual,Retail,JPY,219.0,2.0404
+2020-06-15,Oosaka,Oosakasi_Tyuuooku,Osaka,34.69,135.5,vegetables and fruits,Radish,KG,actual,Retail,JPY,209.0,1.9473
+2020-06-15,Tookyoo,Sinzyukuku,Tokyo,35.69,139.69,cereals and tubers,Potatoes,KG,actual,Retail,JPY,454.0,4.2299
+2020-06-15,Tookyoo,Sinzyukuku,Tokyo,35.69,139.69,cereals and tubers,Rice,5 KG,actual,Retail,JPY,2395.0,22.3144
+2020-06-15,Tookyoo,Sinzyukuku,Tokyo,35.69,139.69,cereals and tubers,"Rice (glutinous, unmilled)",KG,actual,Retail,JPY,617.0,5.7486
+2020-06-15,Tookyoo,Sinzyukuku,Tokyo,35.69,139.69,cereals and tubers,Wheat flour,KG,actual,Retail,JPY,284.0,2.646
+2020-06-15,Tookyoo,Sinzyukuku,Tokyo,35.69,139.69,milk and dairy,Milk,L,actual,Retail,JPY,216.0,2.0125
+2020-06-15,Tookyoo,Sinzyukuku,Tokyo,35.69,139.69,miscellaneous food,Sugar,KG,actual,Retail,JPY,196.0,1.8261
+2020-06-15,Tookyoo,Sinzyukuku,Tokyo,35.69,139.69,vegetables and fruits,Cabbage,KG,actual,Retail,JPY,188.0,1.7516
+2020-06-15,Tookyoo,Sinzyukuku,Tokyo,35.69,139.69,vegetables and fruits,Radish,KG,actual,Retail,JPY,205.0,1.91
+2020-07-15,Oosaka,Oosakasi_Tyuuooku,Osaka,34.69,135.5,cereals and tubers,Potatoes,KG,actual,Retail,JPY,591.0,5.5275
+2020-07-15,Oosaka,Oosakasi_Tyuuooku,Osaka,34.69,135.5,cereals and tubers,Rice,5 KG,actual,Retail,JPY,2337.0,21.8575
+2020-07-15,Oosaka,Oosakasi_Tyuuooku,Osaka,34.69,135.5,cereals and tubers,"Rice (glutinous, unmilled)",KG,actual,Retail,JPY,569.0,5.3217
+2020-07-15,Oosaka,Oosakasi_Tyuuooku,Osaka,34.69,135.5,cereals and tubers,Wheat flour,KG,actual,Retail,JPY,249.0,2.3288
+2020-07-15,Oosaka,Oosakasi_Tyuuooku,Osaka,34.69,135.5,milk and dairy,Milk,L,actual,Retail,JPY,218.0,2.0389
+2020-07-15,Oosaka,Oosakasi_Tyuuooku,Osaka,34.69,135.5,miscellaneous food,Sugar,KG,actual,Retail,JPY,189.0,1.7677
+2020-07-15,Oosaka,Oosakasi_Tyuuooku,Osaka,34.69,135.5,vegetables and fruits,Cabbage,KG,actual,Retail,JPY,189.0,1.7677
+2020-07-15,Oosaka,Oosakasi_Tyuuooku,Osaka,34.69,135.5,vegetables and fruits,Radish,KG,actual,Retail,JPY,222.0,2.0763
+2020-07-15,Tookyoo,Sinzyukuku,Tokyo,35.69,139.69,cereals and tubers,Potatoes,KG,actual,Retail,JPY,489.0,4.5735
+2020-07-15,Tookyoo,Sinzyukuku,Tokyo,35.69,139.69,cereals and tubers,Rice,5 KG,actual,Retail,JPY,2417.0,22.6057
+2020-07-15,Tookyoo,Sinzyukuku,Tokyo,35.69,139.69,cereals and tubers,Wheat flour,KG,actual,Retail,JPY,277.0,2.5907
+2020-07-15,Tookyoo,Sinzyukuku,Tokyo,35.69,139.69,milk and dairy,Milk,L,actual,Retail,JPY,216.0,2.0202
+2020-07-15,Tookyoo,Sinzyukuku,Tokyo,35.69,139.69,miscellaneous food,Sugar,KG,actual,Retail,JPY,198.0,1.8519
+2020-07-15,Tookyoo,Sinzyukuku,Tokyo,35.69,139.69,vegetables and fruits,Cabbage,KG,actual,Retail,JPY,171.0,1.5993
+2020-07-15,Tookyoo,Sinzyukuku,Tokyo,35.69,139.69,vegetables and fruits,Radish,KG,actual,Retail,JPY,200.0,1.8706
+2020-08-15,Oosaka,Oosakasi_Tyuuooku,Osaka,34.69,135.5,cereals and tubers,Potatoes,KG,actual,Retail,JPY,677.0,6.3574
+2020-08-15,Oosaka,Oosakasi_Tyuuooku,Osaka,34.69,135.5,cereals and tubers,Rice,5 KG,actual,Retail,JPY,2412.0,22.65
+2020-08-15,Oosaka,Oosakasi_Tyuuooku,Osaka,34.69,135.5,cereals and tubers,"Rice (glutinous, unmilled)",KG,actual,Retail,JPY,558.0,5.2399
+2020-08-15,Oosaka,Oosakasi_Tyuuooku,Osaka,34.69,135.5,cereals and tubers,Wheat flour,KG,actual,Retail,JPY,249.0,2.3382
+2020-08-15,Oosaka,Oosakasi_Tyuuooku,Osaka,34.69,135.5,milk and dairy,Milk,L,actual,Retail,JPY,217.0,2.0378
+2020-08-15,Oosaka,Oosakasi_Tyuuooku,Osaka,34.69,135.5,miscellaneous food,Sugar,KG,actual,Retail,JPY,186.0,1.7466
+2020-08-15,Oosaka,Oosakasi_Tyuuooku,Osaka,34.69,135.5,vegetables and fruits,Cabbage,KG,actual,Retail,JPY,296.0,2.7796
+2020-08-15,Oosaka,Oosakasi_Tyuuooku,Osaka,34.69,135.5,vegetables and fruits,Radish,KG,actual,Retail,JPY,238.0,2.235
+2020-08-15,Tookyoo,Sinzyukuku,Tokyo,35.69,139.69,cereals and tubers,Potatoes,KG,actual,Retail,JPY,551.0,5.1742
+2020-08-15,Tookyoo,Sinzyukuku,Tokyo,35.69,139.69,cereals and tubers,Rice,5 KG,actual,Retail,JPY,2448.0,22.9881
+2020-08-15,Tookyoo,Sinzyukuku,Tokyo,35.69,139.69,cereals and tubers,Wheat flour,KG,actual,Retail,JPY,270.0,2.5354
+2020-08-15,Tookyoo,Sinzyukuku,Tokyo,35.69,139.69,milk and dairy,Milk,L,actual,Retail,JPY,216.0,2.0284
+2020-08-15,Tookyoo,Sinzyukuku,Tokyo,35.69,139.69,miscellaneous food,Sugar,KG,actual,Retail,JPY,197.0,1.8499
+2020-08-15,Tookyoo,Sinzyukuku,Tokyo,35.69,139.69,vegetables and fruits,Cabbage,KG,actual,Retail,JPY,263.0,2.4697
+2020-08-15,Tookyoo,Sinzyukuku,Tokyo,35.69,139.69,vegetables and fruits,Radish,KG,actual,Retail,JPY,216.0,2.0284
+2020-09-15,Oosaka,Oosakasi_Tyuuooku,Osaka,34.69,135.5,cereals and tubers,Potatoes,KG,actual,Retail,JPY,395.0,3.7441
+2020-09-15,Oosaka,Oosakasi_Tyuuooku,Osaka,34.69,135.5,cereals and tubers,Rice,5 KG,actual,Retail,JPY,2364.0,22.4076
+2020-09-15,Oosaka,Oosakasi_Tyuuooku,Osaka,34.69,135.5,cereals and tubers,"Rice (glutinous, unmilled)",KG,actual,Retail,JPY,568.0,5.3839
+2020-09-15,Oosaka,Oosakasi_Tyuuooku,Osaka,34.69,135.5,cereals and tubers,Wheat flour,KG,actual,Retail,JPY,254.0,2.4076
+2020-09-15,Oosaka,Oosakasi_Tyuuooku,Osaka,34.69,135.5,milk and dairy,Milk,L,actual,Retail,JPY,217.0,2.0569
+2020-09-15,Oosaka,Oosakasi_Tyuuooku,Osaka,34.69,135.5,miscellaneous food,Sugar,KG,actual,Retail,JPY,189.0,1.7915
+2020-09-15,Oosaka,Oosakasi_Tyuuooku,Osaka,34.69,135.5,vegetables and fruits,Cabbage,KG,actual,Retail,JPY,241.0,2.2844
+2020-09-15,Oosaka,Oosakasi_Tyuuooku,Osaka,34.69,135.5,vegetables and fruits,Radish,KG,actual,Retail,JPY,215.0,2.0379
+2020-09-15,Tookyoo,Sinzyukuku,Tokyo,35.69,139.69,cereals and tubers,Potatoes,KG,actual,Retail,JPY,408.0,3.8673
+2020-09-15,Tookyoo,Sinzyukuku,Tokyo,35.69,139.69,cereals and tubers,Rice,5 KG,actual,Retail,JPY,2431.0,23.0427
+2020-09-15,Tookyoo,Sinzyukuku,Tokyo,35.69,139.69,cereals and tubers,Wheat flour,KG,actual,Retail,JPY,268.0,2.5403
+2020-09-15,Tookyoo,Sinzyukuku,Tokyo,35.69,139.69,milk and dairy,Milk,L,actual,Retail,JPY,216.0,2.0474
+2020-09-15,Tookyoo,Sinzyukuku,Tokyo,35.69,139.69,miscellaneous food,Sugar,KG,actual,Retail,JPY,198.0,1.8768
+2020-09-15,Tookyoo,Sinzyukuku,Tokyo,35.69,139.69,vegetables and fruits,Cabbage,KG,actual,Retail,JPY,226.0,2.1422
+2020-09-15,Tookyoo,Sinzyukuku,Tokyo,35.69,139.69,vegetables and fruits,Radish,KG,actual,Retail,JPY,200.0,1.8957
